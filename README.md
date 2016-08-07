@@ -69,6 +69,7 @@
 
 ## C
 
+* [matio](https://github.com/tbeu/matio) - MATLAB MAT File I/O Library
 * [torch7](https://github.com/torch/torch7) - http://torch.ch
 * [net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 * [pick](https://github.com/thoughtbot/pick) - A fuzzy search tool for the command-line
@@ -129,6 +130,7 @@
 * [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
+* [models](https://github.com/tensorflow/models) - Models built with TensorFlow
 * [hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 * [redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 * [yosong](https://github.com/yangyangwithgnu/yosong) - baidu.com song final download parse tool
@@ -348,6 +350,9 @@
 
 ## HTML
 
+* [sicp](https://github.com/sicp-lang/sicp) - A SICP language for Racket.
+* [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
+* [learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
 * [Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 * [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - 
 * [DiscoverMeteor_zh](https://github.com/DiscoverMeteor/DiscoverMeteor_zh) - Discover Meteor 中文版
@@ -382,6 +387,7 @@
 
 ## Java
 
+* [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) - Purified version of Zhihu Daily - 更纯净的知乎日报
 * [jlatexmath](https://github.com/opencollab/jlatexmath) - A Java API to render LaTeX
 * [effective-java-examples](https://github.com/marhan/effective-java-examples) - Source code to the book "Effective Java Second Edition" created by Joshua Bloch
 * [effectivejava](https://github.com/ftomassetti/effectivejava) - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others.
@@ -429,6 +435,9 @@
 
 ## JavaScript
 
+* [scala-notebook](https://github.com/Bridgewater/scala-notebook) - Interactive Scala REPL in a browser
+* [darkreader](https://github.com/alexanderby/darkreader) - Dark Reader Chrome extension
+* [typed.js](https://github.com/mattboldt/typed.js) - A jQuery typing animation script.
 * [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 * [the-super-tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 * [5to6](https://github.com/mping/5to6) - Converts es5 to es6, using simple and safe transforms
@@ -551,7 +560,7 @@
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 * [iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
 * [mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
-* [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from the scikit-learn video series
+* [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 * [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 
 ## Lua
@@ -587,9 +596,13 @@
 
 ## Others
 
+* [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 130 color schemes/themes for iTerm/iTerm2
+* [PythonTG](https://github.com/PythonTG/PythonTG) - Python Translation Group
+* [cnblogs](https://github.com/jiangxincode/cnblogs) - 一些我在平时工作和学习中积累的编程相关的资源。如果大家有兴趣可以一起增加，修改。
+* [MachineLearningCourse](https://github.com/warmheartli/MachineLearningCourse) - 机器学习精简入门教程
 * [redux-in-chinese](https://github.com/camsong/redux-in-chinese) - Redux 中文文档
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
-* [awesome-github](https://github.com/AntBranch/awesome-github) - 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+* [awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 * [spark-graphx-source-analysis](https://github.com/endymecy/spark-graphx-source-analysis) - spark graphx 的原理及相关操作的源码解析
 * [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - 3D reproduction of TSA Master keys
 * [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
@@ -742,6 +755,9 @@
 
 ## Python
 
+* [alfred-firefoxbookmarks](https://github.com/nikipore/alfred-firefoxbookmarks) - Alfred Workflow: Access to Firefox Bookmarks and User Input History
+* [360yunpan](https://github.com/logbird/360yunpan) - 360YunPan Command-line tools, support: Linux Mac Windows
+* [A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 * [tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
@@ -814,7 +830,6 @@
 * [baidupcsapi](https://github.com/ly0/baidupcsapi) - 百度网盘api
 * [baidu-pcs-python-sdk](https://github.com/mozillazg/baidu-pcs-python-sdk) - 百度个人云存储（PCS）Python SDK. （推荐改用百度网盘 API： https://github.com/ly0/baidupcsapi ）
 * [pinyin-data](https://github.com/mozillazg/pinyin-data) - 汉字拼音数据
-* [models](https://github.com/tensorflow/models) - Models built with TensorFlow
 * [waf](https://github.com/waf-project/waf) - The Waf build system
 * [trufont](https://github.com/trufont/trufont) - A ufo3 font editor. À l’ancienne.
 * [snake-ai](https://github.com/Hawstein/snake-ai) - a snake AI written in python
@@ -870,7 +885,7 @@
 * [fucksvn](https://github.com/dontcontactme/fucksvn) - 回溯SVN仓库, 根据关键字在指定文件里找出该关键字第一作者和版本号.
 * [zhihu-python](https://github.com/egrcc/zhihu-python) - 获取知乎内容信息，包括问题，答案，用户，收藏夹信息
 * [doubanspiders](https://github.com/dontcontactme/doubanspiders) - 豆瓣电影、书籍、小组、相册、东西等爬虫集 writen in Python
-* [FeelUOwn](https://github.com/cosven/FeelUOwn) - nothing but the alternate, for dever
+* [FeelUOwn](https://github.com/cosven/FeelUOwn) - nothing but the alternate
 * [ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) - Forked from the inactive Google Code project ipv6 hosts: https://code.google.com/p/ipv6-hosts/
 * [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 * [ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别
@@ -982,10 +997,12 @@
 
 ## Racket
 
+* [math](https://github.com/racket/math) - 
 * [tex2page](https://github.com/ds26gte/tex2page) - 
 
 ## Ruby
 
+* [markdownlint](https://github.com/mivok/markdownlint) - Markdown lint tool
 * [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 * [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 * [oh-my-love](https://github.com/xiaohanyu/oh-my-love) - Love story for my lovely girl.
@@ -1012,6 +1029,7 @@
 
 ## Scheme
 
+* [yscheme](https://github.com/tiancaiamao/yscheme) - a compiler from a subset of Scheme into X64
 * [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 * [sicp-study](https://github.com/trptcolin/sicp-study) - Working through exercises in SICP (Abelson/Sussman _The Structure and Interpretation of Computer Programs_)
 * [yscheme](https://github.com/yinwang0/yscheme) - a compiler from Scheme into X64
