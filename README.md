@@ -53,6 +53,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VimL](#viml)
+  - [Vue](#vue)
   - [XSLT](#xslt)
 
 ## Assembly 
@@ -128,6 +129,8 @@
 
 ## C++ 
 
+- [autoshadower](https://github.com/yangyangwithgnu/autoshadower) - autoshadower is so sweet, she will find many free shadowsoks accounts for you, do her best!
+- [magma](https://github.com/maxhutch/magma) - Fork of magma to include more BLAS
 - [orbital](https://github.com/giucam/orbital) - A Wayland compositor based on Weston and Qt
 - [thor-os](https://github.com/wichtounet/thor-os) - Simple operating system in C++, written from scratch
 - [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
@@ -163,12 +166,16 @@
 
 ## CSS 
 
+- [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+- [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh) - :book:【译】UCB CS61a SICP Python
+- [scala-types-of-types](https://github.com/ktoso/scala-types-of-types) - Scala's Types of Types
+- [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的中文翻译
+- [Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [plt](https://github.com/steshaw/plt) - A path to Programming Language Theory enlightenment
 - [You-Dont-Need-Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript) - Css is powerful, you can do a lot of things without js.
 - [modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 - [modernist](https://github.com/orderedlist/modernist) - A Theme for GitHub Pages
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [resume-master](https://github.com/hawx1993/resume-master) - A resume generator that read from json data and generate static pages
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [star-history-plugin](https://github.com/timqian/star-history-plugin) - A chrome extension showing star history graph of github repository
@@ -180,7 +187,7 @@
 - [easyFindNumber](https://github.com/WittBulter/easyFindNumber) - easyFindNumber
 - [typora-writing-theme](https://github.com/ronilaukkarinen/typora-writing-theme) - A simple Typora theme just for distract-free writing.
 - [code](https://github.com/douban/code) - Douban CODE
-- [http2-explained](https://github.com/bagder/http2-explained) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+- [http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How you export Org mode files into awesome HTML in 2 minutes
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [der](https://github.com/huangz1990/der) - 《Redis 设计与实现》所使用的 sphinx 样式。
@@ -192,9 +199,9 @@
 - [using-cli](https://github.com/xuxiaodong/using-cli) - Using the command line like a hacker
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [gso](https://github.com/lenbo-ma/gso) - 使用NodeJs编写的谷歌搜索代理程序. 此代码仅供学习，已停止更新，建议使用其他科学上网方案.
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [markdown-resume-js](https://github.com/c0bra/markdown-resume-js) - Turn a simple markdown document into a resume in HTML and PDF
+- [gotgithub](https://github.com/gotgit/gotgithub) - GotGitHub: an open source E-book about GitHub in Chinese
 
 ## Clojure 
 
@@ -219,6 +226,7 @@
 
 ## Common Lisp 
 
+- [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [opticl](https://github.com/slyrus/opticl) - An image processing library for Common Lisp
 - [let-over-lambda](https://github.com/thephoeron/let-over-lambda) - Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.
 - [sketch](https://github.com/vydd/sketch) - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
@@ -246,6 +254,7 @@
 
 ## Emacs Lisp 
 
+- [haskell-style-guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 - [elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
 - [dotemacs](https://github.com/gongzhitaao/dotemacs) - My Emacs configuration
 - [emacs-helper](https://github.com/tumashu/emacs-helper) - 
@@ -333,6 +342,7 @@
 
 ## GCC Machine Description 
 
+- [gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目
 
@@ -351,7 +361,7 @@
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go入门指南》
 - [mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers
 - [wego](https://github.com/schachmat/wego) - weather app for the terminal
-- [lantern](https://github.com/getlantern/lantern) - :zap: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
+- [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [goproxy](https://github.com/phuslu/goproxy) - a go proxy
 - [experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
@@ -365,11 +375,16 @@
 
 ## HTML 
 
+- [encoding](https://github.com/whatwg/encoding) - Encoding Standard
+- [Resume](https://github.com/DIYgod/Resume) - :wind_chime:看:sparkles:数就知道这一定是:earth_asia:最:ox:的个人简历
+- [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various different notebook extensions for Jupyter
+- [Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
+- [kali-tools-zh](https://github.com/louchaooo/kali-tools-zh) - kali linux 工具使用（中文版）
 - [Entry.css](https://github.com/zmmbreeze/Entry.css) - Customizable and readable less library for Chinese text. 一个可配置的、更适合阅读的中文文章样式库
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [d3-tutorial-cn](https://github.com/pkuwwt/d3-tutorial-cn) - Chinese version of D3 tutorials
-- [cdwanze.github.io](https://github.com/cdwanze/cdwanze.github.io) - 
+- [cdwanze.github.io](https://github.com/cdwanze/cdwanze.github.io) - 享受学习，乐于分享
 - [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [sicp](https://github.com/sicp-lang/sicp) - A SICP language for Racket.
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
@@ -386,7 +401,7 @@
 - [warpwallet](https://github.com/keybase/warpwallet) - A brain wallet generator that uses scrypt.
 - [scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [Rime_collections](https://github.com/LEOYoon-Tsaw/Rime_collections) - All collections for Rime IME
-- [resumecards](https://github.com/ellekasai/resumecards) - A Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
+- [resumecards](https://github.com/ellekasai/resumecards) - [Unmaintained] A Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
 - [melody-jsnes](https://github.com/olahol/melody-jsnes) - :tv: Multiplayer NES through the magic of WebSockets and Go.
 - [pkuwebmaster](https://github.com/pku-birdmen/pkuwebmaster) - PKU IPGW Chrome Extension
 - [git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
@@ -408,7 +423,8 @@
 
 ## Java 
 
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android开发人员不得不收集的代码(持续更新中)
+- [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 - [BezierMaker](https://github.com/venshine/BezierMaker) - 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画。
 - [javaslang](https://github.com/javaslang/javaslang) - A functional library for Java 8+ that provides persistent data types and functional control structures.
 - [auto](https://github.com/google/auto) - A collection of source code generators for Java.
@@ -461,6 +477,11 @@
 
 ## JavaScript 
 
+- [gfwlist2pac](https://github.com/itcook/gfwlist2pac) - Convert GFWList into O(1) PAC file
+- [llthw](https://github.com/LispTO/llthw) - Learn Lisp The Hard Way source-code and full book text
+- [to-markdown](https://github.com/domchristie/to-markdown) - An HTML to Markdown converter written in JavaScript
+- [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
+- [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) - Tabbed navigation that you can swipe between, each tab can have  its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat user/repo/issue hovercards for GitHub.
 - [awesome-react](https://github.com/react-page/awesome-react) - react china 学习资料
@@ -490,11 +511,12 @@
 - [banks-db](https://github.com/ramoona/banks-db) - Returns bank name and brand color by bankcard prefix (BIN)
 - [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [stability-badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [New-Tongwentang-for-Chrome](https://github.com/softcup/New-Tongwentang-for-Chrome) - 
-- [gitopen](https://github.com/hotoo/gitopen) - Open git/hg/svn remote from browser.
+- [gitopen](https://github.com/hotoo/gitopen) - :twisted_rightwards_arrows: Open git/hg/svn remote from browser.
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
 - [pangu.js](https://github.com/vinta/pangu.js) - 為什麼你們就是不能加個空格呢？
@@ -509,7 +531,7 @@
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [mama2](https://github.com/zythum/mama2) - 妈妈计划-众人拾柴火焰高
-- [front-end-plugins](https://github.com/iamjoel/front-end-plugins) - 前端常用插件汇总
+- [front-end-plugins](https://github.com/iamjoel/front-end-plugins) - :whale2: Web 前端常用插件汇总
 - [pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [Hozz](https://github.com/ppoffice/Hozz) - A better way to manage your hosts.
@@ -529,14 +551,14 @@
 - [chartx](https://github.com/thx/chartx) - Data Visualization Solutions
 - [emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
-- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Fewer bugs, more features. Built with Electron by Zhongyi Tong.
+- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [gooreplacer](https://github.com/jiacai2050/gooreplacer) - 一个用于替换网页中Google Fonts/API/themes等的Firefox插件，让你快速打开引用这些资源的页面 :-)
 - [gooreplacer4chrome](https://github.com/jiacai2050/gooreplacer4chrome) - 一个用于替换网页中Google Fonts/API/themes等的Chrome插件，让你快速打开引用这些资源的页面 :-)
-- [pinyinlite](https://github.com/SummerWish/pinyinlite) - Lightweight Pinyin library for JavaScript
+- [pinyinlite](https://github.com/breeswish/pinyinlite) - Lightweight Pinyin library for JavaScript
 - [BaiduExporter](https://github.com/acgotaku/BaiduExporter) - Assistant for Baidu to export download links to aria2/aria2-rpc
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [ant-ux](https://github.com/ant-design/ant-ux) - :guitar: A sitemap template for ux design
-- [mapv](https://github.com/huiyan-fe/mapv) - 地图可视化工具库,canvas,map,visualization
+- [mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
 - [markdown-plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features.
 - [mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
@@ -567,6 +589,7 @@
 - [gh](https://github.com/node-gh/gh) - GitHub command line tools made with NodeJS
 - [gnome-shell-extensions-pidgin](https://github.com/gutenye/gnome-shell-extensions-pidgin) - gnome shell extension - pidgin
 - [Google-IPs](https://github.com/justjavac/Google-IPs) - :us: Google 全球 IP 地址库
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [andrewyuan.github.io](https://github.com/andrewyuan/andrewyuan.github.io) - 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [zethos](https://github.com/Zolmeister/zethos) - A speed reading tool for reaching 500wpm
@@ -597,7 +620,7 @@
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [python-ternary](https://github.com/marcharper/python-ternary) - :small_red_triangle: Ternary plotting for python with matplotlib
 - [odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) - Material for ODSCON San Francisco 2015
-- [hdbscan](https://github.com/lmcinnes/hdbscan) - A high performance implementation of HDBSCAN clustering. http://hdbscan.readthedocs.io/en/latest/
+- [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
 - [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 - [iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
@@ -621,6 +644,7 @@
 
 ## Makefile 
 
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
 - [Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension
@@ -642,6 +666,11 @@
 
 ## Others 
 
+- [information-technology-ebooks](https://github.com/shootthepoets/information-technology-ebooks) - 
+- [designing-with-libreoffice-zh](https://github.com/mytbk/designing-with-libreoffice-zh) - Chinese translation project of Designing with LibreOffice
+- [CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
+- [awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+- [cfm](https://github.com/drvinceknight/cfm) - Repository for a Python and LaTeX course for university Mathematics students
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub
@@ -682,7 +711,6 @@
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [Google-IP-Range](https://github.com/Rongronggg9/Google-IP-Range) - 一个超大的 Google 全球 IP 扫描范围库
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
@@ -711,7 +739,7 @@
 - [china_ip_list](https://github.com/17mon/china_ip_list) - 
 - [awesome-movie](https://github.com/nightink/awesome-movie) - awesome movie
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
-- [hospital-viz](https://github.com/wandergis/hospital-viz) - 根据网络来源的数据地理可视化，在线查看——
+- [hospital-viz](https://github.com/wandergis/hospital-viz) - 根据网络来源的数据地理可视化，在线查看
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [i2p-the-book](https://github.com/kenpusney/i2p-the-book) - Introduction to Programming
 - [Cangjie6](https://github.com/LEOYoon-Tsaw/Cangjie6) - 蒼頡檢字法
@@ -791,6 +819,7 @@
 
 ## PHP 
 
+- [Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face:最全的资源教程-前端涉及的所有知识体系
 - [wechat](https://github.com/overtrue/wechat) - :package: Maybe it is the best SDK for develop WeChat App.
 - [paperwork](https://github.com/twostairs/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
@@ -818,6 +847,17 @@
 
 ## Python 
 
+- [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of over 25 patched fonts (over 5,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more
+- [genpac](https://github.com/JinnLynn/genpac) - PAC file Generator,  working with gfwlist, support custom rules.
+- [fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
+- [stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
+- [email-reply-parser](https://github.com/zapier/email-reply-parser) - Email reply parser library for Python
+- [attrs](https://github.com/hynek/attrs) - Python Attributes Without Boilerplate
+- [tornado-proxy-server](https://github.com/thinxer/tornado-proxy-server) - proxy server in python with upstream support
+- [wooyun_public](https://github.com/hanc00l/wooyun_public) - 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
+- [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - 🐧 A curated list of awesome applications, softwares, tools and other materials for Linux distros.
+- [InsideReCaptcha](https://github.com/neuroradiology/InsideReCaptcha) - Reverse-engineering the new “captchaless” ReCaptcha system...
 - [coala](https://github.com/coala-analyzer/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [algorithm](https://github.com/qiwsir/algorithm) - 
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
@@ -876,7 +916,7 @@
 - [hyper](https://github.com/Lukasa/hyper) - HTTP/2 for Python.
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase Automation Platform
 - [DateTimeRange](https://github.com/thombashi/DateTimeRange) - Python library to handle routine work associated with a time range, such as test whether a time is within the time range, get time range intersection, truncating time range, etc.
-- [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
 - [Login_every](https://github.com/taizilongxu/Login_every) - 收集各个网站用python实现登录的方法
 - [xonsh](https://github.com/xonsh/xonsh) - xonsh is a Python-ish, BASHwards-facing shell.
@@ -922,7 +962,6 @@
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [diy-lisp](https://github.com/kvalle/diy-lisp) - A hands-on, test driven guide to implementing a simple programming language
 - [fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试
-- [guidetodatamining](https://github.com/egrcc/guidetodatamining) - 面向程序员的数据挖掘指南
 - [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
 - [VdiskSDK-Python](https://github.com/CloudSide/VdiskSDK-Python) - Python SDK For Vdisk
 - [z-dns](https://github.com/warriorpaw/z-dns) - Automatically exported from code.google.com/p/z-dns
@@ -1009,7 +1048,7 @@
 - [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ranwhen](https://github.com/p-e-w/ranwhen) - Visualize when your system was running
-- [mytodo](https://github.com/mohamed-aziz/mytodo) - A simple free/libre todo list manager
+- [mytodo](https://github.com/mohamed-aziz/mytodo) - A simple free/libre todo list manager.
 - [nbviewer](https://github.com/jupyter/nbviewer) - Nbconvert as a webservice (rendering ipynb to static HTML)
 - [nikola](https://github.com/getnikola/nikola) - A static website and blog generator
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -1061,7 +1100,6 @@
 - [mutagen](https://github.com/LordSputnik/mutagen) - Project to create a Python 3 library, functionally equivalent to mutagen.
 - [tito](https://github.com/dgoodwin/tito) - A tool for managing rpm based git projects.
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
-- [gotgithub](https://github.com/gotgit/gotgithub) - GotGitHub: an open source E-book about GitHub in Chinese
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [kwplayer](https://github.com/LiuLang/kwplayer) - 酷我音乐盒的linux客户端
 
@@ -1077,6 +1115,9 @@
 
 ## Racket 
 
+- [my-cond](https://github.com/AlexKnauth/my-cond) - a version of cond that supports a for/cond-clause form, allowing it to iterate though conditions
+- [racket-json-mapping](https://github.com/adolfopa/racket-json-mapping) - A simple syntactic form to map jsexpr to racket structs.
+- [markdown](https://github.com/greghendershott/markdown) - Markdown parser written in Racket.
 - [iPoe](https://github.com/bennn/iPoe) - Interactive POetry Editor
 - [racket](https://github.com/racket/racket) - The Racket repository
 - [PyonR](https://github.com/pedropramos/PyonR) - A Python implementation for Racket
@@ -1097,6 +1138,7 @@
 
 ## Ruby 
 
+- [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries
 - [markdownlint](https://github.com/mivok/markdownlint) - Markdown lint tool
 - [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 - [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
@@ -1126,6 +1168,7 @@
 
 ## Scheme 
 
+- [owl-lisp](https://github.com/aoh/owl-lisp) - a functional lisp
 - [pregexp](https://github.com/ds26gte/pregexp) - 
 - [interpreters](https://github.com/yinwang0/interpreters) - Example interpreters for education purposes
 - [yscheme](https://github.com/tiancaiamao/yscheme) - a compiler from a subset of Scheme into X64
@@ -1152,6 +1195,7 @@
 
 ## Shell 
 
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 - [travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis with Racket
 - [inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and also runs somewhat on BSDs.
 - [with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
@@ -1225,6 +1269,8 @@
 
 ## TeX 
 
+- [pkuthssLyX](https://github.com/qinweilun/pkuthssLyX) - A LyX template for thesis of Peking University
+- [svn](https://github.com/wuzhouhui/svn) - Subversion 简明教程, 翻译作品
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [lshort-cn](https://github.com/CTeX-org/lshort-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [bigdata](https://github.com/haifengl/bigdata) - Introduction to Big Data
@@ -1239,7 +1285,7 @@
 - [awk](https://github.com/wuzhouhui/awk) - :book:  The AWK Programming Language (AWK 程序设计语言) 中文翻译, LaTeX 排版
 - [blood](https://github.com/logological/blood) - A LaTeX reproduction of "Persecution of New Ideas" by C. L. Blood
 - [TheWayMATLABLearning](https://github.com/HereChen/TheWayMATLABLearning) - 总结 MATALB 使用过程中学到的东西，点滴积累。既有功能描述，也有编程技能的描述。
-- [yLaTeX](https://github.com/thib1235/yLaTeX) - My LaTeX projects (classes, packages and more)!
+- [yLaTeX](https://github.com/HarveySheppard/yLaTeX) - My LaTeX projects (classes, packages and more)!
 - [HouseBlessing](https://github.com/MaxNoe/HouseBlessing) - Remake in LaTeX of our beautifully calligraphed house blessing.
 - [emacs-lisp-cn](https://github.com/fortitudezhang/emacs-lisp-cn) - emacs lisp文档中文翻译
 - [biblatex-caspervector](https://github.com/CasperVector/biblatex-caspervector) - A simple, nice and easily extensible biblography / citation style for Chinese LaTeX users
@@ -1256,12 +1302,14 @@
 
 ## TypeScript 
 
+- [jupyterlab](https://github.com/jupyter/jupyterlab) - JupyterLab computational environment. This is a very early preview, and is not suitable for general usage yet.
 - [black-screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [ppietnu-report-style](https://github.com/betamint/ppietnu-report-style) - Standard TeXmacs styles for report of PPIETNU (Planning Project for Innovation and Entrepreneurship Training of National Undergraduate) in China
 
 ## VimL 
 
+- [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
@@ -1274,6 +1322,10 @@
 - [readnovel](https://github.com/vim-scripts/readnovel) - 看中文txt小说插件
 - [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
+
+## Vue 
+
+- [eme](https://github.com/egoist/eme) - Elegant Markdown Editor.
 
 ## XSLT 
 
