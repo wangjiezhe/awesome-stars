@@ -74,7 +74,6 @@
 ## C 
 
 - [8cc](https://github.com/rui314/8cc) - A Small C Compiler
-- [RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
 - [NCCL](https://github.com/limingth/NCCL) - New Concept C Language
 - [386bsd](https://github.com/386bsd/386bsd) - 386BSD
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross platform community driven port of the windows application “Keepass Password Safe”.
@@ -155,6 +154,7 @@
 - [hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 - [redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [yosong](https://github.com/yangyangwithgnu/yosong) - baidu.com song final download parse tool
+- [mxnet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy S devices.
 - [Mutate](https://github.com/qdore/Mutate) - A simple launcher inspired by Alfred for ubuntu and Fedora.
 - [fqterm](https://github.com/mytbk/fqterm) - 
@@ -178,6 +178,7 @@
 
 ## CSS 
 
+- [asani-zh](https://github.com/wizardforcel/asani-zh) - :book: [译]浅入浅出 Android 安全
 - [gimp-book](https://github.com/wide288/gimp-book) - 
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh) - :book:【译】UCB CS61a SICP Python
@@ -190,6 +191,7 @@
 - [modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 - [modernist](https://github.com/orderedlist/modernist) - A Theme for GitHub Pages
 - [resume-master](https://github.com/hawx1993/resume-master) - A resume generator that read from json data and generate static pages
+- [elpa](https://github.com/emacs-china/elpa) - Emacs China ELPA 镜像
 - [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [star-history-plugin](https://github.com/timqian/star-history-plugin) - A chrome extension showing star history graph of github repository
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -399,7 +401,7 @@
 - [website](https://github.com/SICPDistilled/website) - 
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Resume](https://github.com/DIYgod/Resume) - :wind_chime:看:sparkles:数就知道这一定是:earth_asia:最:ox:的个人简历
-- [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various different notebook extensions for Jupyter
+- [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [kali-tools-zh](https://github.com/louchaooo/kali-tools-zh) - 😛kali linux 工具使用（中文机翻版）
 - [Entry.css](https://github.com/zmmbreeze/Entry.css) - Customizable and readable less library for Chinese text. 一个可配置的、更适合阅读的中文文章样式库
 - [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor.
@@ -503,6 +505,7 @@
 
 ## JavaScript 
 
+- [KaTeX](https://github.com/Khan/KaTeX) - Fast math typesetting for the web.
 - [Glyphr-Studio-Desktop](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) - A desktop client for Glyphr Studio built in electron
 - [zhihu-api](https://github.com/syaning/zhihu-api) - Unofficial API for zhihu.
 - [effective-javascript](https://github.com/dreamapplehappy/effective-javascript) - To be, or not to be, that is a question! :joy: 万剑归宗的无名和独霸天下的雄霸
@@ -651,12 +654,12 @@
 
 ## Jupyter Notebook 
 
+- [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2) - Book and code for Think Complexity, 2nd edition
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning" book code repository and info resource
 - [emacs-ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook) - Jupyter and IPython 2.x/3.x notebook client in Emacs
 - [tutorials-scikit-learn](https://github.com/glouppe/tutorials-scikit-learn) - Scikit-Learn tutorials
 - [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - Structured data about Panama papers collected from official ICIJ website
-- [mxnet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [python-ternary](https://github.com/marcharper/python-ternary) - :small_red_triangle: Ternary plotting library for python with matplotlib
@@ -714,7 +717,6 @@
 
 - [the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) - 《The Little Go Book》中文译本，中文正式名《Go简易教程》
 - [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
-- [asani-zh](https://github.com/wizardforcel/asani-zh) - :book: [译]浅入浅出 Android 安全
 - [sqlalchemy-docs-CN](https://github.com/linux-wang/sqlalchemy-docs-CN) - sqlalchemy文档中文翻译之小学生英语水平版
 - [Scapy_zh-cn](https://github.com/Larryxi/Scapy_zh-cn) - Scapy中文使用文档
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
@@ -724,6 +726,7 @@
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
 - [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 
@@ -749,7 +752,7 @@
 - [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
 - [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [wiki](https://github.com/huguangju/wiki) - A curated list of awesome lists of Java, JavaScript, Nodejs, Andorid, CSS and Python on Github
-- [Some_iOS_Tutorials_With_Swift](https://github.com/yrq110/Some_iOS_Tutorials_With_Swift) - Translate some iOS tutorials with swift in Chinese
+- [some-ios-tutorials-with-swift](https://github.com/yrq110/some-ios-tutorials-with-swift) - Translate some iOS tutorials with Swift in Chinese
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [book](https://github.com/qyuhen/book) - 学习笔记
 - [Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python](https://github.com/cundi/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python) - 《Python算法和数据结构问题解答》
@@ -773,7 +776,6 @@
 - [Kali-Linux-Pentest-Basic](https://github.com/sysorem/Kali-Linux-Pentest-Basic) - PowerPonit of "Kali Linux Pentest Basic"
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书汇总
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
@@ -840,11 +842,11 @@
 - [translations](https://github.com/oldratlee/translations) - :panda_face: Chinese translations for classic IT resources
 - [Chinese_Laws](https://github.com/DannyVim/Chinese_Laws) - 这是收集中国法律的集合，尽量在短时间内更新完整
 - [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) - A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php.
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going).
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone.
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn
 - [CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
-- [mastering-apache-spark-book](https://github.com/jaceklaskowski/mastering-apache-spark-book) - Towards mastery of Apache Spark 2.0
+- [mastering-apache-spark-book](https://github.com/jaceklaskowski/mastering-apache-spark-book) - Mastering Apache Spark 2.0
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [emacs-tutorial-in-chinese](https://github.com/empenguinxh/emacs-tutorial-in-chinese) - emacs系列教程，中文写作
 - [hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
@@ -882,6 +884,7 @@
 
 ## PHP 
 
+- [NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) - 网易云音乐 API，PHP 版
 - [Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
 - [whatanime.ga](https://github.com/soruly/whatanime.ga) - Image Reverse Search for Anime Scenes
 - [Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face:最全的资源教程-前端涉及的所有知识体系
@@ -923,7 +926,7 @@
 
 ## Python 
 
-- [IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxys代理池项目，提供代理ip
+- [IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxyPool代理池项目，提供代理ip
 - [GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython) - source code from the book Genetic Algorithms with Python by Clinton Sheppard
 - [bilibili-icons](https://github.com/petronny/bilibili-icons) - 批量下载bilibili.com右上角的动图
 - [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
@@ -1092,7 +1095,7 @@
 - [checkiptools](https://github.com/xyuanmu/checkiptools) - CheckIPTools 扫描谷歌IP以及实用IP转换小工具
 - [douban-client](https://github.com/douban/douban-client) - Python client library for Douban APIs (OAuth 2.0)
 - [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
-- [Axelrod](https://github.com/Axelrod-Python/Axelrod) - A research tool to run Iterated Prisoner's Dilemma tournaments
+- [Axelrod](https://github.com/Axelrod-Python/Axelrod) - A research tool for the Iterated Prisoner's Dilemma
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.
 - [openyoudao](https://github.com/justzx2011/openyoudao) - openyoudao is a youdao client for linux.有道字典在Linux下的客户端，目前程序已经进入aur源，并支持Debian/Ubuntu fedora/centos 等常用发行版linux
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
@@ -1238,6 +1241,7 @@
 
 - [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries
 - [markdownlint](https://github.com/mivok/markdownlint) - Markdown lint tool
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
 - [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 - [oh-my-love](https://github.com/xiaohanyu/oh-my-love) - [Sleepy]Love story for my lovely girl.
@@ -1258,7 +1262,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 - [way-cooler](https://github.com/Immington-Industries/way-cooler) - Customizable Wayland compositor (window manager)
 - [swapview](https://github.com/lilydjwg/swapview) - Print swap usage per process. Implemented in various programming languages
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. For MacOS X. (Rust)
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. (Rust)
 
 ## Scala 
 
@@ -1296,6 +1300,7 @@
 
 ## Shell 
 
+- [neofetch](https://github.com/dylanaraps/neofetch) - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd and Windows (Cygwin/Windows 10 Linux subsystem)
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [ipgw](https://github.com/QwertyJack/ipgw) - ipgw
 - [rime_schemata](https://github.com/biopolyhedron/rime_schemata) - polyhedron的rime多語種碼表（已拆分、停止更新）
@@ -1317,7 +1322,6 @@
 - [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Accelerate Chinese Domains via Dnsmasq
 - [startapi.sh](https://github.com/Neilpang/startapi.sh) - A pure unix shell script for automatied startssl free certificate client
 - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
-- [elpa](https://github.com/emacs-china/elpa) - Emacs China ELPA 镜像
 - [zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [cheat](https://github.com/jahendrie/cheat) - A Bash reimplementation of Chris Lane's cheat sheet script
 - [debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
