@@ -98,7 +98,7 @@
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
-- [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
 - [zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [gaeproxy](https://github.com/madeye/gaeproxy) - GAEProxy for Android (Deprecated)
@@ -168,7 +168,6 @@
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [rime-gits](https://github.com/lotem/rime-gits) - 
 - [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
-- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [LDE](https://github.com/xuzhuoyi/LDE) - 龙芯桌面环境 Loongson Desktop Environment
 - [multirom_device_samsung_jflte](https://github.com/AntaresOne/multirom_device_samsung_jflte) - MultiROM Samsung Galaxy S4 LTE
@@ -315,7 +314,7 @@
 - [emacs-chinese](https://github.com/hick/emacs-chinese) - Emacs相关中文问题以及解决方案
 - [projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
 - [oh-my-emacs](https://github.com/xiaohanyu/oh-my-emacs) - [Stopped]Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
-- [fcitx.el](https://github.com/cute-jumper/fcitx.el) - Make fcitx better in Emacs.
+- [fcitx.el](https://github.com/cute-jumper/fcitx.el) - Better fcitx integration for Emacs.
 - [eww-lnum](https://github.com/m00natic/eww-lnum) - Conkeror-like functionality for EWW
 - [pallet](https://github.com/rdallasgray/pallet) - A package management tool for Emacs, built on Cask.
 - [use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
@@ -366,7 +365,6 @@
 - [gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [goproxy](https://github.com/phuslu/goproxy) - 
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
@@ -396,6 +394,7 @@
 
 - [scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn) - scikit-learn机器学习库中文文档翻译项目
 - [swiplwebtut](https://github.com/Anniepoo/swiplwebtut) - A tutorial for the swipl web framework
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
 - [linuxtoy.org](https://github.com/LinuxTOY/linuxtoy.org) - Site source for linuxtoy.org.
 - [website](https://github.com/SICPDistilled/website) - 
@@ -486,7 +485,7 @@
 - [java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java
 - [glucosio-android](https://github.com/Glucosio/glucosio-android) - Glucosio Android App
 - [bazel](https://github.com/bazelbuild/bazel) - Correct, reproducible, and fast builds for everyone.
-- [getChromium](https://github.com/andDevW/getChromium) - getChromium v3.2 for Android
+- [getChromium](https://github.com/andDevW/getChromium) - getChromium installs/updates Chromium for Android
 - [processing](https://github.com/processing/processing) - Source code for the Processing Development Environment (PDE)
 - [java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
 - [fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
@@ -689,6 +688,7 @@
 
 ## Makefile 
 
+- [game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
@@ -715,15 +715,16 @@
 
 ## Others 
 
+- [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [the-little-go-book_ZH_CN](https://github.com/songleo/the-little-go-book_ZH_CN) - 《The Little Go Book》中文译本，中文正式名《Go简易教程》
 - [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [sqlalchemy-docs-CN](https://github.com/linux-wang/sqlalchemy-docs-CN) - sqlalchemy文档中文翻译之小学生英语水平版
+- [DeepLearningBook-CN](https://github.com/ExtremeMart/DeepLearningBook-CN) - A translation of the deep learning book (翻译《深度学习》)
 - [Scapy_zh-cn](https://github.com/Larryxi/Scapy_zh-cn) - Scapy中文使用文档
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [PrologTutorials](https://github.com/jcoder58/PrologTutorials) - Prolog Tutorials and Information
 - [steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [stream-handbook](https://github.com/jabez128/stream-handbook) - stream-handbook的完整中文版本
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [google-interview-university](https://github.com/jwasham/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
@@ -732,6 +733,7 @@
 - [ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 
 - [xzoo](https://github.com/xcatliu/xzoo) - 可爱的动物头像，为你设计。 Lovely animal avatars, designed for you.
 - [angular-styleguide](https://github.com/toddmotto/angular-styleguide) - Angular styleguide for teams
+- [goproxy](https://github.com/phuslu/goproxy) - 
 - [head-first-flask](https://github.com/ethan-funny/head-first-flask) - :green_book:Introduction to Flask Web development.
 - [api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [awesome-design](https://github.com/gztchan/awesome-design) - :flags: Best UI/UX Design Resources For Developer & Designer Ever :)
@@ -926,6 +928,7 @@
 
 ## Python 
 
+- [pkuipgw](https://github.com/CasperVector/pkuipgw) - PKU IPGW Client for Linux
 - [IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxyPool代理池项目，提供代理ip
 - [GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython) - source code from the book Genetic Algorithms with Python by Clinton Sheppard
 - [bilibili-icons](https://github.com/petronny/bilibili-icons) - 批量下载bilibili.com右上角的动图
@@ -1022,7 +1025,7 @@
 - [Login_every](https://github.com/taizilongxu/Login_every) - 收集各个网站用python实现登录的方法
 - [xonsh](https://github.com/xonsh/xonsh) - xonsh is a Python-ish, BASHwards-facing shell.
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, yoyo.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
 - [LocalNote](https://github.com/littlecodersh/LocalNote) - LocalNote让你能够像使用本地文件一样使用印象笔记。Use Evernote like local file system in all platform (markdown supported)
 - [srclib-python](https://github.com/sourcegraph/srclib-python) - 
 - [linty_fresh](https://github.com/lyft/linty_fresh) - :sparkles: Surface lint errors during code review
@@ -1146,6 +1149,7 @@
 - [Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) - Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.
 - [Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 - [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ranwhen](https://github.com/p-e-w/ranwhen) - Visualize when your system was running
 - [mytodo](https://github.com/mohamed-aziz/mytodo) - A simple free/libre todo list manager.
@@ -1156,7 +1160,7 @@
 - [julia_zh_cn](https://github.com/JuliaCN/julia_zh_cn) - Simplified Chinese Doc of Julia
 - [python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-- [neupy](https://github.com/itdxer/neupy) - NeuPy is a Python library for Artificial Neural Networks.
+- [neupy](https://github.com/itdxer/neupy) - NeuPy is a Python library for Artificial Neural Networks and Deep Learning.
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [git-fat](https://github.com/jedbrown/git-fat) - Simple way to handle fat files without committing them to git, supports synchronization using rsync
 - [snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
@@ -1175,7 +1179,7 @@
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
-- [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, OS X, Android and iOS
+- [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [baillie-psw](https://github.com/smllmn/baillie-psw) - Python implementation of the Baillie-PSW probabilistic primality test.
 - [lmfdb](https://github.com/LMFDB/lmfdb) - L-Functions and Modular Forms Database
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
@@ -1300,7 +1304,7 @@
 
 ## Shell 
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd and Windows (Cygwin/Windows 10 Linux subsystem)
+- [neofetch](https://github.com/dylanaraps/neofetch) - neofetch - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd and Windows (Cygwin/Windows 10 Linux subsystem)
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [ipgw](https://github.com/QwertyJack/ipgw) - ipgw
 - [rime_schemata](https://github.com/biopolyhedron/rime_schemata) - polyhedron的rime多語種碼表（已拆分、停止更新）
@@ -1382,9 +1386,9 @@
 
 ## TeX 
 
+- [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 - [free-as-in-freedom-zh-cn](https://github.com/lifanxi/free-as-in-freedom-zh-cn) - 
 - [fsfs-zh](https://github.com/beijinglug/fsfs-zh) - Chinese translation for "Free Software, Free Society"(3rd)
-- [DeepLearningBook-CN](https://github.com/ExtremeMart/DeepLearningBook-CN) - A translation of the deep learning book (翻译《深度学习》)
 - [gnome3-app-book](https://github.com/beijinggug/gnome3-app-book) - GNOME 3 Applications Development Starter's Guide
 - [pkuthssLyX](https://github.com/qinweilun/pkuthssLyX) - A LyX template for thesis of Peking University
 - [svn](https://github.com/wuzhouhui/svn) - Subversion 简明教程, 翻译作品
@@ -1425,6 +1429,7 @@
 
 ## VimL 
 
+- [vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
