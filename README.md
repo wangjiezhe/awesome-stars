@@ -152,7 +152,7 @@
 - [cconv](https://github.com/xiaoyjy/cconv) - A iconv based simplified-traditional chinese conversion tool
 - [FBReader](https://github.com/geometer/FBReader) - Official FBReader C++ project repository
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the windows application “Keepass Password Safe”.
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [autoshadower](https://github.com/yangyangwithgnu/autoshadower) - autoshadower is so sweet, she will find many free shadowsoks accounts for you, do her best!
 - [magma](https://github.com/maxhutch/magma) - Fork of magma to include more BLAS
@@ -186,7 +186,6 @@
 - [LDE](https://github.com/xuzhuoyi/LDE) - 龙芯桌面环境 Loongson Desktop Environment
 - [multirom_device_samsung_jflte](https://github.com/AntaresOne/multirom_device_samsung_jflte) - MultiROM Samsung Galaxy S4 LTE
 - [grive](https://github.com/Grive/grive) - an open source Linux client for Google Drive
-- [graph-tool](https://github.com/count0/graph-tool) - An efficient python module for analysis and  manipulation of graphs.
 - [oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 
 ## CSS 
@@ -399,9 +398,9 @@
 - [gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Golang applications to self update
-- [go-web-foundation](https://github.com/Unknwon/go-web-foundation) - 《Go Web基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。
+- [go-web-foundation](https://github.com/Unknwon/go-web-foundation) - 《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。
 - [go-rock-libraries-showcases](https://github.com/Unknwon/go-rock-libraries-showcases) - 《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成《Go编程基础》教程的学习者。
-- [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) - 《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+- [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder written in Go
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go入门指南》
 - [mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers
@@ -478,6 +477,7 @@
 
 ## Java 
 
+- [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [smartqq](https://github.com/ScienJus/smartqq) - SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人 a qq robot based on smartqq (webqq) api
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
@@ -598,6 +598,7 @@
 - [banks-db](https://github.com/ramoona/banks-db) - Community driven database to get bank info (name, brand color etc.) by bankcard prefix (BIN)
 - [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [stability-badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index
+- [webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -753,6 +754,7 @@
 
 ## OCaml 
 
+- [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow
 - [oml](https://github.com/hammerlab/oml) - OCaml Math Library
 - [bucklescript](https://github.com/bloomberg/bucklescript) - A backend for the OCaml compiler which emits JavaScript.
 - [examples](https://github.com/realworldocaml/examples) - All the examples in Real World OCaml
@@ -769,6 +771,8 @@
 
 ## Others 
 
+- [neural-networks-and-deep-learning-zh-cn](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn) - 
+- [Chinese-UFLDL-Tutorial](https://github.com/ysh329/Chinese-UFLDL-Tutorial) - 非监督特征学习与深度学习 中文教程，该版本翻译自新版 UFLDL Tutorial 。
 - [kalitools](https://github.com/Jack-Liang/kalitools) - Kali Linux工具清单
 - [papers](https://github.com/evilcos/papers) - my open papers
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
@@ -854,7 +858,6 @@
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
 - [ai-resources](https://github.com/memo/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
 - [http-api-guide](https://github.com/bolasblack/http-api-guide) - 
-- [webpack-book](https://github.com/survivejs/webpack-book) - From apprentice to master (CC BY-NC-ND)
 - [SMC_tutorial](https://github.com/mikecroucher/SMC_tutorial) - A tutorial for anyone wanting to use SageMathCloud for teaching
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [awesome-summernote](https://github.com/summernote/awesome-summernote) - A curated list for summernote modules
@@ -997,6 +1000,7 @@
 
 ## Python 
 
+- [MellPlayer](https://github.com/Mellcap/MellPlayer) - A tiny terminal player based on Python3
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large scale systems. Prep for the system design interview.
@@ -1032,7 +1036,7 @@
 - [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.
 - [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
-- [httpbin](https://github.com/Runscope/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+- [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal.
 - [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
@@ -1105,7 +1109,7 @@
 - [sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [hyper](https://github.com/Lukasa/hyper) - HTTP/2 for Python.
-- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase Automation Platform
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Dynamic Test Automation Framework
 - [DateTimeRange](https://github.com/thombashi/DateTimeRange) - A python library to handle routine work associated with a time range, such as test whether a time is within the time range, get time range intersection, truncating time range, etc.
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -1404,7 +1408,7 @@
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [shadowsocks_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
-- [neofetch](https://github.com/dylanaraps/neofetch) - neofetch - A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)
+- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [ipgw](https://github.com/QwertyJack/ipgw) - ipgw
 - [rime_schemata](https://github.com/biopolyhedron/rime_schemata) - polyhedron的rime多語種碼表（已拆分、停止更新）
