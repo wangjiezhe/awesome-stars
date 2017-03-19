@@ -76,6 +76,7 @@
 
 ## C 
 
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 - [C](https://github.com/Mzzopublic/C) - C语言
 - [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
@@ -147,6 +148,7 @@
 
 ## C++ 
 
+- [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [wxmaxima](https://github.com/andrejv/wxmaxima) - A gui for the computer algebra system Maxima built with wxWidgets
 - [apls](https://github.com/AmziLS/apls) - Amzi! Prolog + Logic Server, core components
 - [cconv](https://github.com/xiaoyjy/cconv) - A iconv based simplified-traditional chinese conversion tool
@@ -383,6 +385,7 @@
 
 ## Go 
 
+- [kcptun](https://github.com/xtaci/kcptun) - A Secure Tunnel Based On KCP with N:M Multiplexing
 - [cnki-downloader](https://github.com/amyhaber/cnki-downloader) - 知网(CNKI)文献下载工具
 - [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases
 - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
@@ -442,6 +445,7 @@
 - [sicp](https://github.com/sicp-lang/sicp) - A SICP language for Racket.
 - [learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
 - [Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - 
 - [DiscoverMeteor_zh](https://github.com/DiscoverMeteor/DiscoverMeteor_zh) - Discover Meteor 中文版
 - [codelf](https://github.com/unbug/codelf) - Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names
@@ -469,6 +473,7 @@
 
 ## Haskell 
 
+- [Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook) - Accompanying Source Code for the Haskell Data Analysis Cookbook
 - [DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
 - [FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015) - FP101x - Functional Programming MOOC 2015 Content Repository
 - [IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
@@ -477,6 +482,8 @@
 
 ## Java 
 
+- [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05
+- [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [smartqq](https://github.com/ScienJus/smartqq) - SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人 a qq robot based on smartqq (webqq) api
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
@@ -534,6 +541,7 @@
 
 ## JavaScript 
 
+- [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - A book about functional programming in JavaScript.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [Biopython-cn](https://github.com/bigwiv/Biopython-cn) - Biopython Tutorial Chinese Translation
@@ -594,7 +602,6 @@
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [jquery-weui](https://github.com/lihongxun945/jquery-weui) - UI lib for build hybrid wechat web app
 - [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [banks-db](https://github.com/ramoona/banks-db) - Community driven database to get bank info (name, brand color etc.) by bankcard prefix (BIN)
 - [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [stability-badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index
@@ -767,10 +774,12 @@
 
 ## Objective-C 
 
+- [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
 
 ## Others 
 
+- [BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - Bilibili API (For thrid-party) Documents 哔哩哔哩开放接口第三方文档
 - [neural-networks-and-deep-learning-zh-cn](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn) - 
 - [Chinese-UFLDL-Tutorial](https://github.com/ysh329/Chinese-UFLDL-Tutorial) - 非监督特征学习与深度学习 中文教程，该版本翻译自新版 UFLDL Tutorial 。
 - [kalitools](https://github.com/Jack-Liang/kalitools) - Kali Linux工具清单
@@ -1000,6 +1009,9 @@
 
 ## Python 
 
+- [binwalk](https://github.com/devttys0/binwalk) - Firmware Analysis Tool
+- [danmu](https://github.com/littlecodersh/danmu) - Python 弹幕包 A live danmu package for python
+- [rqalpha](https://github.com/ricequant/rqalpha) - RQAlpha是一个中国市场领先的股票和期货的回测引擎，具备日级别的历史数据回测，并且具有很强的可拓展性。由Ricequant米筐科技开源。
 - [MellPlayer](https://github.com/Mellcap/MellPlayer) - A tiny terminal player based on Python3
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
