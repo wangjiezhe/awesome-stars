@@ -14,12 +14,13 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
-  - [Common Lisp](#common lisp)
+  - [Common Lisp](#common-lisp)
   - [Coq](#coq)
   - [D](#d)
-  - [DIGITAL Command Language](#digital command language)
-  - [Emacs Lisp](#emacs lisp)
+  - [DIGITAL Command Language](#digital-command-language)
+  - [Emacs Lisp](#emacs-lisp)
   - [GAP](#gap)
+  - [GCC Machine Description](#gcc-machine-description)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groff](#groff)
@@ -28,7 +29,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
-  - [Jupyter Notebook](#jupyter notebook)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
@@ -50,13 +51,13 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
-  - [Standard ML](#standard ml)
+  - [Standard ML](#standard-ml)
   - [Swift](#swift)
   - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
-  - [Vim script](#vim script)
+  - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
 
@@ -219,6 +220,7 @@
 - [scala-types-of-types](https://github.com/ktoso/scala-types-of-types) - Scala's Types of Types
 - [Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的中文翻译
+- [Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [plt](https://github.com/steshaw/plt) - A path to Programming Language Theory enlightenment
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -307,6 +309,7 @@
 
 ## Emacs Lisp 
 
+- [emacsist](https://github.com/emacs-china/emacsist) - Emacs微信公众号收录文章存档！
 - [novel-mode](https://github.com/TLINDEN/novel-mode) - Emacs Screen Reader
 - [PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
 - [tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
@@ -394,6 +397,10 @@
 
 - [gap](https://github.com/gap-system/gap) - Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
 
+## GCC Machine Description 
+
+- [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
+
 ## Gherkin 
 
 - [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) - jekyll extensions for the blogging scholar
@@ -452,7 +459,6 @@
 - [encoding](https://github.com/whatwg/encoding) - Encoding Standard
 - [Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 - [kali-tools-zh](https://github.com/louchaooo/kali-tools-zh) - 😛kali linux 工具使用（中文机翻版）
-- [Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [Entry.css](https://github.com/zmmbreeze/Entry.css) - Customizable and readable less library for Chinese text. 一个可配置的、更适合阅读的中文文章样式库
 - [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -1063,6 +1069,7 @@
 
 ## Python 
 
+- [click](https://github.com/pallets/click) - Python composable command line utility
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [pyinotify](https://github.com/seb-m/pyinotify) - Monitoring filesystems events with inotify on Linux.
 - [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
@@ -1503,7 +1510,7 @@
 - [magic-device-tool](https://github.com/MariusQuabeck/magic-device-tool) - A simple and feature full batch tool to handle installing/replacing Operating Systems (Ubuntu Phone / Ubuntu Touch, Android, LineageOS, Maru OS, Sailfish OS and Phoenix OS) on your mobile devices.
 - [ipgw-script](https://github.com/liudangyi/ipgw-script) - IPGW script for Peking University
 - [emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (71.4k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
 - [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 - [travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis with Racket
 - [inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and also runs somewhat on BSDs.
@@ -1637,7 +1644,7 @@
 
 ## Vim script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts:A community-driven vim distribution inspired by spacemacs
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
 - [vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
