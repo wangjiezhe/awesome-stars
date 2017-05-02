@@ -30,6 +30,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [LiveScript](#livescript)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
@@ -208,6 +209,7 @@
 
 ## CSS 
 
+- [emojitwo](https://github.com/EmojiTwo/emojitwo) - Fork of the last fully free EmojiOne™ 2 artwork
 - [yue.css](https://github.com/lepture/yue.css) - A typography stylesheet for readable content
 - [constitution](https://github.com/cn/constitution) - 中华人民共和国宪法
 - [pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for pelican
@@ -330,7 +332,7 @@
 - [cask-mode](https://github.com/Wilfred/cask-mode) - Major mode for editing Cask files
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [vlfi](https://github.com/m00natic/vlfi) - View Large Files in Emacs
-- [lispy](https://github.com/abo-abo/lispy) - vi-like Paredit
+- [lispy](https://github.com/abo-abo/lispy) - short and sweet LISP editing
 - [function-args](https://github.com/abo-abo/function-args) - C++ completion for GNU Emacs
 - [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
@@ -444,7 +446,7 @@
 
 ## HTML 
 
-- [CS229-CN](https://github.com/Kivy-CN/CS229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
+- [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [SFCT](https://github.com/MarisaKirisame/SFCT) - Software Foundation Chinese Translation
 - [verbatimAnim](https://github.com/racaljk/verbatimAnim) - 黑客帝国字符效果
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -508,6 +510,7 @@
 
 ## Java 
 
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket.
 - [QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney) - QQLuckyMoney(QQ红包插件)
 - [Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 - [system-design](https://github.com/FreemanZhang/system-design) - Preparing for system design interview questions
@@ -745,7 +748,7 @@
 ## Jupyter Notebook 
 
 - [Computational-statistics-with-Python](https://github.com/cliburn/Computational-statistics-with-Python) - Resources for STA 633 class
-- [Computational-statistics-with-Python-CN](https://github.com/Kivy-CN/Computational-statistics-with-Python-CN) - A Chinese Translation of the Resources for Duke University STA 633 杜克大学计算机统计学（Python）全部内容的中文翻译
+- [Duke-STA-663-CN](https://github.com/Kivy-CN/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 633 杜克大学计算机统计学（Python）全部内容的中文翻译
 - [Python-Machine-Learning-zh](https://github.com/basicv8vc/Python-Machine-Learning-zh) - Python机器学习，机器学习入门首选。
 - [notes-LSJU-machine-learning](https://github.com/zlotus/notes-LSJU-machine-learning) - 机器学习笔记
 - [notes-machine-learning](https://github.com/lijin-THU/notes-machine-learning) - My Notes on Machine Learning
@@ -771,6 +774,10 @@
 - [scikit-learn-book](https://github.com/gmonce/scikit-learn-book) - Source code for the "Learning scikit-learn: Machine Learning in Python"
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
+
+## LiveScript 
+
+- [prism-break](https://github.com/nylira/prism-break) - Privacy-aware recommendations to proprietary software.
 
 ## Lua 
 
@@ -825,6 +832,15 @@
 
 ## Others 
 
+- [lnxpcs](https://github.com/jstpcs/lnxpcs) - Linux Pics
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [sicp](https://github.com/numbbbbb/sicp) - 收录我完成的练习题
+- [lisp-ebook](https://github.com/clojurians-org/lisp-ebook) - 
+- [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
+- [awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
+- [Amazing-Windows-Apps](https://github.com/EMLVIRUS/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶
+- [Amazing-Windows-Apps-Zh-CN](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN) - 📗Amazing Windows Apps 中文版🕶
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [Kivy-CN](https://github.com/Kivy-CN/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
 - [DataminingGuideBook](https://github.com/yourtion/DataminingGuideBook) - 《面向程序员的数据挖掘指南》Gitbook
 - [DataMining](https://github.com/lyltj2010/DataMining) - 数据挖掘开源书
@@ -1069,6 +1085,10 @@
 
 ## Python 
 
+- [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+- [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end automatic speech recognition from scratch in Tensorflow
+- [bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，测试【开发中】
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [click](https://github.com/pallets/click) - Python composable command line utility
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [pyinotify](https://github.com/seb-m/pyinotify) - Monitoring filesystems events with inotify on Linux.
@@ -1127,7 +1147,7 @@
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 - [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
-- [genpac](https://github.com/JinnLynn/genpac) - PAC file Generator,  working with gfwlist, support custom rules.
+- [genpac](https://github.com/JinnLynn/genpac) - PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 - [fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 - [stitch](https://github.com/pystitch/stitch) - Write reproducible reports in Markdown
 - [email-reply-parser](https://github.com/zapier/email-reply-parser) - :email: Email reply parser library for Python
@@ -1194,7 +1214,7 @@
 - [sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [hyper](https://github.com/Lukasa/hyper) - HTTP/2 for Python.
-- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Complete Python Automation Framework
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Automated Testing Framework in Python based on Selenium WebDriver
 - [DateTimeRange](https://github.com/thombashi/DateTimeRange) - A python library to handle routine work associated with a time range, such as test whether a time is within the time range, get time range intersection, truncating time range, etc.
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -1441,6 +1461,7 @@
 
 ## Rust 
 
+- [vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim
 - [arch-audit](https://github.com/ilpianista/arch-audit) - An utility like pkg-audit for Arch Linux. Based on Arch CVE Monitoring Team data
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 - [way-cooler](https://github.com/way-cooler/way-cooler) - Customizable Wayland compositor (window manager)
