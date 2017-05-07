@@ -160,6 +160,7 @@
 
 ## C++ 
 
+- [librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [clasp](https://github.com/drmeister/clasp) - clasp Common Lisp environment
 - [dale](https://github.com/tomhrr/dale) - Lisp-flavoured C
 - [thermal_daemon](https://github.com/01org/thermal_daemon) - Thermal daemon for IA
@@ -192,7 +193,7 @@
 - [fqterm](https://github.com/mytbk/fqterm) - 
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
-- [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
+- [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for Chinese plate recognition in unconstrained situation. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
 - [ktikz](https://github.com/jfmcarreira/ktikz) - KtikZ provides a nice user interface for making pictures using TikZ.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese
@@ -257,6 +258,7 @@
 
 ## Clojure 
 
+- [pkuipgw](https://github.com/PKUHelper/pkuipgw) - A CLI for PKU IP Gateway connection.
 - [om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
 - [enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
 - [leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
@@ -471,7 +473,7 @@
 - [learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
 - [Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
-- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - 
+- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [DiscoverMeteor_zh](https://github.com/DiscoverMeteor/DiscoverMeteor_zh) - Discover Meteor 中文版
 - [guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
 - [codelf](https://github.com/unbug/codelf) - Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names
@@ -522,7 +524,7 @@
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 - [BezierMaker](https://github.com/venshine/BezierMaker) - 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画。
 - [vavr](https://github.com/vavr-io/vavr) - Vavr (formerly called Javaslang) is an object-functional language extension to Java 8+, which aims to reduce the lines of code and increase code quality.
 - [auto](https://github.com/google/auto) - A collection of source code generators for Java.
@@ -573,10 +575,11 @@
 
 ## JavaScript 
 
+- [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [js-async-tutorial](https://github.com/wangfupeng1988/js-async-tutorial) - 深入理解 JavaScript 异步
 - [social](https://github.com/lepture/social) - Share your notes with a beautiful social button.
 - [UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts (e.g.,True URL downloads迅雷、快车、QQ旋风等专有链解密 & HacgGodTurn琉璃神社工具集 & DownloadAllContent懒人小说下载器 & Easy offline一键离线下载)
-- [WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码
+- [WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [zhihu-block-chrome-extension](https://github.com/dozer47528/zhihu-block-chrome-extension) - 知乎用户屏蔽插件
 - [userscript](https://github.com/ywzhaiqi/userscript) - 本人原创或修改的 GM 脚本，包括小说阅读脚本、百度盘导出脚本等。
@@ -652,7 +655,7 @@
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [New-Tongwentang-for-Chrome](https://github.com/softcup/New-Tongwentang-for-Chrome) - 
-- [gitopen](https://github.com/hotoo/gitopen) - :twisted_rightwards_arrows: Open git/hg/svn remote from browser.
+- [gitopen](https://github.com/hotoo/gitopen) - :twisted_rightwards_arrows: Open git/hg/svn remote url from web browser.
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
 - [pangu.js](https://github.com/vinta/pangu.js) - 為什麼你們就是不能加個空格呢？
@@ -832,6 +835,8 @@
 
 ## Others 
 
+- [Go-Hosts](https://github.com/Lerist/Go-Hosts) - Go Hosts
+- [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [lnxpcs](https://github.com/jstpcs/lnxpcs) - Linux Pics
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [sicp](https://github.com/numbbbbb/sicp) - 收录我完成的练习题
@@ -1085,6 +1090,7 @@
 
 ## Python 
 
+- [aliyun-openapi-python-sdk](https://github.com/aliyun/aliyun-openapi-python-sdk) - Alibaba Cloud SDK for PYTHON
 - [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end automatic speech recognition from scratch in Tensorflow
 - [bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，测试【开发中】
@@ -1413,6 +1419,7 @@
 
 ## Racket 
 
+- [racket7](https://github.com/racket/racket7) - 
 - [Racket-miniKanren](https://github.com/miniKanren/Racket-miniKanren) - Canonical miniKanren implementation in Racket
 - [acmart](https://github.com/fare/acmart) - Racket Scribble package for the 2017 ACM Master Article Template
 - [scribble-math](https://github.com/jsmaniac/scribble-math) - Integration of MathJax, KaTeX and Asymptote with scribble, to typeset math in Racket documentation
@@ -1508,6 +1515,8 @@
 
 ## Shell 
 
+- [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
+- [ipgw](https://github.com/wangjiezhe/ipgw) - PKU IPGW shell script
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
