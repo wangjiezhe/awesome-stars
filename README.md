@@ -79,9 +79,9 @@
 
 ## C 
 
-- [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
-- [vm86](https://github.com/tboox/vm86) - The x86 Script Instruction Virtual Machine
-- [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library
+- [xmake](https://github.com/tboox/xmake) - :beer: A make-like build utility based on Lua
+- [vm86](https://github.com/tboox/vm86) - :hamburger: The x86 Script Instruction Virtual Machine
+- [tbox](https://github.com/tboox/tbox) - :package: A glib-like multi-platform c library
 - [wxHexEditor](https://github.com/EUA/wxHexEditor) - wxHexEditor official GIT repo
 - [cmark](https://github.com/github/cmark) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [cmark](https://github.com/jgm/cmark) - CommonMark parsing and rendering library and program in C
@@ -119,7 +119,7 @@
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [shc](https://github.com/neurobin/shc) - Shell script compiler
-- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/
+- [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [gaeproxy](https://github.com/madeye/gaeproxy) - GAEProxy for Android (Deprecated)
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -838,6 +838,7 @@
 
 ## Others 
 
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [how-to-convert-videos-with-ffmpeg-zh](https://github.com/FiveYellowMice/how-to-convert-videos-with-ffmpeg-zh) - Some basic instructions for using FFmpeg to convert videos. Designed for eager Chinese Xiaobai.
@@ -849,8 +850,8 @@
 - [lisp-ebook](https://github.com/clojurians-org/lisp-ebook) - 
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
-- [Amazing-Windows-Apps](https://github.com/EMLVIRUS/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶
-- [Amazing-Windows-Apps-Zh-CN](https://github.com/EMLVIRUS/Amazing-Windows-Apps-Zh-CN) - 📗Amazing Windows Apps 中文版🕶
+- [Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶
+- [Amazing-Windows-Apps-Zh-CN](https://github.com/AmazingApps/Amazing-Windows-Apps-Zh-CN) - 
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [Kivy-CN](https://github.com/Kivy-CN/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
 - [DataminingGuideBook](https://github.com/yourtion/DataminingGuideBook) - 《面向程序员的数据挖掘指南》Gitbook
@@ -1125,7 +1126,7 @@
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Chromagnon](https://github.com/JRBANCEL/Chromagnon) - Chrome/Chromium Forensic Tool : Parses History, Visited Links, Downloaded Files and Cache
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [elizabeth](https://github.com/lk-geimfari/elizabeth) - Elizabeth is a fast and easy to use Python library for generating dummy data for a variety of purposes. This data can be particularly useful during software development and testing.
+- [elizabeth](https://github.com/lk-geimfari/elizabeth) - Elizabeth is a Python library, which helps generate mock data for various purposes. This data can be particularly useful during software development and testing.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms.
 - [nowater](https://github.com/piglei/nowater) - "zhikanlz.com" for baidu, douban, tianya (spiders and long polling part, by twisted)
@@ -1159,7 +1160,7 @@
 - [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
 - [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
-- [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+- [googler](https://github.com/jarun/googler) - :eyes: Google Search, Google Site Search, Google News from the terminal
 - [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
 - [genpac](https://github.com/JinnLynn/genpac) - PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
 - [fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
@@ -1316,10 +1317,10 @@
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [bcloud-curses](https://github.com/zhaihj/bcloud-curses) - Curses
 - [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
-- [fucksvn](https://github.com/dontcontactme/fucksvn) - 回溯SVN仓库, 根据关键字在指定文件里找出该关键字第一作者和版本号.
+- [fucksvn](https://github.com/fanpei91/fucksvn) - 回溯SVN仓库, 根据关键字在指定文件里找出该关键字第一作者和版本号.
 - [zhihu-python](https://github.com/egrcc/zhihu-python) - 获取知乎内容信息，包括问题，答案，用户，收藏夹信息
-- [doubanspiders](https://github.com/dontcontactme/doubanspiders) - 豆瓣电影、书籍、小组、相册、东西等爬虫集 writen in Python
-- [FeelUOwn](https://github.com/cosven/FeelUOwn) - nothing but the alternate
+- [doubanspiders](https://github.com/fanpei91/doubanspiders) - 豆瓣电影、书籍、小组、相册、东西等爬虫集 writen in Python
+- [FeelUOwn](https://github.com/cosven/FeelUOwn) - trying to be a hackable music player
 - [ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) - Forked from the inactive Google Code project ipv6 hosts: https://code.google.com/p/ipv6-hosts/
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别
@@ -1529,6 +1530,7 @@
 
 ## Shell 
 
+- [evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [ipgw](https://github.com/wangjiezhe/ipgw) - PKU IPGW shell script
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
@@ -1678,7 +1680,7 @@
 
 - [typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. This is a very early preview, and is not suitable for general usage yet.
-- [black-screen](https://github.com/railsware/black-screen) - A terminal emulator for the 21st century.
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [ppietnu-report-style](https://github.com/betamint/ppietnu-report-style) - Standard TeXmacs styles for report of PPIETNU (Planning Project for Innovation and Entrepreneurship Training of National Undergraduate) in China
 
 ## Vala 
@@ -1693,6 +1695,7 @@
 - [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [dotfiles](https://github.com/ceyes/dotfiles) - 
 - [julia-vim](https://github.com/JuliaEditorSupport/julia-vim) - Vim support for Julia.
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [main](https://github.com/exvim/main) - This is the main repository for exVim!
@@ -1705,7 +1708,6 @@
 - [vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) - use vim as IDE
-- [dotfiles](https://github.com/ceyes/dotfiles) - 
 - [readnovel](https://github.com/vim-scripts/readnovel) - 看中文txt小说插件
 
 ## Vue 
