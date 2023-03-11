@@ -2126,7 +2126,7 @@
 - [DevinZ1993/Chinese-Poetry-Generation](https://github.com/DevinZ1993/Chinese-Poetry-Generation) - An RNN-based Chinese Poem Generator
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
-- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
+- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2726,6 +2726,7 @@
 
 ## Shell 
 
+- [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [ulm/patchsets-texlive-historical](https://github.com/ulm/patchsets-texlive-historical) - 
 - [gentoo/releng](https://github.com/gentoo/releng) - [MIRROR] Content related to production of releases
 - [xen0n/loongson-overlay](https://github.com/xen0n/loongson-overlay) - Support overlay for Gentoo/Loongson users
