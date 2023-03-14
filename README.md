@@ -3055,7 +3055,7 @@
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+- [waterlrx/rxdrag](https://github.com/waterlrx/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
 - [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
