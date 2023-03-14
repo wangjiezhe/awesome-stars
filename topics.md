@@ -2667,7 +2667,7 @@
 - [RuleBasedIntegration/Rubi](https://github.com/RuleBasedIntegration/Rubi) - Rubi for Mathematica
 - [hotmanga/hotmangaSite](https://github.com/hotmanga/hotmangaSite) - 熱辣漫畫資源站，主要收集熱辣漫畫相關資源
 - [git-for-windows/build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
-- [rxdrag/rxeditor](https://github.com/rxdrag/rxeditor) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+- [waterlrx/rxdrag](https://github.com/waterlrx/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
 - [apachecn/epub-crawler](https://github.com/apachecn/epub-crawler) - 用于抓取网页内容并制作 EPUB 的小工具。
 - [metowolf/mathematica-keygen](https://github.com/metowolf/mathematica-keygen) - wolfram mathematica keygen
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
