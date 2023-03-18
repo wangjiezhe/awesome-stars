@@ -1000,6 +1000,7 @@
 - [albertlatacz/java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java
 - [Glucosio/glucosio-android](https://github.com/Glucosio/glucosio-android) - Glucosio Android App
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [andDevW/getChromium](https://github.com/andDevW/getChromium) - Installs the latest build of Chromium on Android & Chrome OS.
 - [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
@@ -1311,7 +1312,6 @@
 - [ppoffice/Hozz](https://github.com/ppoffice/Hozz) - [Development indefinitely suspended] A better way to manage your hosts.
 - [webrtc/apprtc](https://github.com/webrtc/apprtc) - appr.tc has been shutdown. Please use the Dockerfile to run your own test/dev instance.
 - [linagora/hublin](https://github.com/linagora/hublin) - DEPRECATED - An easy and free video conference service based on WebRTC
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [cscott/wikipedia-telnet](https://github.com/cscott/wikipedia-telnet) - Telnet server for wikipedia content
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -3055,7 +3055,7 @@
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [waterlrx/rxdrag](https://github.com/waterlrx/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
 - [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
