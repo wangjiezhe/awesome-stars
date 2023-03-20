@@ -2707,7 +2707,7 @@
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [cdp2020/v2ray](https://github.com/cdp2020/v2ray) - telegram number: @cnhumanright
 - [hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015) - A biblatex implementation of the GB/T7714-2015 bibliography style  || GB/T 7714-2015 参考文献著录和标注的biblatex样式包
-- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, 
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [mingchen/cp936toutf8.sh](https://github.com/mingchen/cp936toutf8.sh) - Convert a cp936 encoded file to utf-8 encoded
 - [btwise/HOTPATCH](https://github.com/btwise/HOTPATCH) - 关于黑苹果的综合补丁包
 - [wangpengfei15975/ktPlayer](https://github.com/wangpengfei15975/ktPlayer) - :tv: A simple & pretty HTML5 video player
