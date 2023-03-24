@@ -713,6 +713,7 @@
 
 ## compiler 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [noti0na1/socc](https://github.com/noti0na1/socc) - Simple C Compiler in OCaml
 - [formal-land/coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - Formal verification for OCaml
 - [tinyclub/open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程《360° 剖析 Linux ELF》已上线，视频讲解更为系统和深入，欢迎订阅：https://www.cctalk.com/m/group/88089283
@@ -1400,7 +1401,6 @@
 - [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站
 - [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
-- [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 - [xyuanmu/checkiptools](https://github.com/xyuanmu/checkiptools) - CheckIPTools 扫描谷歌IP以及实用IP转换小工具
 - [lennylxx/ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) - Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -2932,7 +2932,6 @@
 - [100apps/openshare](https://github.com/100apps/openshare) - 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。
 - [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 - [GZzzhsmart/development-document](https://github.com/GZzzhsmart/development-document) - 国家标准的软件开发文档
-- [y1yang0/esoteric-features-in-modern-cpp](https://github.com/y1yang0/esoteric-features-in-modern-cpp) - 现代C++(17,2a)中那些鲜为人知的一些特性
 - [MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
 - [archimg/archlinux](https://github.com/archimg/archlinux) - Archlinux docker image from scratch (built daily by travis cronjob)
 - [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
@@ -2993,7 +2992,6 @@
 - [the-little-typer/pie](https://github.com/the-little-typer/pie) - The Pie language, which accompanies The Little Typer by Friedman and Christiansen
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [xiaqunfeng/machine-learning-yearning](https://github.com/xiaqunfeng/machine-learning-yearning) - Translation of &lt;Machine Learning Yearning&gt; by Andrew NG
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [sftrabbit/CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns curated by the community.
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [xixinjiejie/awesome-lover](https://github.com/xixinjiejie/awesome-lover) - 程序员相亲助手，重点解决程序员交友、程序员恋爱、程序员相亲、程序员找对象的问题，真正开源交友。我是细心姐姐。 微信搜索关注《大确幸》，有爱有行动。http://daquexing.cn QQ群 : 625888596
