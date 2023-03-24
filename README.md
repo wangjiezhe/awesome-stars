@@ -1695,7 +1695,6 @@
 - [eastmoe/pixiv-hosts](https://github.com/eastmoe/pixiv-hosts) - Pixiv`s hosts file for China.
 - [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 - [GZzzhsmart/development-document](https://github.com/GZzzhsmart/development-document) - 国家标准的软件开发文档
-- [y1yang0/esoteric-features-in-modern-cpp](https://github.com/y1yang0/esoteric-features-in-modern-cpp) - 现代C++(17,2a)中那些鲜为人知的一些特性
 - [greatfire/wiki](https://github.com/greatfire/wiki) - 
 - [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
 - [PapyElGringo/dots](https://github.com/PapyElGringo/dots) - 
@@ -1707,7 +1706,6 @@
 - [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
 - [upend/IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
 - [xiaqunfeng/machine-learning-yearning](https://github.com/xiaqunfeng/machine-learning-yearning) - Translation of &lt;Machine Learning Yearning&gt; by Andrew NG
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [xixinjiejie/awesome-lover](https://github.com/xixinjiejie/awesome-lover) - 程序员相亲助手，重点解决程序员交友、程序员恋爱、程序员相亲、程序员找对象的问题，真正开源交友。我是细心姐姐。 微信搜索关注《大确幸》，有爱有行动。http://daquexing.cn QQ群 : 625888596
 - [RustStudy/RustBooksChina](https://github.com/RustStudy/RustBooksChina) - 记录国内的Rust书籍与文章
 - [cnrv/riscv-soc-book](https://github.com/cnrv/riscv-soc-book) - 关于RISC-V你所需要知道的一切
@@ -2617,7 +2615,6 @@
 ## Rascal 
 
 - [googlehosts/hosts-ipv6](https://github.com/googlehosts/hosts-ipv6) - 镜像：https://scaffrey.coding.net/p/hosts-ipv6/git / https://git.qvq.network/googlehosts/hosts-ipv6
-- [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Rich Text Format 
 
@@ -2654,6 +2651,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by deep reinforcement learning.
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
