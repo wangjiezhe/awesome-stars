@@ -1032,7 +1032,6 @@
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
 - [dmsm/scissors-congruence](https://github.com/dmsm/scissors-congruence) - An interactive demonstration of the Wallace–Bolyai–Gerwien theorem.
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-- [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 - [scriptype/sorted-colors](https://github.com/scriptype/sorted-colors) - A tool to sort the named CSS colors in a way that it shows related colors together
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
 - [LingDong-/grand-timeline](https://github.com/LingDong-/grand-timeline) - Interactive grand unified timeline of 30,800 ancient Chinese people / 古人全表
@@ -2129,7 +2128,7 @@
 - [DevinZ1993/Chinese-Poetry-Generation](https://github.com/DevinZ1993/Chinese-Poetry-Generation) - An RNN-based Chinese Poem Generator
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
-- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+- [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2484,7 +2483,7 @@
 - [observerss/ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python at any scale.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 - [madisonmay/Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code in Python
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [thampiman/reverse-geocoder](https://github.com/thampiman/reverse-geocoder) - A fast, offline reverse geocoder in Python
@@ -3048,6 +3047,7 @@
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
+- [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 - [miao-lang/miao-lang](https://github.com/miao-lang/miao-lang) - 喵语翻译：将人类语言翻译为喵语言。
 - [LingDong-/hfmath](https://github.com/LingDong-/hfmath) - Render LaTeX math with Hershey Fonts
 - [stevenjoezhang/mmp-build](https://github.com/stevenjoezhang/mmp-build) - 试试用 Markdown 和 LaTeX 写论文吧 | Mimi Markdown Paper Builder
