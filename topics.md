@@ -380,6 +380,7 @@
 
 ## awesome 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [vfxpro99/usd-resources](https://github.com/vfxpro99/usd-resources) - A curated list of USD projects and resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
@@ -446,6 +447,7 @@
 
 ## awesome-list 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [vfxpro99/usd-resources](https://github.com/vfxpro99/usd-resources) - A curated list of USD projects and resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
@@ -599,6 +601,7 @@
 
 ## chatgpt 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 
@@ -2347,6 +2350,7 @@
 
 ## open-source 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -2376,7 +2380,6 @@
 - [chen310/tenhou-se](https://github.com/chen310/tenhou-se) - 在天凤中使用雀魂角色的语音
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
@@ -2673,7 +2676,7 @@
 - [RuleBasedIntegration/Rubi](https://github.com/RuleBasedIntegration/Rubi) - Rubi for Mathematica
 - [hotmanga/hotmangaSite](https://github.com/hotmanga/hotmangaSite) - 熱辣漫畫資源站，主要收集熱辣漫畫相關資源
 - [git-for-windows/build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
-- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
 - [apachecn/epub-crawler](https://github.com/apachecn/epub-crawler) - 用于抓取网页内容并制作 EPUB 的小工具。
 - [metowolf/mathematica-keygen](https://github.com/metowolf/mathematica-keygen) - wolfram mathematica keygen
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
