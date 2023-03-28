@@ -1260,7 +1260,6 @@
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Justineo/coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [defunctzombie/badginator](https://github.com/defunctzombie/badginator) - badges for your badges
 - [itorr/itorr.github.io](https://github.com/itorr/itorr.github.io) - 妹 Blog - GitHub Pages 特别版
@@ -2620,6 +2619,7 @@
 - [XiewzHub/EFI](https://github.com/XiewzHub/EFI) - 拯救者Y7000和Y50-70装黑苹果(hackintosh)，已经配置好的EFI引导文件，安装时可用，不同分支功能不同
 - [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 
 ## Roff 
@@ -3059,7 +3059,7 @@
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+- [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
 - [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
