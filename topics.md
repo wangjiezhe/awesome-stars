@@ -601,6 +601,7 @@
 
 ## chatgpt 
 
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
@@ -630,6 +631,7 @@
 
 ## chrome-extension 
 
+- [kbkn3/MahjongSoul-review-supporter](https://github.com/kbkn3/MahjongSoul-review-supporter) - This is a chrome extension that automatically sends Paihu to an AI-based analysis tool for Mahjong Soul
 - [Xwilarg/NHentaiDownloader](https://github.com/Xwilarg/NHentaiDownloader) - A browser extension to download doujinshi from NHentai
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
@@ -896,7 +898,7 @@
 
 ## deep-learning 
 
-- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含 深度学习、deeplearning、无人驾驶、ADAS、 CVPR2022、特斯拉 AI DAY 等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com；Roc 2022.10
+- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含 深度学习、deeplearning、无人驾驶、ADAS、 CVPR2023、特斯拉 AI DAY 等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com；Roc 2022.10
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1319,7 +1321,7 @@
 
 ## github-api 
 
-- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+- [XPoet/picx](https://github.com/XPoet/picx) - 🌟 PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管和生成图片链接服务。
 - [GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
@@ -1871,6 +1873,7 @@
 
 ## latex 
 
+- [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
 - [TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates) - Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.
 - [lvjr/tabularray](https://github.com/lvjr/tabularray) - Typeset tabulars and arrays with LaTeX3
 - [csekri/tkzgeom](https://github.com/csekri/tkzgeom) - GUI tool for TikZ figure production
@@ -2378,6 +2381,9 @@
 
 ## others 
 
+- [eric200203/hexo-mahgen](https://github.com/eric200203/hexo-mahgen) - Mahgen plugin for Hexo.
+- [eric200203/mahgen](https://github.com/eric200203/mahgen) - 🀄️ mahgen is a simple library that generates corresponding mahjong tile images for given sequences.
+- [nekobean/mahjong-cpp](https://github.com/nekobean/mahjong-cpp) - Miscellaneous programs about Japanese Mahjong
 - [TanakaKotoha/tenhou-se-and-bg](https://github.com/TanakaKotoha/tenhou-se-and-bg) - 天凤自用自定义SE
 - [chen310/tenhou-se](https://github.com/chen310/tenhou-se) - 在天凤中使用雀魂角色的语音
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
