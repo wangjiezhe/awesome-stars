@@ -421,7 +421,6 @@
 - [TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates) - Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.
 - [Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single) - 🎈 一个简洁大气，含夜间模式的 Typecho 博客主题
 - [yoniu/twitter](https://github.com/yoniu/twitter) - typecho微仿推特主题 https://www.200011.net
-- [wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe) - typecho主题,根据当前博客园的主题整合开发
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [yfzhao20/Typora-markdown](https://github.com/yfzhao20/Typora-markdown) - 试验性的存储库，用于存放Typora折腾过的css样式和其他
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -2006,6 +2005,7 @@
 - [Siphils/Typecho-Theme-Aria](https://github.com/Siphils/Typecho-Theme-Aria) - Typecho Theme Aria - 书写自己的篇章
 - [EAimTY/materiality-typecho-theme](https://github.com/EAimTY/materiality-typecho-theme) - 一款简洁并专注于显示文字内容的 Material Design 风格 Typecho 主题，基于 MDUI
 - [bakaomg/castle-Typecho-Theme](https://github.com/bakaomg/castle-Typecho-Theme) - Typecho Theme | MD 风格单栏主题
+- [wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe) - typecho主题,根据当前博客园的主题整合开发
 - [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [eastonman/material](https://github.com/eastonman/material) - New Material —— A Material Design Theme for Typecho
 - [pagecho/maupassant](https://github.com/pagecho/maupassant) - A simple typecho template.
