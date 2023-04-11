@@ -2501,7 +2501,7 @@
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
 - [yfzhao20/Hsnips-Snippets](https://github.com/yfzhao20/Hsnips-Snippets) - HyperSnips Snippets for markdown (and LaTeX?)
 - [pku-minic/online-doc](https://github.com/pku-minic/online-doc) - PKU compiler course online documentation.
-- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
+- [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [ProletRevDicta/Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
