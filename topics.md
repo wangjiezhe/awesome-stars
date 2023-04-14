@@ -383,6 +383,7 @@
 
 ## awesome 
 
+- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [vfxpro99/usd-resources](https://github.com/vfxpro99/usd-resources) - A curated list of USD projects and resources
@@ -451,6 +452,7 @@
 
 ## awesome-list 
 
+- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [vfxpro99/usd-resources](https://github.com/vfxpro99/usd-resources) - A curated list of USD projects and resources
@@ -611,6 +613,7 @@
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含 深度学习、deeplearning、无人驾驶、BEV、ADAS、 CVPR2023、特斯拉 AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com；Roc 2022.10
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 
@@ -909,7 +912,7 @@
 
 ## deep-learning 
 
-- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含 深度学习、deeplearning、无人驾驶、ADAS、 CVPR2023、特斯拉 AI DAY 等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com；Roc 2022.10
+- [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes) - 自动驾驶更新笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含 深度学习、deeplearning、无人驾驶、BEV、ADAS、 CVPR2023、特斯拉 AI DAY等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。 未完待续........ 如有合作意向，请联系 nwaysir@163.com；Roc 2022.10
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1993,6 +1996,7 @@
 - [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [LCTT/LCBot](https://github.com/LCTT/LCBot) - Linux 中国 微信群机器人（已经停止维护）
 - [tinyclub/open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程《360° 剖析 Linux ELF》已上线，视频讲解更为系统和深入，欢迎订阅：https://www.cctalk.com/m/group/88089283
