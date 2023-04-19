@@ -1364,7 +1364,7 @@
 - [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1405,7 +1405,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
-- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 - [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
@@ -2413,10 +2413,11 @@
 
 ## others 
 
+- [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [acgotaku/iptv](https://github.com/acgotaku/iptv) - IPTV for myself!
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 干净无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单 - 日更中！
 - [dkim/rwo-lwt](https://github.com/dkim/rwo-lwt) - Lwt Translations of the Async Code Examples in Real World OCaml
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [eric200203/hexo-mahgen](https://github.com/eric200203/hexo-mahgen) - Mahgen plugin for Hexo.
