@@ -3891,7 +3891,7 @@
 - [douban/code](https://github.com/douban/code) - [DEPRECATED]Douban CODE
 - [jiacai2050/gooreplacer.xpi](https://github.com/jiacai2050/gooreplacer.xpi) - DEPRECATED. 本仓库采用的 Add-on SDK 技术以废弃。 可参考最新的 WebExtensions 在
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
+- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [ruanyf/reading-list](https://github.com/ruanyf/reading-list) - Some books I read
 - [jfmcarreira/ktikz](https://github.com/jfmcarreira/ktikz) - KtikZ provides a nice user interface for making pictures using TikZ.
 - [observerss/ngender](https://github.com/observerss/ngender) - 根据姓名来判断性别
