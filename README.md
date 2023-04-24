@@ -482,7 +482,7 @@
 - [ronilaukkarinen/typora-writing-theme](https://github.com/ronilaukkarinen/typora-writing-theme) - A simple Typora theme just for distract-free writing.
 - [douban/code](https://github.com/douban/code) - [DEPRECATED]Douban CODE
 - [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
+- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [huangz1990/der](https://github.com/huangz1990/der) - 《Redis 设计与实现》所使用的 sphinx 样式。
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [1sters/material_design_zh](https://github.com/1sters/material_design_zh) - Material Design 中文协同翻译 - design.1sters.com
