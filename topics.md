@@ -2440,7 +2440,7 @@
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [SmokelessCPUv2/SmokelessRuntimeEFIPatcher](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher) - A Simple Tool to patch EFI Modules at Runtime
 - [coq-community/coq-100-theorems](https://github.com/coq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
-- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
+- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&&直播代码收集仓库
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
@@ -3969,7 +3969,7 @@
 - [stumpwm/stumpwm](https://github.com/stumpwm/stumpwm) - The Stump Window Manager
 - [kuanyui/.emacs.d](https://github.com/kuanyui/.emacs.d) - ˊ・ω・ˋ Emacs~~
 - [clerkma/ptex-ng](https://github.com/clerkma/ptex-ng) - Asiatic pTeX
-- [0xYootou/js2image](https://github.com/0xYootou/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
+- [aoao-eth/js2image](https://github.com/aoao-eth/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
 - [gap-system/gap](https://github.com/gap-system/gap) - Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking) - A curated list of awesome networking libraries, resources and shiny things
