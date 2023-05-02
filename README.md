@@ -692,7 +692,7 @@
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
-- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&&直播代码收集仓库
+- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV收集仓库
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
@@ -1542,6 +1542,8 @@
 
 ## OCaml 
 
+- [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
+- [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [bmourad01/eoc](https://github.com/bmourad01/eoc) - A compiler for a subset of Typed Racket.
 - [dkim/rwo-lwt](https://github.com/dkim/rwo-lwt) - Lwt Translations of the Async Code Examples in Real World OCaml
 - [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
@@ -1573,6 +1575,8 @@
 
 ## Others 
 
+- [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [carpedm20/awesome-torch](https://github.com/carpedm20/awesome-torch) - A curated list of awesome Torch tutorials, projects and communities
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单 - 日更中！
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -2090,6 +2094,7 @@
 
 ## Python 
 
+- [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
