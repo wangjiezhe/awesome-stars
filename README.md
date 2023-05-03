@@ -865,7 +865,6 @@
 - [marboo/orgmode-cn](https://github.com/marboo/orgmode-cn) - orgmode中文主页(非官方)
 - [emacs-china/emacs-lisp-cn](https://github.com/emacs-china/emacs-lisp-cn) - emacs lisp文档中文翻译
 - [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
-- [swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
 - [rdpeng/courses](https://github.com/rdpeng/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [andrewyuan/andrewyuan.github.io](https://github.com/andrewyuan/andrewyuan.github.io) - 
@@ -2869,6 +2868,7 @@
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [texmacs/texmacs-doc-chinese-translation](https://github.com/texmacs/texmacs-doc-chinese-translation) - TeXmacs文档翻译
+- [swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
 - [drizzd/octave-forge-archlinux](https://github.com/drizzd/octave-forge-archlinux) - A collection of Archlinux packages for octave-forge. Please report issues directly in AUR (patches are welcome):
