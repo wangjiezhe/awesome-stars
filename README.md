@@ -2093,6 +2093,8 @@
 
 ## Python 
 
+- [YuezhengChuixing/manim-projects](https://github.com/YuezhengChuixing/manim-projects) - 乐正垂星的个人manim项目库。存放了B站视频的源码与一些练习。乐正垂星的B站主页：https://space.bilibili.com/2057313067
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
