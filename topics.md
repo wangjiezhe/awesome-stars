@@ -1006,7 +1006,7 @@
 
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Redteam operation  platform with webui 图形化红队行动辅助平台
 - [PHPirates/travis-ci-latex-pdf](https://github.com/PHPirates/travis-ci-latex-pdf) - Overview of different methods to build LaTeX with GitHub Actions or Travis-CI (idea by @jackolney but completely rewritten by @PHPirates and contributors).
@@ -2435,6 +2435,10 @@
 
 ## others 
 
+- [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
+- [fdopen/ppx_cstubs](https://github.com/fdopen/ppx_cstubs) - preprocessor for easier stub generation with ocaml-ctypes
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
 - [YuezhengChuixing/manim-projects](https://github.com/YuezhengChuixing/manim-projects) - 乐正垂星的个人manim项目库。存放了B站视频的源码与一些练习。乐正垂星的B站主页：https://space.bilibili.com/2057313067
 - [carpedm20/awesome-torch](https://github.com/carpedm20/awesome-torch) - A curated list of awesome Torch tutorials, projects and communities
 - [bmourad01/eoc](https://github.com/bmourad01/eoc) - A compiler for a subset of Typed Racket.
@@ -2779,7 +2783,7 @@
 - [rachpt/lanzou-gui](https://github.com/rachpt/lanzou-gui) - 蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本
 - [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au) - RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 - [SeaLoong/BLRHH](https://github.com/SeaLoong/BLRHH) - Bilibili直播间挂机助手3 - 油猴脚本。
-- [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
+- [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 - [nogasm/nogasm](https://github.com/nogasm/nogasm) - Software and hardware for Arduino-based orgasm prediction / detection
 - [night-howler/protogasm](https://github.com/night-howler/protogasm) - Software and hardware for Arduino-based orgasm prediction / detection ... on protoboard!
 - [Trojan-Qt5/Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) - Removed due to regulation
@@ -4179,7 +4183,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [wklken/k-vim](https://github.com/wklken/k-vim) - vim配置
-- [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
+- [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（https://markdown.kuapp.com/）
 - [Bumblebee-Project/bbswitch](https://github.com/Bumblebee-Project/bbswitch) - Disable discrete graphics (currently nvidia only)
 - [xiehuc/pidgin-lwqq](https://github.com/xiehuc/pidgin-lwqq) - a pidgin plugin based on lwqq, a excellent safe useful library for webqq protocol
 
@@ -4290,7 +4294,7 @@
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 - [shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python) - 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
