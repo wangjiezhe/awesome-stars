@@ -548,6 +548,7 @@
 
 ## Coq 
 
+- [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
 - [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 - [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - A Coq library for Homotopy Type Theory
 
@@ -688,11 +689,12 @@
 
 ## Go 
 
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
-- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV收集仓库
+- [youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
@@ -871,7 +873,7 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [erjjones/erjjones.github.com](https://github.com/erjjones/erjjones.github.com) - 
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
-- [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
+- [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（https://markdown.kuapp.com/）
 
 ## Handlebars 
 
@@ -1541,6 +1543,8 @@
 
 ## OCaml 
 
+- [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
+- [fdopen/ppx_cstubs](https://github.com/fdopen/ppx_cstubs) - preprocessor for easier stub generation with ocaml-ctypes
 - [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [bmourad01/eoc](https://github.com/bmourad01/eoc) - A compiler for a subset of Typed Racket.
@@ -2119,7 +2123,7 @@
 - [zhimingshenjun/DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室第一版
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [qs956/Latex_OCR_Pytorch](https://github.com/qs956/Latex_OCR_Pytorch) - 基于Pytorch实现的End-to-End图像Latex公式识别 inspire by LinXueyuanStdio/LaTeX_OCR_PRO
 - [syimyuzya/guangyun0704](https://github.com/syimyuzya/guangyun0704) - 有女同車《〈廣韻〉全字表》原表
 - [ziweizhao1993/Majsoul-Converter](https://github.com/ziweizhao1993/Majsoul-Converter) - Majsoul paifu to Tenhou converter 雀魂天凤牌谱格式转换
@@ -3090,7 +3094,7 @@
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
-- [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
+- [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 - [veaba/ncov](https://github.com/veaba/ncov) - 【在开发2.x版本，暂时关闭站点！新版大屏beta 版本，全实时数据，交互式大屏，精确到城市级，弹幕来袭】关注2019新型冠状病毒（2019-nCoV），数据可视化感染人群热点图、迁徙扩散轨迹，以提供帮助分析疫情。 愿世界安好。Focus on Wuhan 2019-nCoV, data visualization, to help analyze the epidemic situation. 
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [SAPikachu/amae-koromo](https://github.com/SAPikachu/amae-koromo) - 雀魂牌谱屋 (See also: https://github.com/SAPikachu/amae-koromo-scripts )
