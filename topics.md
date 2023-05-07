@@ -2466,7 +2466,7 @@
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [SmokelessCPUv2/SmokelessRuntimeEFIPatcher](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher) - A Simple Tool to patch EFI Modules at Runtime
 - [coq-community/coq-100-theorems](https://github.com/coq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
-- [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV收集仓库
+- [youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
