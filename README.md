@@ -691,6 +691,7 @@
 
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
@@ -865,7 +866,6 @@
 - [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
 - [marboo/orgmode-cn](https://github.com/marboo/orgmode-cn) - orgmode中文主页(非官方)
 - [emacs-china/emacs-lisp-cn](https://github.com/emacs-china/emacs-lisp-cn) - emacs lisp文档中文翻译
-- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [rdpeng/courses](https://github.com/rdpeng/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [andrewyuan/andrewyuan.github.io](https://github.com/andrewyuan/andrewyuan.github.io) - 
@@ -1036,7 +1036,7 @@
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
 - [dmsm/scissors-congruence](https://github.com/dmsm/scissors-congruence) - An interactive demonstration of the Wallace–Bolyai–Gerwien theorem.
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
+- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [scriptype/sorted-colors](https://github.com/scriptype/sorted-colors) - A tool to sort the named CSS colors in a way that it shows related colors together
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！）
 - [LingDong-/grand-timeline](https://github.com/LingDong-/grand-timeline) - Interactive grand unified timeline of 30,800 ancient Chinese people / 古人全表
@@ -1404,7 +1404,6 @@
 - [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
 - [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
-- [datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists
 - [zlotus/notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
@@ -1468,7 +1467,6 @@
 
 ## Lua 
 
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Tsubajashi/mpv-settings](https://github.com/Tsubajashi/mpv-settings) - basically my settings for MPV
 - [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies (fork)
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
@@ -1988,6 +1986,8 @@
 - [lvzongting/loongson-parabola](https://github.com/lvzongting/loongson-parabola) - parabola for loongson some note
 - [codeinthedark/awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
+- [swcarpentry/sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey) - Databases and SQL
+- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [tvvocold/free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh) - 国内免费开发工具/服务清单
@@ -2097,6 +2097,7 @@
 
 ## Python 
 
+- [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [YuezhengChuixing/manim-projects](https://github.com/YuezhengChuixing/manim-projects) - 乐正垂星的个人manim项目库。存放了B站视频的源码与一些练习。乐正垂星的B站主页：https://space.bilibili.com/2057313067
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
@@ -2283,6 +2284,7 @@
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [lepture/flask-weixin](https://github.com/lepture/flask-weixin) - Weixin implementation in Flask.
 - [Clover27/ancient-Chinese-poem-generator](https://github.com/Clover27/ancient-Chinese-poem-generator) - course project
+- [datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
@@ -2530,7 +2532,6 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) - Programming with Python
-- [swcarpentry/sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey) - Databases and SQL
 - [swcarpentry/hg-novice](https://github.com/swcarpentry/hg-novice) - Software Carpentry introduction to Mercurial for novices.
 - [marcharper/python-ternary](https://github.com/marcharper/python-ternary) - :small_red_triangle: Ternary plotting library for python with matplotlib
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
