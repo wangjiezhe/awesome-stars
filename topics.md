@@ -2441,6 +2441,7 @@
 
 ## others 
 
+- [achlipala/frap](https://github.com/achlipala/frap) - Formal Reasoning About Programs
 - [janestreet/torch](https://github.com/janestreet/torch) - 
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
 - [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
