@@ -548,6 +548,7 @@
 
 ## Coq 
 
+- [achlipala/frap](https://github.com/achlipala/frap) - Formal Reasoning About Programs
 - [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 - [coq-community/corn](https://github.com/coq-community/corn) - Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe]
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
