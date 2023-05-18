@@ -138,6 +138,7 @@
 
 ## C 
 
+- [shunf4/proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection
 - [SmokelessCPUv2/SmokelessRuntimeEFIPatcher](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher) - A Simple Tool to patch EFI Modules at Runtime
 - [loongson-community/pmon](https://github.com/loongson-community/pmon) - Community's fork of Loongson PMON bootloader
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -879,6 +880,7 @@
 
 ## Haskell 
 
+- [slovnicki/pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus
 - [feramhq/Perspec](https://github.com/feramhq/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dpiponi/quine-central](https://github.com/dpiponi/quine-central) - A quine generator
 - [HaskellZhangSong/Introduction_to_Haskell_2ed_source](https://github.com/HaskellZhangSong/Introduction_to_Haskell_2ed_source) - 这是Haskell函数式编程入门第2版的源码
@@ -1654,7 +1656,7 @@
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [rime-aca/rime-middle-chinese-phonetics](https://github.com/rime-aca/rime-middle-chinese-phonetics) - 廣韻查詢
 - [lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP) - 百度云百度网盘超级会员账号SVIP账号 分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.
-- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站
+- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站 镜像直连 机场推荐
 - [xiaoMGitHub/LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh) - 适用于 Lenovo LEGION Y7000/Y7000P-2018、Y7000/Y7000P-2019、Y7000/Y7000P-2020、Y9000K-2018、Y9000K-2019、Y9000K-2020 系列安装 MacOS（支持MacOS 10.13.6 - MacOS Monterey）For Lenovo LEGION Y530/Y540/Y545/Y730/Y740 serie
 - [baiduxunlei/baidu_xunlei_share](https://github.com/baiduxunlei/baidu_xunlei_share) - 【免费】百度网盘超级会员，迅雷白金会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)，迅雷不限速工具分享。每天六点半准时更新　统统免费！！！。
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场
