@@ -10,7 +10,6 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
@@ -117,10 +116,6 @@
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoHotkey 
 
@@ -1589,7 +1584,7 @@
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [carpedm20/awesome-torch](https://github.com/carpedm20/awesome-torch) - A curated list of awesome Torch tutorials, projects and communities
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单 - 日更中！
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单！
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [TanakaKotoha/tenhou-se-and-bg](https://github.com/TanakaKotoha/tenhou-se-and-bg) - 天凤自用自定义SE
 - [moxcomic/MajsoulAI](https://github.com/moxcomic/MajsoulAI) - 雀魂/天凤四人麻将AI；目前段位 雀魂魂天 天凤488战8段(安十段)。
@@ -2286,7 +2281,7 @@
 - [madmaze/pyNmonAnalyzer](https://github.com/madmaze/pyNmonAnalyzer) - Python tool for reformatting and plotting/graphing NMON output
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [chatopera/Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答工具包
-- [liuwons/wxBot](https://github.com/liuwons/wxBot) - Python网页微信API
+- [liuwons/wxBot](https://github.com/liuwons/wxBot) - Deprecated
 - [youfou/wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [LCTT/LCBot](https://github.com/LCTT/LCBot) - Linux 中国 微信群机器人（已经停止维护）
 - [Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus) - 倉頡三代補完計畫
@@ -2931,6 +2926,7 @@
 
 ## TeX 
 
+- [digama0/lean-type-theory](https://github.com/digama0/lean-type-theory) - LaTeX code for a paper on lean's type theory
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
@@ -3141,6 +3137,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
