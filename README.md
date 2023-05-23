@@ -2392,6 +2392,7 @@
 - [PythonTG/PythonTG](https://github.com/PythonTG/PythonTG) - Python Translation Group
 - [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
 - [huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
 - [hylarucoder/danmu.fm](https://github.com/hylarucoder/danmu.fm) - douyutv danmu 斗鱼TV 弹幕助手
