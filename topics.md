@@ -185,6 +185,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -4709,6 +4710,12 @@
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+## self-hosted 
+
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## server 
 
