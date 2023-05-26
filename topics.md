@@ -2471,7 +2471,7 @@
 - [acgotaku/iptv](https://github.com/acgotaku/iptv) - IPTV for myself!
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单！
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 你的《人工智能指南》- 奶酪清单！
 - [dkim/rwo-lwt](https://github.com/dkim/rwo-lwt) - Lwt Translations of the Async Code Examples in Real World OCaml
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [eric200203/hexo-mahgen](https://github.com/eric200203/hexo-mahgen) - Mahgen plugin for Hexo.
@@ -3211,7 +3211,7 @@
 - [tobegit3hub/understand_linux_process](https://github.com/tobegit3hub/understand_linux_process) - The open-source ebook of Understand Linux Process
 - [yourtion/objc-zen-book-cn](https://github.com/yourtion/objc-zen-book-cn) - GitBook for 《禅与 Objective-C 编程艺术》
 - [hk029/leetbook](https://github.com/hk029/leetbook) - LeetCode题解开源书《LeetBook》
-- [LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - Advanced Bash-Scripting Guide(Revision 10)翻译计划
+- [LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - 《Bash脚本进阶指南》第十次修订版 中文版
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [leanklass/leanreact](https://github.com/leanklass/leanreact) - 精益 react 学习指南
 - [promesante/paip-racket](https://github.com/promesante/paip-racket) - 
