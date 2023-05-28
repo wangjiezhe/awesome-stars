@@ -260,6 +260,7 @@
 
 ## C# # 
 
+- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [cqjjjzr/MusicBee-DesktopLyrics](https://github.com/cqjjjzr/MusicBee-DesktopLyrics) - Show the lyrics on your desktop from MusicBee!
@@ -1580,6 +1581,7 @@
 
 ## Others 
 
+- [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho and Ichiten Ming. 一款衍生于「IPAmj明朝」和「一点明体」的中文宋体字型。
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [carpedm20/awesome-torch](https://github.com/carpedm20/awesome-torch) - A curated list of awesome Torch tutorials, projects and communities
@@ -2102,6 +2104,7 @@
 
 ## Python 
 
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [benmoose39/YouTube_to_m3u](https://github.com/benmoose39/YouTube_to_m3u) - Grabs m3u from YouTube live.
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [YuezhengChuixing/manim-projects](https://github.com/YuezhengChuixing/manim-projects) - 乐正垂星的个人manim项目库。存放了B站视频的源码与一些练习。乐正垂星的B站主页：https://space.bilibili.com/2057313067
