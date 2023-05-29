@@ -251,7 +251,7 @@
 - [Tasssadar/Team-Win-Recovery-Project](https://github.com/Tasssadar/Team-Win-Recovery-Project) - Core of TWRP modified for MultiROM
 - [Tasssadar/multirom](https://github.com/Tasssadar/multirom) - MultiROM for Nexus 7 and LG Optimus One
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ThomasAdam/fvwm](https://github.com/ThomasAdam/fvwm) - Git clone of the FVWM CVS repository.
 - [xiehuc/lwqq](https://github.com/xiehuc/lwqq) - A Cross Platform WebQQ Protocol
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -691,7 +691,7 @@
 ## Go 
 
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
@@ -2660,6 +2660,7 @@
 
 ## Roff 
 
+- [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS) - 百度网盘命令行工具。The terminal utility for Baidu Network Disk.
 
 ## Ruby 
