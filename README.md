@@ -260,6 +260,7 @@
 
 ## C# # 
 
+- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
@@ -690,6 +691,7 @@
 
 ## Go 
 
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compat
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
@@ -1033,6 +1035,7 @@
 - [honvl/Majsoul-to-NAGA](https://github.com/honvl/Majsoul-to-NAGA) - Use Mahjong Soul Logs with NAGA AI analysis
 - [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
+- [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [parpalak/upmath.me](https://github.com/parpalak/upmath.me) - Markdown and LaTeX online editor - create text for web with equations and diagrams
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
@@ -2027,7 +2030,6 @@
 - [Siphils/Typecho-Theme-Aria](https://github.com/Siphils/Typecho-Theme-Aria) - Typecho Theme Aria - 书写自己的篇章
 - [EAimTY/materiality-typecho-theme](https://github.com/EAimTY/materiality-typecho-theme) - 一款简洁并专注于显示文字内容的 Material Design 风格 Typecho 主题，基于 MDUI
 - [bakaomg/castle-Typecho-Theme](https://github.com/bakaomg/castle-Typecho-Theme) - Typecho Theme | MD 风格单栏主题
-- [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [eastonman/material](https://github.com/eastonman/material) - New Material —— A Material Design Theme for Typecho
 - [pagecho/maupassant](https://github.com/pagecho/maupassant) - A simple typecho template.
 - [dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy) - Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/
