@@ -2463,7 +2463,7 @@
 - [shunf4/proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection
 - [achlipala/frap](https://github.com/achlipala/frap) - Formal Reasoning About Programs
 - [janestreet/torch](https://github.com/janestreet/torch) - 
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
+- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
 - [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 - [coq-community/corn](https://github.com/coq-community/corn) - Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe]
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
