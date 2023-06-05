@@ -1584,6 +1584,7 @@
 
 ## Others 
 
+- [dundalek/awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
 - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho and Ichiten Ming. 一款衍生于「IPAmj明朝」和「一点明体」的中文宋体字型。
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -2767,6 +2768,7 @@
 
 ## Shell 
 
+- [laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集現代漢語方言和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
 - [stefantalpalaru/gentoo-overlay](https://github.com/stefantalpalaru/gentoo-overlay) - Gentoo overlay
 - [MattiaGaspa/gentoolinux-ohmyzsh](https://github.com/MattiaGaspa/gentoolinux-ohmyzsh) - Gentoo plugins for oh-my-zsh framework
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
