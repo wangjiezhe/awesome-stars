@@ -138,6 +138,7 @@
 
 ## C 
 
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [shunf4/proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection
 - [SmokelessCPUv2/SmokelessRuntimeEFIPatcher](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher) - A Simple Tool to patch EFI Modules at Runtime
 - [loongson-community/pmon](https://github.com/loongson-community/pmon) - Community's fork of Loongson PMON bootloader
