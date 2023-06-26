@@ -4737,7 +4737,7 @@
 ## security 
 
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [dosyago/documentspark](https://github.com/dosyago/documentspark) - 💖 DocumentSpark - Simple secure document viewing server. Converts a document to a picture of its pages. Content disarm and reconstruction. CDR. Formerly p2. The CDR solution for ViewFinder remote brow
+- [dosyago/documentspark](https://github.com/dosyago/documentspark) - 💖 DocumentSpark - Simple secure document viewing server. Converts a document to a picture of its pages. Content disarm and reconstruction. CDR. Formerly p2. The CDR solution for BrowserBox Pro remote 
 - [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
