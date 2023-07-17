@@ -286,7 +286,7 @@
 - [pandolia/easy-service](https://github.com/pandolia/easy-service) - 
 - [jjw24/Wox](https://github.com/jjw24/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制
+- [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
 - [zyzsdy/biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制
 - [iccfish/Cn12306UnofficalClient](https://github.com/iccfish/Cn12306UnofficalClient) - 12306非官方客户端
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
