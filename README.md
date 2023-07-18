@@ -1253,7 +1253,7 @@
 - [syaning/zhihu-api](https://github.com/syaning/zhihu-api) - Unofficial API for zhihu.
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
-- [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers
+- [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers.
 - [wetools/wept](https://github.com/wetools/wept) - 微信小程序多端实时运行工具
 - [WhiteBlue/bilibili-html5](https://github.com/WhiteBlue/bilibili-html5) - An unofficial website of BiliBili build with React.js
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
