@@ -837,6 +837,7 @@
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
 - [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) - No Maintenance Intended
+- [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -1232,7 +1233,6 @@
 - [lepture/social](https://github.com/lepture/social) - Share your notes with a beautiful social button.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
 - [LCTT/WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
-- [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [dozer47528/zhihu-block-chrome-extension](https://github.com/dozer47528/zhihu-block-chrome-extension) - 知乎用户屏蔽插件
 - [SuzanneSoy/scribble-math](https://github.com/SuzanneSoy/scribble-math) - Integration of MathJax, KaTeX and Asymptote with scribble, to typeset math in Racket documentation
 - [ywzhaiqi/userscript](https://github.com/ywzhaiqi/userscript) - 本人原创或修改的 GM 脚本，包括小说阅读脚本等。
@@ -2119,6 +2119,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [atroyn/math-llm](https://github.com/atroyn/math-llm) - Grounding LLM mathematical reasoning with proof assistants.
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 - [lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API
