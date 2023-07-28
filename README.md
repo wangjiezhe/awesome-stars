@@ -805,7 +805,6 @@
 - [yuxtech/yuxtech.github.io](https://github.com/yuxtech/yuxtech.github.io) - 
 - [F4bwDP6a6W/FLY_US](https://github.com/F4bwDP6a6W/FLY_US) - 美国大学备考资料 How to apply US colleges
 - [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
-- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [abcnews/data-life](https://github.com/abcnews/data-life) - Data collection and analysis to support a series of stories about data privacy.
@@ -1121,6 +1120,7 @@
 - [baka-levey/majsoul_test](https://github.com/baka-levey/majsoul_test) - 雀魂魔改测试
 - [UsernameFull/majsoul_mod](https://github.com/UsernameFull/majsoul_mod) - 雀魂majsoul的一个mod,用于majsoul-plus。可解锁全人物，道具等。
 - [Fr0stbyteR/Majsoul-Helper](https://github.com/Fr0stbyteR/Majsoul-Helper) - 使用天凤牌理规则，根据牌效将推荐切牌染色
+- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 - [listen1/listen1-api](https://github.com/listen1/listen1-api) - One API for all free music in China
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
