@@ -101,6 +101,7 @@
 
 ## ActionScript 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [FerryYoungFan/SoManyRoaches](https://github.com/FerryYoungFan/SoManyRoaches) - 满满一桌面的小强！
 - [FerryYoungFan/VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) - 一只蟑螂桌面“宠物” Cockroach Desktop "Pet"
 
@@ -567,6 +568,7 @@
 
 ## Dart 
 
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 
 ## Dockerfile 
@@ -1593,6 +1595,7 @@
 
 ## Others 
 
+- [kozalak-robot/iptv](https://github.com/kozalak-robot/iptv) - 自用iptv播放列表
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -2120,6 +2123,7 @@
 
 ## Python 
 
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [atroyn/math-llm](https://github.com/atroyn/math-llm) - Grounding LLM mathematical reasoning with proof assistants.
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
@@ -2720,7 +2724,6 @@
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [JP-Ellis/mathematica-notebook-filter](https://github.com/JP-Ellis/mathematica-notebook-filter) - Filter Mathematica notebooks to commit them more easily
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
