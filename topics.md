@@ -226,7 +226,7 @@
 ## ai 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [moxcomic/MajsoulAI](https://github.com/moxcomic/MajsoulAI) - 雀魂/天凤四人麻将AI；目前段位 雀魂魂天 天凤488战8段(安十段)。
@@ -343,7 +343,7 @@
 
 ## api 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
@@ -408,7 +408,7 @@
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing
+- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
 - [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) - A curated list of awesome TikZ documentations, libraries and resources
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [wowlusitong/awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
@@ -416,7 +416,7 @@
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
@@ -1037,6 +1037,7 @@
 - [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -1678,12 +1679,11 @@
 - [DaidoujiChen/Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai) - 一個普通的看漫畫 App
 - [LiteAVSDK/Player_iOS](https://github.com/LiteAVSDK/Player_iOS) - Super player for iOS...
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing
+- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [CoderZhuXH/XHPayKit](https://github.com/CoderZhuXH/XHPayKit) - 🔥不用官方SDK实现微信支付、支付宝支付
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [nimomeng/30-swift-projects-in-30-days](https://github.com/nimomeng/30-swift-projects-in-30-days) - This is the demos to show 30 demos finishes in 30 days (or more)
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -1928,7 +1928,7 @@
 
 ## kubernetes 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
@@ -2060,6 +2060,7 @@
 - [tinyclub/open-c-book](https://github.com/tinyclub/open-c-book) - 开源书籍:《C语言编程透视》，配套视频课程《360° 剖析 Linux ELF》已上线，视频讲解更为系统和深入，欢迎订阅：https://www.cctalk.com/m/group/88089283
 - [tinyclub/open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！本书作者发布了《360°剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283
 - [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [EUA/wxHexEditor](https://github.com/EUA/wxHexEditor) - wxHexEditor official GIT repo
@@ -2203,7 +2204,7 @@
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac
 - [alanzchen/rm-protection](https://github.com/alanzchen/rm-protection) - A safe alternative for "rm".
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -4627,6 +4628,7 @@
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
