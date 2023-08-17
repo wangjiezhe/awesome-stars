@@ -394,6 +394,7 @@
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [yangyangwithgnu/yosong](https://github.com/yangyangwithgnu/yosong) - baidu.com song final download parse tool
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 - [qdore/Mutate](https://github.com/qdore/Mutate) - A simple launcher inspired by Alfred for ubuntu and Fedora.
 - [mytbk/fqterm](https://github.com/mytbk/fqterm) - 
@@ -1011,7 +1012,6 @@
 - [albertlatacz/java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java
 - [Glucosio/glucosio-android](https://github.com/Glucosio/glucosio-android) - Glucosio Android App
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [andDevW/getChromium](https://github.com/andDevW/getChromium) - Installs the latest build of Chromium on Android & Chrome OS.
 - [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
@@ -1406,7 +1406,7 @@
 - [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
 - [jm199504/Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) - 小型金融知识图谱构建流程
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
-- [wuyudi/IntWithStepsOfTeXForm](https://github.com/wuyudi/IntWithStepsOfTeXForm) - 不定积分过程生成器（By Mathematica）
+- [asukaminato0721/IntWithStepsOfTeXForm](https://github.com/asukaminato0721/IntWithStepsOfTeXForm) - 不定积分过程生成器（By Mathematica）
 - [TsingJyujing/BlackHeartHospitalClassifier](https://github.com/TsingJyujing/BlackHeartHospitalClassifier) - 莆田系医院名称分类器
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
