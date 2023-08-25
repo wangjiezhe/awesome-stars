@@ -1133,7 +1133,6 @@
 - [zthxxx/hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [nswbmw/N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Fndroid/tg_push_bot](https://github.com/Fndroid/tg_push_bot) - Telegram推送机器人
 - [soruly/trace.moe-telegram-bot](https://github.com/soruly/trace.moe-telegram-bot) - This Telegram Bot can tell the anime when you send an screenshot to it
 - [MoePlayer/hexo-tag-dplayer](https://github.com/MoePlayer/hexo-tag-dplayer) - Embed dplayer in Hexo posts/pages
@@ -1594,6 +1593,7 @@
 
 ## Others 
 
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋：开源正文仿宋字库计划
 - [kozalak-robot/iptv](https://github.com/kozalak-robot/iptv) - 自用iptv播放列表
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
@@ -2121,6 +2121,7 @@
 
 ## Python 
 
+- [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -2271,6 +2272,7 @@
 - [abusetelegram/xixi-haha](https://github.com/abusetelegram/xixi-haha) - 📖 习语大集合
 - [bowenpay/wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [littlecodersh/itchatmp](https://github.com/littlecodersh/itchatmp) - A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。
 - [yidao620c/core-algorithm](https://github.com/yidao620c/core-algorithm) - 算法集锦的python实现
 - [sillybun/vim-autodoc](https://github.com/sillybun/vim-autodoc) - 
