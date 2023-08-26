@@ -1247,7 +1247,7 @@
 
 ## font 
 
-- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋：开源正文仿宋字库计划
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [GuiWonder/EarlySummerMincho](https://github.com/GuiWonder/EarlySummerMincho) - Early Summer Mincho 初夏明朝體
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
