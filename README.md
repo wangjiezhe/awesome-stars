@@ -839,7 +839,6 @@
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
 - [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) - No Maintenance Intended
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
@@ -1593,7 +1592,6 @@
 
 ## Others 
 
-- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [kozalak-robot/iptv](https://github.com/kozalak-robot/iptv) - 自用iptv播放列表
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
@@ -2346,6 +2344,7 @@
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [lilydjwg/search-and-view](https://github.com/lilydjwg/search-and-view) - Tools to make searching and viewing easy.
 - [getpelican/pelican-plugins](https://github.com/getpelican/pelican-plugins) - Collection of plugins for the Pelican static site generator
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [banyh/PyStanfordNLP](https://github.com/banyh/PyStanfordNLP) - A Python Wrapper of Stanford Chinese Segmenter
 - [dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow
 - [indiejoseph/cnn-text-classification-tf-chinese](https://github.com/indiejoseph/cnn-text-classification-tf-chinese) - CNN for Chinese Text Classification in Tensorflow
@@ -2795,6 +2794,7 @@
 
 ## Shell 
 
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
 - [stefantalpalaru/gentoo-overlay](https://github.com/stefantalpalaru/gentoo-overlay) - Gentoo overlay
 - [MattiaGaspa/gentoolinux-ohmyzsh](https://github.com/MattiaGaspa/gentoolinux-ohmyzsh) - Gentoo plugins for oh-my-zsh framework
