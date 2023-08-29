@@ -781,7 +781,6 @@
 ## HTML 
 
 - [acgotaku/iptv](https://github.com/acgotaku/iptv) - IPTV for myself!
-- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [chen310/tenhou-se](https://github.com/chen310/tenhou-se) - 在天凤中使用雀魂角色的语音
 - [coq-community/coq-100-theorems](https://github.com/coq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
@@ -1029,6 +1028,7 @@
 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [eric200203/hexo-mahgen](https://github.com/eric200203/hexo-mahgen) - Mahgen plugin for Hexo.
 - [kbkn3/MahjongSoul-review-supporter](https://github.com/kbkn3/MahjongSoul-review-supporter) - This is a chrome extension that automatically sends Paihu to an AI-based analysis tool for Mahjong Soul
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
@@ -1717,7 +1717,6 @@
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [cjkvi/cjkvi-tables](https://github.com/cjkvi/cjkvi-tables) - 様々な漢字表のデータベース
 - [aaranxu/chinese-copywriting-guidelines](https://github.com/aaranxu/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines / 中文排版指南
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [mathedu4all/mathcrowd-community](https://github.com/mathedu4all/mathcrowd-community) - some documents for Mathcrowd Community
 - [kattgu7/Anti-996-License](https://github.com/kattgu7/Anti-996-License) - Anti-996 License Version 1.0
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
