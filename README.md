@@ -318,7 +318,7 @@
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 - [Presburger/qmc-decoder](https://github.com/Presburger/qmc-decoder) - Fastest & best convert qmc 2 mp3 | flac tools
 - [lmintlcx/pvztoolkit](https://github.com/lmintlcx/pvztoolkit) - 植物大战僵尸 PC 版综合修改器
-- [Cryolite/kanachan](https://github.com/Cryolite/kanachan) - A Mahjong AI for Mahjong Soul (雀魂)
+- [Cryolite/kanachan](https://github.com/Cryolite/kanachan) - A Japanese (Riichi) Mahjong AI Framework
 - [critter-mj/akochan](https://github.com/critter-mj/akochan) - Artificial Intelligence for Japanese mahjong
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -1717,6 +1717,7 @@
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [cjkvi/cjkvi-tables](https://github.com/cjkvi/cjkvi-tables) - 様々な漢字表のデータベース
 - [aaranxu/chinese-copywriting-guidelines](https://github.com/aaranxu/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines / 中文排版指南
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [mathedu4all/mathcrowd-community](https://github.com/mathedu4all/mathcrowd-community) - some documents for Mathcrowd Community
 - [kattgu7/Anti-996-License](https://github.com/kattgu7/Anti-996-License) - Anti-996 License Version 1.0
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
