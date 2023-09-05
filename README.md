@@ -803,7 +803,7 @@
 - [huhai463127310/webchart](https://github.com/huhai463127310/webchart) - 在线代码绘制流程图、时序图
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [kmicinski/program-analysis](https://github.com/kmicinski/program-analysis) - Program analysis grad seminar at SU (2019)
-- [dosyago/documentspark](https://github.com/dosyago/documentspark) - 💖 DocumentSpark - 🌟 Experience Zero Trust security with DocumentSpark! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
+- [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
 - [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
 - [yuxtech/yuxtech.github.io](https://github.com/yuxtech/yuxtech.github.io) - 
 - [F4bwDP6a6W/FLY_US](https://github.com/F4bwDP6a6W/FLY_US) - 美国大学备考资料 How to apply US colleges
