@@ -1058,6 +1058,7 @@
 - [renzibei/hexo-cdn-jsdelivr](https://github.com/renzibei/hexo-cdn-jsdelivr) - A hexo plugin to help you automatically use the cdn of jsdelivr for Github to speed up the loading of static resources like images.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
+- [yxcs/poems-db](https://github.com/yxcs/poems-db) - 比较全的中华古诗古词古文库，包括21万首古诗词，以及注释、赏析等信息，包含10000多名诗人以及诗人的介绍、生平等，同时包含，1600多个词牌介绍，中国70多个朝代解析，和古诗文的近200个分类标签
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [Geolage/SliderAwesome](https://github.com/Geolage/SliderAwesome) - A slider plugin full of various effects and styles that allows any customization.  一款可定制的风格效果多样的轮播图插件。
@@ -1666,7 +1667,6 @@
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Redteam operation  platform with webui 图形化红队行动辅助平台
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
-- [yxcs/poems-db](https://github.com/yxcs/poems-db) - 比较全的中华古诗古词古文库，包括21万首古诗词，以及注释、赏析等信息，包含10000多名诗人以及诗人的介绍、生平等，同时包含，1600多个词牌介绍，中国70多个朝代解析，和古诗文的近200个分类标签
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
 - [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) - 
