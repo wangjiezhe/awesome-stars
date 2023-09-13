@@ -5072,7 +5072,7 @@
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
