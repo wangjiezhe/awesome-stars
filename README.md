@@ -1027,6 +1027,7 @@
 
 ## JavaScript 
 
+- [Open-Paraphilia/sissy_university](https://github.com/Open-Paraphilia/sissy_university) - 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
@@ -1112,7 +1113,6 @@
 - [Euophrys/Riichi-Trainer](https://github.com/Euophrys/Riichi-Trainer) - A Riichi Mahjong trainer.
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [dcyoagames/sissylifecyoa](https://github.com/dcyoagames/sissylifecyoa) - Sissy Life CYOA
-- [Open-Paraphilia/sissy_university](https://github.com/Open-Paraphilia/sissy_university) - 
 - [YMFE/yicon](https://github.com/YMFE/yicon) - 可部署的矢量字体图标（IconFont）管理平台
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [lxlxw/996.TSC](https://github.com/lxlxw/996.TSC) - 996.ICU周边文化 | 创意板块(主站：996.ICU)
@@ -2444,7 +2444,7 @@
 - [doraemonext/wechat-python-sdk](https://github.com/doraemonext/wechat-python-sdk) - 微信公众平台 Python 开发包 [DEPRECATED]
 - [fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [mapio/prettytable-mirror](https://github.com/mapio/prettytable-mirror) - A mirror of the prettytable repo (on Google Code)
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
