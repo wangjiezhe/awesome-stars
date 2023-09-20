@@ -175,7 +175,7 @@
 - [imbushuo/PrimeG2Pkg](https://github.com/imbushuo/PrimeG2Pkg) - Running Windows on smartphone is not new. How about a calculator?
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
-- [clibs/clib](https://github.com/clibs/clib) - C package manager-ish
+- [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [SukkaW/Nali](https://github.com/SukkaW/Nali) - 🔧 An IP Geolocation Lookup Utils
 - [cuber/ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
@@ -277,7 +277,7 @@
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
-- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support
+- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -1424,7 +1424,7 @@
 - [AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) - Text and supporting code for Think Stats, 2nd Edition
 - [memect/kg-beijing](https://github.com/memect/kg-beijing) - 北京知识图谱学习小组
 - [cliburn/Computational-statistics-with-Python](https://github.com/cliburn/Computational-statistics-with-Python) - Resources for STA 633 class
-- [cycleuser/Duke-STA-663-CN](https://github.com/cycleuser/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
+- [Kivy-CN/Duke-STA-663-CN](https://github.com/Kivy-CN/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
 - [basicv8vc/Python-Machine-Learning-zh](https://github.com/basicv8vc/Python-Machine-Learning-zh) - Python机器学习，机器学习入门首选。
 - [zlotus/notes-LSJU-machine-learning](https://github.com/zlotus/notes-LSJU-machine-learning) - 机器学习笔记
 - [lijin-THU/notes-machine-learning](https://github.com/lijin-THU/notes-machine-learning) - 鉴于我没有时间继续写这个东西，这个项目暂时废止
@@ -1507,7 +1507,7 @@
 ## MATLAB 
 
 - [JohnCremona/ecdata](https://github.com/JohnCremona/ecdata) - Data files containing the Cremona Database of all elliptic curves over Q of bounded conductor: see also http://www.lmfdb.org/EllipticCurve/Q .  For a description of how most of the data here was compu
-- [cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
+- [Kivy-CN/Stanford-CS-229](https://github.com/Kivy-CN/Stanford-CS-229) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
 - [googollee/eviltransform](https://github.com/googollee/eviltransform) - Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).
 - [swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation) - Programming with MATLAB
@@ -1845,7 +1845,7 @@
 - [AmazingApps/Amazing-Windows-Apps-Zh-CN](https://github.com/AmazingApps/Amazing-Windows-Apps-Zh-CN) - 
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
-- [cycleuser/Kivy-CN](https://github.com/cycleuser/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
+- [Kivy-CN/Kivy-CN](https://github.com/Kivy-CN/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
 - [yourtion/DataminingGuideBook](https://github.com/yourtion/DataminingGuideBook) - 《面向程序员的数据挖掘指南》Gitbook
 - [lyltj2010/DataMining](https://github.com/lyltj2010/DataMining) - 数据挖掘开源书
 - [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) - 中文排版所需遵循的标准和规范
