@@ -18,7 +18,6 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -526,11 +525,6 @@
 ## babel 
 
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-
-## backend 
-
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## bash 
 
@@ -4195,7 +4189,7 @@
 - [licenses/lice](https://github.com/licenses/lice) - Generate license files for your projects
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
-- [flintlib/flint2](https://github.com/flintlib/flint2) - FLINT (Fast Library for Number Theory)
+- [flintlib/flint](https://github.com/flintlib/flint) - FLINT (Fast Library for Number Theory)
 - [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [williamstein/ant](https://github.com/williamstein/ant) - Algebra Number Theory book
