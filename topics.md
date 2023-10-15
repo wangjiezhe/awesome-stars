@@ -1052,7 +1052,7 @@
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [bigwhite/experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## documentation 
 
@@ -1445,7 +1445,7 @@
 - [bigwhite/experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## golang 
 
@@ -1481,7 +1481,7 @@
 - [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## good-first-issue 
 
@@ -1956,7 +1956,7 @@
 
 - [slovnicki/pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus
 - [abolybook/aboly](https://github.com/abolybook/aboly) - 一瓶论语 | A Bottle of Lún Yǔ
-- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images.
 - [marcosfede/algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
