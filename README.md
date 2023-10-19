@@ -466,7 +466,6 @@
 - [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 - [ahangchen/How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [wizardforcel/modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [orderedlist/modernist](https://github.com/orderedlist/modernist) - A Theme for GitHub Pages
@@ -855,6 +854,7 @@
 - [pkuwwt/d3-tutorial-cn](https://github.com/pkuwwt/d3-tutorial-cn) - Chinese version of D3 tutorials
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [MnO2/learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [mmai/Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 - [DiscoverMeteor/DiscoverMeteor_zh](https://github.com/DiscoverMeteor/DiscoverMeteor_zh) - Discover Meteor 中文版
 - [clojuredocs/guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
@@ -2123,6 +2123,7 @@
 
 ## Python 
 
+- [vbskycn/iptv](https://github.com/vbskycn/iptv) - 直播电视系统，这里有折腾好了的，直接下载用吧
 - [Gsllchb/Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
 - [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
