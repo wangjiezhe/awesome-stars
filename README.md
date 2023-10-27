@@ -468,7 +468,6 @@
 - [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 - [ahangchen/How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [wizardforcel/modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [orderedlist/modernist](https://github.com/orderedlist/modernist) - A Theme for GitHub Pages
@@ -577,7 +576,6 @@
 ## Dockerfile 
 
 - [petersendev/hassio-addons](https://github.com/petersendev/hassio-addons) - collection of hass.io addons including sonarr, radarr and nzbget
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [ddadaal/vpn-as-http-proxy](https://github.com/ddadaal/vpn-as-http-proxy) - Use VPN like a proxy with docker
 - [bclswl0827/v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift) - 用于在 Openshift 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
 - [xiaokaixuan/ss-v2ray-plugin](https://github.com/xiaokaixuan/ss-v2ray-plugin) - 一键部署 SS+V2Ray-plugin 到 Heroku/KubeSail
@@ -697,7 +695,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -857,6 +855,7 @@
 - [pkuwwt/d3-tutorial-cn](https://github.com/pkuwwt/d3-tutorial-cn) - Chinese version of D3 tutorials
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [MnO2/learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [mmai/Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 - [DiscoverMeteor/DiscoverMeteor_zh](https://github.com/DiscoverMeteor/DiscoverMeteor_zh) - Discover Meteor 中文版
 - [clojuredocs/guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
@@ -1204,7 +1203,7 @@
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
 - [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [52cik/github-hans](https://github.com/52cik/github-hans) - [废弃] {官方中文马上就来了} GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [iammapping/wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
@@ -1884,6 +1883,7 @@
 - [linux-wang/sqlalchemy-docs-CN](https://github.com/linux-wang/sqlalchemy-docs-CN) - sqlalchemy文档中文翻译之小学生英语水平版
 - [ExtremeMart/DeepLearningBook-CN](https://github.com/ExtremeMart/DeepLearningBook-CN) - A translation of the deep learning book (翻译《深度学习》)
 - [Larryxi/Scapy_zh-cn](https://github.com/Larryxi/Scapy_zh-cn) - Scapy中文使用文档
+- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [jcoder58/PrologTutorials](https://github.com/jcoder58/PrologTutorials) - Prolog Tutorials and Information
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [jabez128/stream-handbook](https://github.com/jabez128/stream-handbook) - stream-handbook的完整中文版本
@@ -2386,7 +2386,6 @@
 - [handcraftsman/GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython) - source code from the book Genetic Algorithms with Python by Clinton Sheppard
 - [petronny/bilibili-icons](https://github.com/petronny/bilibili-icons) - 批量下载bilibili.com右上角的动图
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [zhengmin1989/ROP_STEP_BY_STEP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) - 一步一步学ROP
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
@@ -2643,7 +2642,7 @@
 
 ## QML 
 
-- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。支持截屏/批量导入图片，支持还原排版和排序整理。兼容两种离线OCR引擎，内置多国语言识别库。
+- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描二维码。兼容两种离线OCR引擎，内置多国语言识别库。
 - [papyros/qml-material](https://github.com/papyros/qml-material) - :book: Material Design implemented in QtQuick
 
 ## R 
@@ -2811,6 +2810,7 @@
 - [xen0n/loongson-overlay](https://github.com/xen0n/loongson-overlay) - Support overlay for Gentoo/Loongson users
 - [blakeblackshear/frigate-hass-addons](https://github.com/blakeblackshear/frigate-hass-addons) - Frigate hass.io addons
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [bugprogrammer/hackintosh](https://github.com/bugprogrammer/hackintosh) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
