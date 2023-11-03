@@ -161,6 +161,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -1139,7 +1140,6 @@
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [poooi/poi](https://github.com/poooi/poi) - Scalable KanColle browser and tool.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -4153,7 +4153,6 @@
 - [blakemcbride/PSL](https://github.com/blakemcbride/PSL) - Portable Standard Lisp
 - [YahooArchive/anthelion](https://github.com/YahooArchive/anthelion) - Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 - [gchq/Gaffer](https://github.com/gchq/Gaffer) - A large-scale entity and relation database supporting aggregation of properties
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [pkrumins/the-reasoned-schemer](https://github.com/pkrumins/the-reasoned-schemer) - All the logic programming code examples from the book "The Reasoned Schemer"
 - [pkrumins/the-little-prover](https://github.com/pkrumins/the-little-prover) - All code examples from "The Little Prover" book
 - [pkrumins/the-seasoned-schemer](https://github.com/pkrumins/the-seasoned-schemer) - All the Scheme code examples from the book "The Seasoned Schemer"
@@ -4336,6 +4335,11 @@
 
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+## pentesting 
+
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
 ## perl 
 
@@ -5022,6 +5026,7 @@
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
@@ -5184,7 +5189,6 @@
 ## vuejs 
 
 - [thegreatjavascript/FakeScreenshot](https://github.com/thegreatjavascript/FakeScreenshot) - 🔥对抗假消息系列项目之一：截屏 = 实锤？相信你就输了！（”突破性“更新💥：支持修改任何网站！） 下载安装包，手动安装到Chrome本地扩展中（注意打开开发者模式）
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [yanm1ng/hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo) - 🍟  Vexo is a Hexo theme inspired by Vue's official website.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
