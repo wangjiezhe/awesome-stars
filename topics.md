@@ -639,7 +639,7 @@
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [anynotes/Autopilot-Notes](https://github.com/anynotes/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 nwaysir@163.com
+- [anynotes/Autopilot-Notes](https://github.com/anynotes/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 
 ## chatgpt-api 
@@ -696,7 +696,7 @@
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [SukkaW/nali-cli](https://github.com/SukkaW/nali-cli) - :anchor: Parse geoinfo of IP Address without leaving your terminal
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -971,7 +971,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
-- [anynotes/Autopilot-Notes](https://github.com/anynotes/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR2023、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 nwaysir@163.com
+- [anynotes/Autopilot-Notes](https://github.com/anynotes/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1061,7 +1061,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Redteam operation  platform with webui 图形化红队行动辅助平台
 - [PHPirates/travis-ci-latex-pdf](https://github.com/PHPirates/travis-ci-latex-pdf) - Overview of different methods to build LaTeX with GitHub Actions or Travis-CI (idea by @jackolney but completely rewritten by @PHPirates and contributors).
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台（未登陆状态下只能使用阅后即焚），可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，针对代码提供了额外的高亮功能。
 - [tarampampam/nod32-update-mirror](https://github.com/tarampampam/nod32-update-mirror) - :large_orange_diamond: [WIP] ESET Nod32 Updates Mirror
@@ -1258,7 +1258,7 @@
 ## firefox 
 
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
@@ -1650,7 +1650,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [NeverBehave/Motivation](https://github.com/NeverBehave/Motivation) - ⏲️ Countdown that terrifyingly shows your age
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
@@ -2451,7 +2451,7 @@
 - [renzibei/hexo-cdn-jsdelivr](https://github.com/renzibei/hexo-cdn-jsdelivr) - A hexo plugin to help you automatically use the cdn of jsdelivr for Github to speed up the loading of static resources like images.
 - [mengsixing/cdfang-spider](https://github.com/mengsixing/cdfang-spider) - 📊 成都房协网数据分析，喜欢请点 star！
 - [datejer/vercel-badge](https://github.com/datejer/vercel-badge) - Simple serverless service for embedding a Vercel deployment badge.
-- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [nswbmw/N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
 - [CoNETProject/QTGate-Desktop-Client](https://github.com/CoNETProject/QTGate-Desktop-Client) - A revolutionary internet infrastructure enabling a truly free Network, that offers Stability, Trust, Privacy, and Security
