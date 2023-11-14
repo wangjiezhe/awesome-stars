@@ -2859,7 +2859,7 @@
 - [leanprover/logic_and_proof](https://github.com/leanprover/logic_and_proof) - CMU Undergrad Course
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [leanprover/lean2](https://github.com/leanprover/lean2) - Lean theorem prover version 0.2 (it supports standard and HoTT modes)
-- [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
+- [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
 - [phuslu/iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library
 - [sma11black/hexo-action](https://github.com/sma11black/hexo-action) - Hexo CI/CD Action for automating deployment.
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
