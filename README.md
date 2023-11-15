@@ -2647,7 +2647,7 @@
 
 ## QML 
 
-- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描二维码。兼容两种离线OCR引擎，内置多国语言识别库。
+- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 - [papyros/qml-material](https://github.com/papyros/qml-material) - :book: Material Design implemented in QtQuick
 
 ## R 
