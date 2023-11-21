@@ -2007,7 +2007,7 @@
 - [csekri/tkzgeom](https://github.com/csekri/tkzgeom) - GUI tool for TikZ figure production
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [qyxf/qyxf-book](https://github.com/qyxf/qyxf-book) - 钱院学辅 LaTeX 书籍模板
-- [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
+- [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX/ typst graphics for Inkscape
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [szhorvat/MaTeX](https://github.com/szhorvat/MaTeX) - LaTeX labels in Mathematica
 - [TeXtw/latex-convention](https://github.com/TeXtw/latex-convention) - 📒 《LaTeX 正誤手冊》 —— Manual of LaTeX typographical and typesetting conventions.
@@ -4202,7 +4202,7 @@
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
 - [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
-- [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数式编程指北中文版
+- [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数式编程指南中文版
 - [sakamies/vocabs](https://github.com/sakamies/vocabs) - CSS vocabulary & HTML vocabulary in different languages
 - [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [mike-perdide/scikit-learn-tutorial](https://github.com/mike-perdide/scikit-learn-tutorial) - Applied Machine Learning in Python with scikit-learn
