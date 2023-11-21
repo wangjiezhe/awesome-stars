@@ -1366,7 +1366,7 @@
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
-- [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数式编程指北中文版
+- [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) - 函数式编程指南中文版
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [sakamies/vocabs](https://github.com/sakamies/vocabs) - CSS vocabulary & HTML vocabulary in different languages
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
@@ -2181,7 +2181,7 @@
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
-- [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX graphics for Inkscape
+- [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX/ typst graphics for Inkscape
 - [blmoistawinde/HarvestText](https://github.com/blmoistawinde/HarvestText) - 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法
 - [rushsaker/PKULTD](https://github.com/rushsaker/PKULTD) - PKU  Library Thesis Download
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
