@@ -579,6 +579,7 @@
 ## Dockerfile 
 
 - [petersendev/hassio-addons](https://github.com/petersendev/hassio-addons) - collection of hass.io addons including sonarr, radarr and nzbget
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [ddadaal/vpn-as-http-proxy](https://github.com/ddadaal/vpn-as-http-proxy) - Use VPN like a proxy with docker
 - [bclswl0827/v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift) - 用于在 Openshift 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
 - [xiaokaixuan/ss-v2ray-plugin](https://github.com/xiaokaixuan/ss-v2ray-plugin) - 一键部署 SS+V2Ray-plugin 到 Heroku/KubeSail
@@ -1404,6 +1405,8 @@
 
 ## Jupyter Notebook 
 
+- [3017218062/Pytorch-Lightning-Learning](https://github.com/3017218062/Pytorch-Lightning-Learning) - Pytorch Lightning入门中文教程，转载请注明来源。（当初是写着玩的，建议看完MNIST这个例子再上手）
+- [miracleyoo/pytorch-lightning-template](https://github.com/miracleyoo/pytorch-lightning-template) - An easy/swift-to-adapt PyTorch-Lighting template. 套壳模板，简单易用，稍改原来Pytorch代码，即可适配Lightning。You can translate your previous Pytorch code much easier using this template, and keep your freedom to edit all 
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -2129,6 +2132,7 @@
 
 ## Python 
 
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - 一个可用于搜索各种影片磁链的电报机器人, 支持收藏, 导出记录, 自动保存磁链等操作, 可手动配置以屏蔽 NSFW 内容和代理上网。
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
@@ -2820,7 +2824,6 @@
 - [xen0n/loongson-overlay](https://github.com/xen0n/loongson-overlay) - Support overlay for Gentoo/Loongson users
 - [blakeblackshear/frigate-hass-addons](https://github.com/blakeblackshear/frigate-hass-addons) - Frigate hass.io addons
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [bugprogrammer/hackintosh](https://github.com/bugprogrammer/hackintosh) - 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
@@ -3123,6 +3126,8 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [BaksiLi/RadioExamToolkit](https://github.com/BaksiLi/RadioExamToolkit) - Export amateur radio exam questions to an Anki deck.
 - [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
