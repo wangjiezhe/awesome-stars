@@ -1346,7 +1346,7 @@
 - [imfly/how-to-create-self-publishing-platform](https://github.com/imfly/how-to-create-self-publishing-platform) - 用Gitbook和Github轻松搭建自出版平台
 - [imfly/electron-docs-gitbook](https://github.com/imfly/electron-docs-gitbook) - Deprecated. You can get it from:
 - [thx/chartx](https://github.com/thx/chartx) - Data Visualization Solutions
-- [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
+- [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium/Firefox "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [jiacai2050/gooreplacer.xpi](https://github.com/jiacai2050/gooreplacer.xpi) - DEPRECATED. 本仓库采用的 Add-on SDK 技术以废弃。 可参考最新的 WebExtensions 在
