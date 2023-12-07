@@ -693,6 +693,7 @@
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [uku/Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while traveling outside mainland China
+- [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium/Firefox "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [jiacai2050/gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A browser extension to modify HTTP requests :-)
 
 ## cli 
@@ -1287,7 +1288,7 @@
 ## flutter 
 
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## font 
 
@@ -3764,7 +3765,7 @@
 - [hypirion/inlein](https://github.com/hypirion/inlein) - Run clojure scripts with dependencies.
 - [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - :sunrise: A collection of awesome resources for building progressive web apps
 - [haifengl/bigdata](https://github.com/haifengl/bigdata) - Introduction to Big Data
-- [k-qy/notation](https://github.com/k-qy/notation) - Collection of quotes on notation design & how it affects thought.
+- [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
 - [mping/5to6](https://github.com/mping/5to6) - Converts es5 to es6, using simple and safe transforms
 - [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
@@ -4047,7 +4048,6 @@
 - [emacsorphanage/undohist](https://github.com/emacsorphanage/undohist) - Persistent Undo History for GNU Emacs
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
-- [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [OpenPAL/TypeAndProof](https://github.com/OpenPAL/TypeAndProof) - https://openpal.github.io/TypeAndProof/
 - [horasal/bcloud-curses](https://github.com/horasal/bcloud-curses) - Curses
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
