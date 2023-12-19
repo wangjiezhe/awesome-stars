@@ -1407,6 +1407,7 @@
 
 ## Jupyter Notebook 
 
+- [lyhue1991/torchkeras](https://github.com/lyhue1991/torchkeras) - Pytorch❤️  Keras 😋😋
 - [3017218062/Pytorch-Lightning-Learning](https://github.com/3017218062/Pytorch-Lightning-Learning) - Pytorch Lightning入门中文教程，转载请注明来源。（当初是写着玩的，建议看完MNIST这个例子再上手）
 - [miracleyoo/pytorch-lightning-template](https://github.com/miracleyoo/pytorch-lightning-template) - An easy/swift-to-adapt PyTorch-Lighting template. 套壳模板，简单易用，稍改原来Pytorch代码，即可适配Lightning。You can translate your previous Pytorch code much easier using this template, and keep your freedom to edit all 
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
@@ -1458,7 +1459,7 @@
 - [amueller/odscon-sf-2015](https://github.com/amueller/odscon-sf-2015) - Material for ODSCON San Francisco 2015
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
-- [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
+- [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
@@ -1606,6 +1607,8 @@
 
 ## Others 
 
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
+- [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
 - [CyberCommy/baidu-qa-100w](https://github.com/CyberCommy/baidu-qa-100w) - :table: 百度QA100万数据集
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
@@ -1989,7 +1992,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-- [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
+- [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
 - [jeffreybaoshenlee/IT-Terms-EN-CN](https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN) - English to Chinese Translation Table for IT Terminologies , ITEC （IT術語及計算機科學術語中英文對照表）
 - [grymer/eduroam](https://github.com/grymer/eduroam) - netctl config for eduroam access at the University of Cambridge
 - [d1sm/finalspeed](https://github.com/d1sm/finalspeed) - 高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.
@@ -2138,6 +2141,7 @@
 
 ## Python 
 
+- [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
