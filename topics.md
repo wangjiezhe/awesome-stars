@@ -2556,6 +2556,8 @@
 
 ## others 
 
+- [compiler-research/xeus-clang-repl](https://github.com/compiler-research/xeus-clang-repl) - 
+- [956065487/zhiboyuan](https://github.com/956065487/zhiboyuan) - 个人收集直播源
 - [JasonGrass/rename](https://github.com/JasonGrass/rename) - 在线文件批量重命名
 - [lyhue1991/torchkeras](https://github.com/lyhue1991/torchkeras) - Pytorch❤️  Keras 😋😋
 - [serso/android-calculatorpp](https://github.com/serso/android-calculatorpp) - Android Calculator
