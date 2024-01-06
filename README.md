@@ -2707,6 +2707,7 @@
 - [adolfopa/racket-json-mapping](https://github.com/adolfopa/racket-json-mapping) - A simple syntactic form to map jsexpr to racket structs.
 - [greghendershott/markdown](https://github.com/greghendershott/markdown) - Markdown parser written in Racket.
 - [bennn/iPoe](https://github.com/bennn/iPoe) - Interactive POetry Editor
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [pedropramos/PyonR](https://github.com/pedropramos/PyonR) - A Python implementation for Racket
 - [octotep/racket-slack-api](https://github.com/octotep/racket-slack-api) - Racket bindings for the Slack API
 - [coding-robots/iwl](https://github.com/coding-robots/iwl) - Previous version of "I Write Like" written in Racket
@@ -2817,7 +2818,6 @@
 - [miniKanren/TheReasonedSchemer](https://github.com/miniKanren/TheReasonedSchemer) - Code from 'The Reasoned Schemer' (MIT Press, 2005) by Daniel P. Friedman, William E. Byrd and Oleg Kiselyov.
 - [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) - Canonical miniKanren implementation
 - [ecraven/r7rs-benchmarks](https://github.com/ecraven/r7rs-benchmarks) - Benchmarks for various Scheme implementations. Taken with kind permission from the Larceny project, based on the Gabriel and Gambit benchmarks.
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [ds26gte/pregexp](https://github.com/ds26gte/pregexp) - 
 - [tiancaiamao/yscheme](https://github.com/tiancaiamao/yscheme) - a compiler from a subset of Scheme into X64
 - [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
