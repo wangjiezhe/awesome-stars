@@ -842,7 +842,7 @@
 - [cundi/Python-PySide-PyQt-Tutorial](https://github.com/cundi/Python-PySide-PyQt-Tutorial) - PySide 与 PyQt 入门教程集合
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) - No Maintenance Intended
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -1612,7 +1612,6 @@
 
 - [gohhh1234/iptv](https://github.com/gohhh1234/iptv) - 
 - [956065487/zhiboyuan](https://github.com/956065487/zhiboyuan) - 个人收集直播源
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
 - [CyberCommy/baidu-qa-100w](https://github.com/CyberCommy/baidu-qa-100w) - :table: 百度QA100万数据集
@@ -2153,6 +2152,7 @@
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
 - [747929791/majsoul_wrapper](https://github.com/747929791/majsoul_wrapper) - 自动化雀魂AI的SDK，实时解析雀魂对局信息，并模拟鼠标动作出牌
 - [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv 辅助工具
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
