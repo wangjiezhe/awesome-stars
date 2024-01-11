@@ -230,6 +230,7 @@
 
 ## ai 
 
+- [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
@@ -799,6 +800,7 @@
 
 ## computer-vision 
 
+- [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -980,6 +982,7 @@
 
 ## deep-learning 
 
+- [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
@@ -3457,7 +3460,7 @@
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [johnwhitington/cpdf-source](https://github.com/johnwhitington/cpdf-source) - PDF Command Line Tools Source
 - [JustFollowUs/Machine-Learning](https://github.com/JustFollowUs/Machine-Learning) - 
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [zhuangbiaowei/learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
 - [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
@@ -4725,6 +4728,7 @@
 
 ## pytorch 
 
+- [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
 - [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
