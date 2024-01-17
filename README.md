@@ -2153,6 +2153,8 @@
 
 ## Python 
 
+- [lihongxun945/alpha-zero-gobang](https://github.com/lihongxun945/alpha-zero-gobang) - alpha zero 原理实现五子棋 AI，tensorflow
+- [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - A gobang robot based on reinforcement learning.
 - [pytorch/torcheval](https://github.com/pytorch/torcheval) - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools fo
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 🤗 Evaluate: A library for easily evaluating machine learning models and datasets.
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
@@ -3269,6 +3271,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format) - :sunglasses: Prettify Current Line on Enter !!
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
