@@ -79,6 +79,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -397,7 +398,7 @@
 
 ## automation 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG and ot
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
@@ -1308,6 +1309,10 @@
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## font 
 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1718,7 +1723,7 @@
 ## http 
 
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
+- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -1818,7 +1823,7 @@
 ## javascript 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG and ot
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
@@ -2497,7 +2502,7 @@
 
 ## nodejs 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG and ot
 - [minchingtonak/lambster](https://github.com/minchingtonak/lambster) - Lambda calculus interpreter written in TypeScript
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -2534,7 +2539,7 @@
 ## npm 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG and ot
 - [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
 - [breezewish/pinyinlite](https://github.com/breezewish/pinyinlite) - Lightweight and Lightning-Fast :zap: Pinyin Library for JavaScript
 
@@ -2585,6 +2590,8 @@
 
 ## others 
 
+- [Artiprocher/DiffSynth-Studio](https://github.com/Artiprocher/DiffSynth-Studio) - 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [lihongxun945/alpha-zero-gobang](https://github.com/lihongxun945/alpha-zero-gobang) - alpha zero 原理实现五子棋 AI，tensorflow
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [pytorch/torcheval](https://github.com/pytorch/torcheval) - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools fo
@@ -5194,7 +5201,7 @@
 ## typescript 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG and ot
 - [minchingtonak/lambster](https://github.com/minchingtonak/lambster) - Lambda calculus interpreter written in TypeScript
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
