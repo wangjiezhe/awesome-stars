@@ -1266,7 +1266,7 @@
 - [airingursb/ez](https://github.com/airingursb/ez) - 💬 微信界面生成器网页版
 - [googlearchive/code-prettify](https://github.com/googlearchive/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [glyphr-studio/Glyphr-Studio-1-Desktop](https://github.com/glyphr-studio/Glyphr-Studio-1-Desktop) - A desktop client for Glyphr Studio built in electron
+- [glyphr-studio/Glyphr-Studio-Desktop](https://github.com/glyphr-studio/Glyphr-Studio-Desktop) - A desktop client for Glyphr Studio built in electron
 - [syaning/zhihu-api](https://github.com/syaning/zhihu-api) - Unofficial API for zhihu.
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook) - The Common Lisp Cookbook
