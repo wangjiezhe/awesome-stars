@@ -585,7 +585,7 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [petersendev/hassio-addons](https://github.com/petersendev/hassio-addons) - collection of hass.io addons including sonarr, radarr and nzbget
-- [ddadaal/vpn-as-http-proxy](https://github.com/ddadaal/vpn-as-http-proxy) - Use VPN like a proxy with docker
+- [ddadaal/vpn-as-proxy](https://github.com/ddadaal/vpn-as-proxy) - Use VPN like a proxy with docker
 - [bclswl0827/v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift) - 用于在 Openshift 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
 - [xiaokaixuan/ss-v2ray-plugin](https://github.com/xiaokaixuan/ss-v2ray-plugin) - 一键部署 SS+V2Ray-plugin 到 Heroku/KubeSail
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
@@ -1616,6 +1616,7 @@
 
 ## Others 
 
+- [it-ebooks-0/it-ebooks-2023](https://github.com/it-ebooks-0/it-ebooks-2023) - :books: 计算机电子书 2023
 - [eujc/ChatGPT](https://github.com/eujc/ChatGPT) - chatgpt 注册教程，chatgpt 中国怎么用?
 - [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
 - [whyscience/CS231n-Note-Translation_CN](https://github.com/whyscience/CS231n-Note-Translation_CN) - CS231课程笔记翻译 https://zhuanlan.zhihu.com/intelligentunit
