@@ -2584,6 +2584,7 @@
 
 ## others 
 
+- [it-ebooks-0/it-ebooks-2023](https://github.com/it-ebooks-0/it-ebooks-2023) - :books: 计算机电子书 2023
 - [eujc/ChatGPT](https://github.com/eujc/ChatGPT) - chatgpt 注册教程，chatgpt 中国怎么用?
 - [fkiliver/SakuraTranslator](https://github.com/fkiliver/SakuraTranslator) - 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -2857,7 +2858,7 @@
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
-- [ddadaal/vpn-as-http-proxy](https://github.com/ddadaal/vpn-as-http-proxy) - Use VPN like a proxy with docker
+- [ddadaal/vpn-as-proxy](https://github.com/ddadaal/vpn-as-proxy) - Use VPN like a proxy with docker
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [yuxtech/ShiJihuai-complex](https://github.com/yuxtech/ShiJihuai-complex) - 史济怀复变函数LaTeX重排
 - [ShevonKuan/Probability-and-Mathematical-Statistics](https://github.com/ShevonKuan/Probability-and-Mathematical-Statistics) - 概率论课本重要知识点整理与解读（基于华南理工大学概率论课本与浙江大学概率论课本）
