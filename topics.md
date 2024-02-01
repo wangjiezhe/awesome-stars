@@ -803,6 +803,7 @@
 
 ## computer-vision 
 
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -984,6 +985,8 @@
 
 ## deep-learning 
 
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
 - [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
@@ -1293,7 +1296,6 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 - [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for testing with Selenium, Python, and pytest. Includes a Dashboard, a Recorder for generating tests, Undetected Mode, and more.
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [jiacai2050/gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A browser extension to modify HTTP requests :-)
 - [vimperator/vimperator-labs](https://github.com/vimperator/vimperator-labs) - Vimperator
@@ -1374,7 +1376,7 @@
 ## game-development 
 
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
-- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
+- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
 - [MahjongRepository/mahjong](https://github.com/MahjongRepository/mahjong) - Implementation of riichi mahjong related stuff (hand cost, shanten, agari end, etc.)
 - [QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook) - :blue_book: 电子书 -《Real-Time Rendering 3rd》提炼总结 | 全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time Rendering 3rd》，也可以把它看做《Real-Time Rendering 3rd》的解读版与配套学习伴侣，或者《Real-Time Rendering 4th》的前置阅读材料。
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -4741,7 +4743,6 @@
 - [airingursb/bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
 - [handcraftsman/GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython) - source code from the book Genetic Algorithms with Python by Clinton Sheppard
 - [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for testing with Selenium, Python, and pytest. Includes a Dashboard, a Recorder for generating tests, Undetected Mode, and more.
 - [baijum/selenium-python](https://github.com/baijum/selenium-python) - Selenium Python Bindings Documentation
 - [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
@@ -4754,6 +4755,8 @@
 
 ## pytorch 
 
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - A gobang robot based on reinforcement learning.
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics) - Torchmetrics - Machine learning metrics for distributed, scalable PyTorch applications.
@@ -5099,6 +5102,7 @@
 
 ## tensorflow 
 
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [DevinZ1993/Chinese-Poetry-Generation](https://github.com/DevinZ1993/Chinese-Poetry-Generation) - An RNN-based Chinese Poem Generator
@@ -5235,7 +5239,7 @@
 
 ## unity 
 
-- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
+- [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
 
 ## vim 
 
