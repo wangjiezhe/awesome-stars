@@ -266,6 +266,7 @@
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [marcosfede/algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -769,6 +770,7 @@
 ## coding 
 
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 
 ## compiler 
@@ -917,8 +919,10 @@
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [jm199504/Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) - 小型金融知识图谱构建流程
 - [SpiderClub/weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
+- [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) - :book: [译] UCB DS100 数据科学的原理与技巧
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+- [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) - :book: [译] Matplotlib 用户指南
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) - Programming with Python
@@ -966,6 +970,7 @@
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) - :book: [译] Matplotlib 用户指南
 - [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) - Programming with Python
@@ -1124,8 +1129,10 @@
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
 - [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) - :book: [译] Matplotlib 用户指南
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
 - [clojuredocs/guides](https://github.com/clojuredocs/guides) - Documentation guides and tutorials for Clojure. Various authors.
@@ -1796,6 +1803,7 @@
 - [nmonvisualizer/nmonvisualizer](https://github.com/nmonvisualizer/nmonvisualizer) - A Java GUI tool for analyzing NMON and other system stats files
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
+- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
 - [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: [译] 数据结构思维
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -1959,7 +1967,6 @@
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [tboox/tbox](https://github.com/tboox/tbox) - 🎁 A glib-like multi-platform c library
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
@@ -2244,9 +2251,12 @@
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) - :book: [译] UCB DS100 数据科学的原理与技巧
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [ahangchen/GDLnotes](https://github.com/ahangchen/GDLnotes) - Google Deep Learning Notes（TensorFlow教程）
 - [fendouai/Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
@@ -2480,6 +2490,7 @@
 - [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
 - [chatopera/Synonyms](https://github.com/chatopera/Synonyms) - :herb: 中文近义词：聊天机器人，智能问答工具包
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [banyh/PyStanfordNLP](https://github.com/banyh/PyStanfordNLP) - A Python Wrapper of Stanford Chinese Segmenter
 - [indiejoseph/cnn-text-classification-tf-chinese](https://github.com/indiejoseph/cnn-text-classification-tf-chinese) - CNN for Chinese Text Classification in Tensorflow
 - [indiejoseph/chinese-char-rnn](https://github.com/indiejoseph/chinese-char-rnn) - Character-Level language models
@@ -2985,6 +2996,7 @@
 - [hotmanga/hotmangaSite](https://github.com/hotmanga/hotmangaSite) - 熱辣漫畫資源站，主要收集熱辣漫畫相關資源
 - [git-for-windows/build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
+- [apachecn/epub-crawler](https://github.com/apachecn/epub-crawler) - 用于抓取网页内容并制作 EPUB 的小工具。
 - [metowolf/mathematica-keygen](https://github.com/metowolf/mathematica-keygen) - wolfram mathematica keygen
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
 - [openzfsonwindows/ZFSin](https://github.com/openzfsonwindows/ZFSin) - OpenZFS on Windows port
@@ -3148,6 +3160,7 @@
 - [JohnCremona/ecdata](https://github.com/JohnCremona/ecdata) - Data files containing the Cremona Database of all elliptic curves over Q of bounded conductor: see also http://www.lmfdb.org/EllipticCurve/Q .  For a description of how most of the data here was compu
 - [fuck-xuexiqiangguo/Fuck-XueXiQiangGuo](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) - 学习强国 懒人刷分工具 自动学习
 - [GaoLeiQin/SwordOffer](https://github.com/GaoLeiQin/SwordOffer) - 《剑指offer》Java版代码实现
+- [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) - 📖斯坦福博弈论中文笔记
 - [wenweili/Yanqi-Algebra-3](https://github.com/wenweili/Yanqi-Algebra-3) - Yanqi Lake Lectures on Algebra, Part III
 - [CrazyBBB/tenhou-visualizer](https://github.com/CrazyBBB/tenhou-visualizer) - Tenhou Visualizer: 天鳳の牌譜を可視化するツール
 - [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
@@ -3157,6 +3170,7 @@
 - [cbwang2016/PKUCourses](https://github.com/cbwang2016/PKUCourses) - Android Client for http://course.pku.edu.cn
 - [cjkvi/cjkvi-dict](https://github.com/cjkvi/cjkvi-dict) - 漢字データベースの辞書関連データ
 - [cjkvi/cjkvi-tables](https://github.com/cjkvi/cjkvi-tables) - 様々な漢字表のデータベース
+- [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) - :book: [译] 百页机器学习小书
 - [zyzsdy/biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制
 - [manateelazycat/color-rg](https://github.com/manateelazycat/color-rg) - Search and refactoring tool based on ripgrep.
 - [aaranxu/chinese-copywriting-guidelines](https://github.com/aaranxu/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines / 中文排版指南
@@ -4589,6 +4603,9 @@
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
+- [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) - :book: [译] UCB DS100 数据科学的原理与技巧
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) - :book: [译] 面向机器学习的特征工程
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [osbzr/gooderp_addons](https://github.com/osbzr/gooderp_addons) - 可能是中国用户数最多的开源ERP
@@ -4609,6 +4626,8 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [datacarpentry/python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [Wilfred/pyimport](https://github.com/Wilfred/pyimport) - Manage Python imports from Emacs!
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -4630,6 +4649,7 @@
 - [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 - [alanzchen/rm-protection](https://github.com/alanzchen/rm-protection) - A safe alternative for "rm".
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) - :book: [译] Matplotlib 用户指南
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
 - [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
@@ -4942,6 +4962,8 @@
 ## scikit-learn 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [basicv8vc/Python-Machine-Learning-zh](https://github.com/basicv8vc/Python-Machine-Learning-zh) - Python机器学习，机器学习入门首选。
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [lzjqsdd/scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn) - scikit-learn机器学习库中文文档翻译项目
