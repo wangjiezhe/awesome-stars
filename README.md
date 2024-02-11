@@ -1046,6 +1046,7 @@
 
 ## JavaScript 
 
+- [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
 - [Open-Paraphilia/sissy_university](https://github.com/Open-Paraphilia/sissy_university) - 
@@ -1623,6 +1624,7 @@
 
 ## Others 
 
+- [kemaloksuz/ObjectDetectionImbalance](https://github.com/kemaloksuz/ObjectDetectionImbalance) - Lists the papers related to imbalance problems in object detection [TPAMI]
 - [it-ebooks-0/it-ebooks-2023](https://github.com/it-ebooks-0/it-ebooks-2023) - :books: 计算机电子书 2023
 - [eujc/ChatGPT](https://github.com/eujc/ChatGPT) - chatgpt 注册教程，chatgpt 中国怎么用?
 - [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
@@ -2162,6 +2164,7 @@
 
 ## Python 
 
+- [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
