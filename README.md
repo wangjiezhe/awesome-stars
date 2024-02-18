@@ -831,7 +831,7 @@
 - [wangshub/romantic_page](https://github.com/wangshub/romantic_page) - 👫 程序员的表白
 - [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
 - [Coq-zh/SF-zh](https://github.com/Coq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
@@ -2505,7 +2505,6 @@
 - [linouk23/NBA-Player-Movements](https://github.com/linouk23/NBA-Player-Movements) - 🏀 Visualization of NBA games from raw SportVU data logs
 - [nikipore/alfred-firefoxbookmarks](https://github.com/nikipore/alfred-firefoxbookmarks) - Alfred Workflow: Access to Firefox Bookmarks and User Input History
 - [logbird/360yunpan](https://github.com/logbird/360yunpan) - 360YunPan Command-line tools, support: Linux Mac Windows
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [PythonTG/PythonTG](https://github.com/PythonTG/PythonTG) - Python Translation Group
 - [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
 - [huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
@@ -2972,6 +2971,7 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
 - [farseerfc/systemd-shutdown-diagnose](https://github.com/farseerfc/systemd-shutdown-diagnose) - Take from https://co-op.space/2016/03/10/systemd-guan-ji-chao-shi-wen-ti-ding-wei-fang-fa/ , help to diagnose why systemd cannot shutdown properly
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
