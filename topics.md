@@ -655,6 +655,7 @@
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。由于水平有限，文中不妥之处恳请广大读者批评指正。如有合作意向，请联系 931531133@qq.com
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
 ## chatgpt-api 
 
@@ -3344,7 +3345,6 @@
 - [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
 - [nikital/kgotobed](https://github.com/nikital/kgotobed) - Linux driver to help you go to bed at a specified time
 - [Quorafind/MLkit-CN](https://github.com/Quorafind/MLkit-CN) - ML Kit 中文文档
-- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [dgl/paste.sh](https://github.com/dgl/paste.sh) - an encrypted pastebin
 - [liguobao/58HouseSearch](https://github.com/liguobao/58HouseSearch) - 地图搜租房【微信公众号、小程序：人生删除指南】
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
