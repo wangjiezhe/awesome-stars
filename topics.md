@@ -2601,6 +2601,7 @@
 
 ## others 
 
+- [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
 - [yue365/IPTV](https://github.com/yue365/IPTV) - 移动IPTV直播源
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
