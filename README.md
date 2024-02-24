@@ -318,7 +318,7 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
 - [xqbase/eleeye](https://github.com/xqbase/eleeye) - ElephantEye - a XiangQi (Chinese Chess) Engine for XQWizard with Strong AI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [nekobean/mahjong-cpp](https://github.com/nekobean/mahjong-cpp) - Miscellaneous programs about Japanese Mahjong
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
@@ -1566,6 +1566,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
@@ -2165,6 +2166,7 @@
 
 ## Python 
 
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [yue365/IPTV](https://github.com/yue365/IPTV) - 移动IPTV直播源
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
@@ -2690,7 +2692,7 @@
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [tschellenbach/Stream-Framework](https://github.com/tschellenbach/Stream-Framework) - Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud 
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -3104,7 +3106,7 @@
 - [muzimuzhi/latex-examples](https://github.com/muzimuzhi/latex-examples) - small (la)tex files showing features, solutions, and attempts
 - [fmarotta/kaobook](https://github.com/fmarotta/kaobook) - A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.
 - [dustincys/progressbar](https://github.com/dustincys/progressbar) - Beamer theme
-- [wspr/unicode-math](https://github.com/wspr/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
+- [latex3/unicode-math](https://github.com/latex3/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
 - [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk) - Modern LaTeX in a Nutshell
 - [liantze/pgfornament-han](https://github.com/liantze/pgfornament-han) - A pgfornament library for Chinese traditional motifs and patterns
 - [yuxtech/tikzexample](https://github.com/yuxtech/tikzexample) - This is a collection of my drawing by TikZ
