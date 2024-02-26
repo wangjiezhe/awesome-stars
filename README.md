@@ -311,7 +311,7 @@
 ## C++ 
 
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
 - [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Own mod. No plan for UI changes. Forked from mystery_keeper's repo https://bitbucket.org/mystery_keeper/vapoursynth-editor
@@ -804,7 +804,7 @@
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 - [UmeLabs/node.umelabs.dev](https://github.com/UmeLabs/node.umelabs.dev) - 每天24:00点前更新免费SS/SSR节点
-- [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
+- [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.eu.org/
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -2166,6 +2166,7 @@
 
 ## Python 
 
+- [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [yue365/IPTV](https://github.com/yue365/IPTV) - 移动IPTV直播源
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
