@@ -87,6 +87,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -779,7 +780,7 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [bigwhite/experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
-- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -2548,7 +2549,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - All-in-one Browser Automation Framework for web crawling, scraping, testing, and reporting with Python. Includes a Dashboard, code-generation abilities, Undetected Mode, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Over 100 examples.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [summernote/django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3114,7 +3115,6 @@
 - [yuxtech/tikzexample](https://github.com/yuxtech/tikzexample) - This is a collection of my drawing by TikZ
 - [yuxtech/cnlogo](https://github.com/yuxtech/cnlogo) - A package designed to produce logos of Chinese colleges.
 - [deuslirio/UFGTeX-Presentation](https://github.com/deuslirio/UFGTeX-Presentation) - A Latex Template to presentations from UFG - Federal University of Goiás
-- [kalxd/morelull](https://github.com/kalxd/morelull) - latex民科模板艺术。
 - [qyxf/notes-on-computing-methods](https://github.com/qyxf/notes-on-computing-methods) - 计算方法撷英 Notes on Computing Methods
 - [Steve-Cheung-emct/ugenko-rewritten](https://github.com/Steve-Cheung-emct/ugenko-rewritten) - 基於 TikZ 水印的 upLaTeX genko (原稿紙) 的重寫
 - [Steve-Cheung-emct/genkou-for-uplatex](https://github.com/Steve-Cheung-emct/genkou-for-uplatex) - 原稿用紙；原稿紙；稿紙；日式便箋；UPTEX/UPLATEX 縱書
@@ -3294,6 +3294,10 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
+
+## Typst 
+
+- [kalxd/morelull](https://github.com/kalxd/morelull) - typst民间模板艺术
 
 ## VBA 
 
