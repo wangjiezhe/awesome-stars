@@ -2345,6 +2345,7 @@
 
 ## markdown 
 
+- [vEnhance/web.evanchen.cc](https://github.com/vEnhance/web.evanchen.cc) - Source files for https://web.evanchen.cc
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -2619,11 +2620,12 @@
 
 ## others 
 
+- [vEnhance/von](https://github.com/vEnhance/von) - Olympiad problem database
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
-- [yue365/IPTV](https://github.com/yue365/IPTV) - 移动IPTV直播源
+- [yue365/IPTV](https://github.com/yue365/IPTV) - 央视、卫视 IPTV直播源
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
@@ -4395,7 +4397,6 @@
 - [Tasssadar/Team-Win-Recovery-Project](https://github.com/Tasssadar/Team-Win-Recovery-Project) - Core of TWRP modified for MultiROM
 - [Tasssadar/multirom](https://github.com/Tasssadar/multirom) - MultiROM for Nexus 7 and LG Optimus One
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
-- [0n3la57k155/smartladder](https://github.com/0n3la57k155/smartladder) - 
 - [LCTT/man-pages](https://github.com/LCTT/man-pages) - LCTT的man页面翻译计划。
 - [Grive/grive](https://github.com/Grive/grive) - an open source Linux client for Google Drive
 - [gutenye/gnome-shell-extensions-pidgin](https://github.com/gutenye/gnome-shell-extensions-pidgin) - gnome shell extension - pidgin
@@ -5431,6 +5432,7 @@
 
 ## website 
 
+- [vEnhance/web.evanchen.cc](https://github.com/vEnhance/web.evanchen.cc) - Source files for https://web.evanchen.cc
 - [BYR-Navi/BYR-Navi](https://github.com/BYR-Navi/BYR-Navi) - A Light-Weight and Configurable Navigation Website Framework (for BYR)
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 
