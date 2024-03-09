@@ -326,7 +326,7 @@
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 - [Presburger/qmc-decoder](https://github.com/Presburger/qmc-decoder) - Fastest & best convert qmc 2 mp3 | flac tools
 - [lmintlcx/pvztoolkit](https://github.com/lmintlcx/pvztoolkit) - 植物大战僵尸 PC 版综合修改器
