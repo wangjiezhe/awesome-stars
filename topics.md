@@ -11,7 +11,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -383,17 +382,6 @@
 - [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin) - 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) - 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
-
-## archlinux 
-
-- [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
-- [archimg/archlinux](https://github.com/archimg/archlinux) - Archlinux docker image from scratch (built daily by travis cronjob)
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [lilydjwg/wait-online](https://github.com/lilydjwg/wait-online) - Wait until we're connected to the Internet
-- [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Arch Linux Repository for Education
-- [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
-- [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
-- [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 
 ## artificial-intelligence 
 
@@ -2783,7 +2771,7 @@
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [drvinceknight/video-editing-process](https://github.com/drvinceknight/video-editing-process) - How I prepare teaching videos
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -3305,6 +3293,7 @@
 - [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 - [GZzzhsmart/development-document](https://github.com/GZzzhsmart/development-document) - 国家标准的软件开发文档
 - [MattesGroeger/vim-bookmarks](https://github.com/MattesGroeger/vim-bookmarks) - Vim bookmark plugin
+- [archimg/archlinux](https://github.com/archimg/archlinux) - Archlinux docker image from scratch (built daily by travis cronjob)
 - [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
 - [EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d) - Add the Sseexxyyy live2d to your hexo!
 - [Aorimn/dislocker](https://github.com/Aorimn/dislocker) - FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
@@ -3347,6 +3336,7 @@
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [RoliSoft/WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [sooxt98/eBook](https://github.com/sooxt98/eBook) - 
@@ -3518,6 +3508,7 @@
 - [phodal/licenses](https://github.com/phodal/licenses) - OpenSource License Explains
 - [darcy-shen/texmacs-1](https://github.com/darcy-shen/texmacs-1) - 
 - [cundi/Python-PySide-PyQt-Tutorial](https://github.com/cundi/Python-PySide-PyQt-Tutorial) - PySide 与 PyQt 入门教程集合
+- [lilydjwg/wait-online](https://github.com/lilydjwg/wait-online) - Wait until we're connected to the Internet
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [xiajian/rhg-zh](https://github.com/xiajian/rhg-zh) - Ruby Hacking Guide中文版版翻译
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
@@ -3710,6 +3701,7 @@
 - [syaning/zhihu-api](https://github.com/syaning/zhihu-api) - Unofficial API for zhihu.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [petronny/bilibili-icons](https://github.com/petronny/bilibili-icons) - 批量下载bilibili.com右上角的动图
+- [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Arch Linux Repository for Education
 - [wide288/gimp-book](https://github.com/wide288/gimp-book) - 
 - [kuretru/CloudXNS-DDNS](https://github.com/kuretru/CloudXNS-DDNS) - CloudXNS DDNS Tool on bash with curl
 - [jcoder58/PrologTutorials](https://github.com/jcoder58/PrologTutorials) - Prolog Tutorials and Information
@@ -4339,6 +4331,7 @@
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
 - [JuliaLang/IJulia.jl](https://github.com/JuliaLang/IJulia.jl) - Julia kernel for Jupyter
 - [moonshawdo/checkgoogleip](https://github.com/moonshawdo/checkgoogleip) - 主要是用来检查哪些IP可以用在goagent上面
+- [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [JuliaCN/julia_zh_cn](https://github.com/JuliaCN/julia_zh_cn) - 已废弃，请到JuliaZH.jl参与翻译
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
