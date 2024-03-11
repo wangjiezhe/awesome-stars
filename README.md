@@ -141,6 +141,7 @@
 
 ## C 
 
+- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -1627,7 +1628,7 @@
 
 ## Others 
 
-- [Meroser/IPTV-DF](https://github.com/Meroser/IPTV-DF) - IPTV地方频道收集计划🎈原汁原味、稳定有效
+- [Meroser/IPTV-DF](https://github.com/Meroser/IPTV-DF) - 
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [kemaloksuz/ObjectDetectionImbalance](https://github.com/kemaloksuz/ObjectDetectionImbalance) - Lists the papers related to imbalance problems in object detection [TPAMI]
@@ -2173,7 +2174,7 @@
 - [vEnhance/von](https://github.com/vEnhance/von) - Olympiad problem database
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
-- [yue365/IPTV](https://github.com/yue365/IPTV) - 央视、卫视 IPTV直播源
+- [yue365/IPTV](https://github.com/yue365/IPTV) - 中国移动 IPTV 直播源
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
