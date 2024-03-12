@@ -1628,7 +1628,7 @@
 
 ## Others 
 
-- [Meroser/IPTV-DF](https://github.com/Meroser/IPTV-DF) - 
+- [Meroser/Home-assistant](https://github.com/Meroser/Home-assistant) - 
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [kemaloksuz/ObjectDetectionImbalance](https://github.com/kemaloksuz/ObjectDetectionImbalance) - Lists the papers related to imbalance problems in object detection [TPAMI]
