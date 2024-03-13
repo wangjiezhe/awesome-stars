@@ -1343,7 +1343,7 @@
 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
-- [GuiWonder/EarlySummerMincho](https://github.com/GuiWonder/EarlySummerMincho) - Early Summer Mincho 初夏明朝體
+- [GuiWonder/ChuxiaMing](https://github.com/GuiWonder/ChuxiaMing) - Chuxia Ming 初夏明朝體
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
@@ -4329,7 +4329,7 @@
 - [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统TensorFlow官方文档中文版
 - [icecoder/ICEcoder](https://github.com/icecoder/ICEcoder) - Browser code editor awesomeness
 - [p-e-w/ranwhen](https://github.com/p-e-w/ranwhen) - Visualize when your system was running (NO LONGER MAINTAINED)
-- [mohamed-aziz/mytodo](https://github.com/mohamed-aziz/mytodo) - A simple free/libre todo list manager.
+- [realazizk/mytodo](https://github.com/realazizk/mytodo) - A simple free/libre todo list manager.
 - [drizzd/octave-forge-archlinux](https://github.com/drizzd/octave-forge-archlinux) - A collection of Archlinux packages for octave-forge. Please report issues directly in AUR (patches are welcome):
 - [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
 - [JuliaAttic/julia-tutorial](https://github.com/JuliaAttic/julia-tutorial) - A Julia tutorial
