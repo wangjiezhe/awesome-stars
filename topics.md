@@ -2645,7 +2645,6 @@
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
-- [yue365/IPTV](https://github.com/yue365/IPTV) - 中国移动 IPTV 直播源
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
