@@ -317,7 +317,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
-- [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Own mod. No plan for UI changes. Forked from mystery_keeper's repo https://bitbucket.org/mystery_keeper/vapoursynth-editor
+- [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Branch vse-previewer for "recent" stuff. Branch vs-api4 for a text editor. Branch master for "stability". Forked from https://bitbucket.org/mystery_keeper/vapoursynth-editor
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
 - [xqbase/eleeye](https://github.com/xqbase/eleeye) - ElephantEye - a XiangQi (Chinese Chess) Engine for XQWizard with Strong AI
@@ -497,7 +497,7 @@
 - [douban/code](https://github.com/douban/code) - [DEPRECATED]Douban CODE
 - [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
-- [huangz1990/der](https://github.com/huangz1990/der) - 《Redis 设计与实现》所使用的 sphinx 样式。
+- [huangzworks/der](https://github.com/huangzworks/der) - 《Redis 设计与实现》所使用的 sphinx 样式。
 - [kirel/detexify](https://github.com/kirel/detexify) - Latex Symbol Classifier Web Frontend
 - [1sters/material_design_zh](https://github.com/1sters/material_design_zh) - Material Design 中文协同翻译 - design.1sters.com
 - [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
@@ -920,7 +920,7 @@
 - [ThoughtWorksInc/DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [fptudelft/FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015) - FP101x - Functional Programming MOOC 2015 Content Repository
-- [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
+- [huangzworks/real-world-haskell-cn](https://github.com/huangzworks/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Idris 
@@ -1422,6 +1422,7 @@
 
 ## Jupyter Notebook 
 
+- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [Isotr0py/SakuraLLM-Notebooks](https://github.com/Isotr0py/SakuraLLM-Notebooks) - Notebooks to run SakuraLLM on colab/kaggle
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
@@ -2174,7 +2175,6 @@
 - [vEnhance/von](https://github.com/vEnhance/von) - Olympiad problem database
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
-- [yue365/IPTV](https://github.com/yue365/IPTV) - 中国移动 IPTV 直播源
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
@@ -2221,7 +2221,7 @@
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 - [lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [GuiWonder/ChuxiaMing](https://github.com/GuiWonder/ChuxiaMing) - Chuxia Ming 初夏明朝體
+- [GuiWonder/EarlySummerMincho](https://github.com/GuiWonder/EarlySummerMincho) - EarlySummer Mincho 初夏明朝體
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -2516,7 +2516,7 @@
 - [logbird/360yunpan](https://github.com/logbird/360yunpan) - 360YunPan Command-line tools, support: Linux Mac Windows
 - [PythonTG/PythonTG](https://github.com/PythonTG/PythonTG) - Python Translation Group
 - [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
-- [huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
+- [huangzworks/A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangzworks/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [lord63/tldr.py](https://github.com/lord63/tldr.py) - A python client for tldr: simplified and community-driven man pages.
@@ -2869,7 +2869,7 @@
 - [tiancaiamao/yscheme](https://github.com/tiancaiamao/yscheme) - a compiler from a subset of Scheme into X64
 - [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 - [trptcolin/sicp-study](https://github.com/trptcolin/sicp-study) - Working through exercises in SICP (Abelson/Sussman _The Structure and Interpretation of Computer Programs_)
-- [huangz1990/SICP-answers](https://github.com/huangz1990/SICP-answers) - 我的 SICP 解题集
+- [huangzworks/SICP-answers](https://github.com/huangzworks/SICP-answers) - 我的 SICP 解题集
 - [arcfide/chez-srfi](https://github.com/arcfide/chez-srfi) - SRFIs for Chez Scheme
 - [chenyukang/eopl](https://github.com/chenyukang/eopl) - my solutions to EOPL3
 - [viswanathgs/The-Little-Schemer](https://github.com/viswanathgs/The-Little-Schemer) - Scheme code snippets from the book "The Little Schemer", 4th edition
