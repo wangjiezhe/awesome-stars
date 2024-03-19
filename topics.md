@@ -1146,7 +1146,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
+- [curl/everything-curl](https://github.com/curl/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) - :book: [译] scikit-learn（sklearn） 中文文档
 - [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -1634,7 +1634,6 @@
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
@@ -2695,7 +2694,7 @@
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [3017218062/Pytorch-Lightning-Learning](https://github.com/3017218062/Pytorch-Lightning-Learning) - Pytorch Lightning入门中文教程，转载请注明来源。（当初是写着玩的，建议看完MNIST这个例子再上手）
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Branch vse-previewer for "recent" stuff. Branch vs-api4 for a text editor. Branch master for "stability". Forked from https://bitbucket.org/mystery_keeper/vapoursynth-editor
+- [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Branch vse-previewer for standalone previewer. Branch vs-api4 for an IDE with a text editor. Branch master for "stability". Forked from https://bitbucket.org/mystery_keeper/vapoursynth-editor
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [SweetSub/SweetSub](https://github.com/SweetSub/SweetSub) - Subtitle source files from SweetSub, a fansub group
@@ -2732,7 +2731,7 @@
 - [shunf4/proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection
 - [achlipala/frap](https://github.com/achlipala/frap) - Formal Reasoning About Programs
 - [janestreet/torch](https://github.com/janestreet/torch) - 
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 - [coq-community/corn](https://github.com/coq-community/corn) - Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe]
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
