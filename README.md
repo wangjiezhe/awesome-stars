@@ -247,7 +247,7 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [hashcat/hashcat-legacy](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility
 - [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
-- [flintlib/antic](https://github.com/flintlib/antic) - Algebraic Number Theory In C
+- [flintlib/antic](https://github.com/flintlib/antic) - Antic has been merged into FLINT -- use https://github.com/flintlib/flint/ instead
 - [flintlib/flint](https://github.com/flintlib/flint) - FLINT (Fast Library for Number Theory)
 - [osdlyrics/osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -817,7 +817,7 @@
 - [PEDevTeam/PE](https://github.com/PEDevTeam/PE) - PE Development Project
 - [hotmanga/hotmangaSite](https://github.com/hotmanga/hotmangaSite) - 熱辣漫畫資源站，主要收集熱辣漫畫相關資源
 - [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
-- [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
+- [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) - 
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 - [huhai463127310/webchart](https://github.com/huhai463127310/webchart) - 在线代码绘制流程图、时序图
@@ -2217,7 +2217,7 @@
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [atroyn/math-llm](https://github.com/atroyn/math-llm) - Grounding LLM mathematical reasoning with proof assistants.
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 - [lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API
@@ -2552,7 +2552,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Multi-purpose automation framework: Web crawling, scraping, testing, and reporting. (Python / pytest). UC Mode provides stealth. Over 200 examples.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [summernote/django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
