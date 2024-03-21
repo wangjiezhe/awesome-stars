@@ -2638,6 +2638,9 @@
 
 ## others 
 
+- [OrangeX4/vscode-smart-ime](https://github.com/OrangeX4/vscode-smart-ime) - 在 VS Code 中智能地进行中英输入法的切换
+- [yfzhao20/Shift-IM-for-VSCode](https://github.com/yfzhao20/Shift-IM-for-VSCode) - An extension for automatically shift IM(Input Method) condition. Make it easier to input LaTeX in VSCode.
+- [3biubiu/auto-shift-input](https://github.com/3biubiu/auto-shift-input) - 根据上下文自动切换中英文输入法
 - [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 - [Meroser/Home-assistant](https://github.com/Meroser/Home-assistant) - 
@@ -4726,7 +4729,7 @@
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Multi-purpose automation framework: Web crawling, scraping, testing, and reporting. (Python / pytest). UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one automation framework: Web crawling, scraping, testing, and reporting. (Python | pytest). UC Mode provides stealth. Over 200 examples.
 - [taizilongxu/stackoverflow_python](https://github.com/taizilongxu/stackoverflow_python) - stackoverflow上关于python的翻译
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
