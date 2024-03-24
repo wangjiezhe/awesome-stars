@@ -3203,6 +3203,7 @@
 
 ## TypeScript 
 
+- [pokon548/ai-gateway-openai-wrapper](https://github.com/pokon548/ai-gateway-openai-wrapper) - Provide OpenAI compatible, cost effective and proxied api endpoints on Cloudflare Worker. Foolproof considered
 - [OrangeX4/vscode-smart-ime](https://github.com/OrangeX4/vscode-smart-ime) - 在 VS Code 中智能地进行中英输入法的切换
 - [3biubiu/auto-shift-input](https://github.com/3biubiu/auto-shift-input) - 根据上下文自动切换中英文输入法
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
