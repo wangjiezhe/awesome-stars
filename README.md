@@ -1402,7 +1402,6 @@
 - [Zolmeister/zethos](https://github.com/Zolmeister/zethos) - A speed reading tool for reaching 500wpm
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [xiehuc/gnome-shell-extensions-pidgin](https://github.com/xiehuc/gnome-shell-extensions-pidgin) - 
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 
 ## Jinja 
@@ -1719,7 +1718,7 @@
 - [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Redteam operation  platform with webui 图形化红队行动辅助平台
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
@@ -2038,7 +2037,7 @@
 - [programthink/opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 - [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project) - A collection about github front-end project
-- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [amygdalama/python-internals](https://github.com/amygdalama/python-internals) - Resources for learning about Python internals and CPython source code
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
@@ -3305,6 +3304,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## Typst 
 
