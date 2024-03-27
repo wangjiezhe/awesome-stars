@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 - [rasbt/comparing-automatic-augmentation-blog](https://github.com/rasbt/comparing-automatic-augmentation-blog) - Comparing four automatic image augmentation techniques in PyTorch: AutoAugment, RandAugment, AugMix, and TrivialAugment
 - [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
@@ -2643,6 +2644,7 @@
 
 ## others 
 
+- [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 - [cjquines/tsqx](https://github.com/cjquines/tsqx) - Asymptote preprocessor
 - [OrangeX4/vscode-smart-ime](https://github.com/OrangeX4/vscode-smart-ime) - 在 VS Code 中智能地进行中英输入法的切换
 - [yfzhao20/Shift-IM-for-VSCode](https://github.com/yfzhao20/Shift-IM-for-VSCode) - An extension for automatically shift IM(Input Method) condition. Make it easier to input LaTeX in VSCode.
@@ -2678,7 +2680,6 @@
 - [pytorch/torcheval](https://github.com/pytorch/torcheval) - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools fo
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial) - 
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [whyscience/CS231n-Note-Translation_CN](https://github.com/whyscience/CS231n-Note-Translation_CN) - CS231课程笔记翻译 https://zhuanlan.zhihu.com/intelligentunit
 - [NanBox/PiPiName](https://github.com/NanBox/PiPiName) - 根据三才五格和古诗文给宝宝起名
@@ -3594,8 +3595,8 @@
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 - [coleslaw-org/coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible Lisp Blogware
 - [cliburn/Computational-statistics-with-Python](https://github.com/cliburn/Computational-statistics-with-Python) - Resources for STA 633 class
-- [Kivy-CN/Duke-STA-663-CN](https://github.com/Kivy-CN/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
-- [Kivy-CN/Stanford-CS-229](https://github.com/Kivy-CN/Stanford-CS-229) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
+- [cycleuser/Duke-STA-663-CN](https://github.com/cycleuser/Duke-STA-663-CN) - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
+- [cycleuser/Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 - [wangfupeng1988/js-async-tutorial](https://github.com/wangfupeng1988/js-async-tutorial) - 深入理解 JavaScript 异步
 - [yourtion/DataminingGuideBook](https://github.com/yourtion/DataminingGuideBook) - 《面向程序员的数据挖掘指南》Gitbook
 - [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard) - 中文排版所需遵循的标准和规范
@@ -3927,7 +3928,7 @@
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 - [snooda/net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-- [ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence.
+- [ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby.
 - [orderedlist/modernist](https://github.com/orderedlist/modernist) - A Theme for GitHub Pages
 - [mapio/prettytable-mirror](https://github.com/mapio/prettytable-mirror) - A mirror of the prettytable repo (on Google Code)
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
@@ -4690,7 +4691,7 @@
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [Kivy-CN/Kivy-CN](https://github.com/Kivy-CN/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
+- [cycleuser/Kivy-CN](https://github.com/cycleuser/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
 - [basicv8vc/Python-Machine-Learning-zh](https://github.com/basicv8vc/Python-Machine-Learning-zh) - Python机器学习，机器学习入门首选。
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
