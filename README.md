@@ -1725,7 +1725,7 @@
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
 - [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) - 
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a free 1Password Teams membership for your open source project
 - [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
 - [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
