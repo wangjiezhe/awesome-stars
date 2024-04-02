@@ -3013,7 +3013,7 @@
 - [gclm/Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com/gclm/Hackintosh-LEGION-Y7000P-I7-9750H) - 联想拯救者Y7000P I7-9750H 准完美级 EFI
 - [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) - 
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a free 1Password Teams membership for your open source project
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
 - [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
