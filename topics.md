@@ -2660,11 +2660,12 @@
 
 ## others 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [luisllamasbinaburo/VSCodeSnap](https://github.com/luisllamasbinaburo/VSCodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [rqh656418510/hexo-next-darkmode](https://github.com/rqh656418510/hexo-next-darkmode) - Add Dark Mode support for NexT.
 - [suziwen/ZeroOmega](https://github.com/suziwen/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
-- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - 
+- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [Leymore/ruozhiba](https://github.com/Leymore/ruozhiba) - 
 - [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) - 
 - [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - Improve the access speed and stability in China of web pages hosted on either vercel or netlify by merely changing your CNAME record 提升部署在vercel或netlify的网页在中国的访问速度和稳定性
@@ -3787,7 +3788,7 @@
 - [SICPDistilled/website](https://github.com/SICPDistilled/website) - 
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [DIYgod/OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [philnguyen/z3-rkt](https://github.com/philnguyen/z3-rkt) - Racket bindings for Z3
@@ -4759,7 +4760,7 @@
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable web testing. (Python, pytest, and Selenium) 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
 - [taizilongxu/stackoverflow_python](https://github.com/taizilongxu/stackoverflow_python) - stackoverflow上关于python的翻译
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -5500,6 +5501,7 @@
 
 ## windows 
 
+- [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
