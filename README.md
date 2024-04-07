@@ -713,6 +713,7 @@
 
 ## Go 
 
+- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [dianbanjiu/rss_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -797,7 +798,6 @@
 
 ## HTML 
 
-- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
 - [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
 - [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -2220,7 +2220,7 @@
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune and deploy over 20 LLMs. Uses state-of-the-art techniques like flash attention, 4-bit, LoRA, and more.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
