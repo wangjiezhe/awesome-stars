@@ -204,7 +204,7 @@
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [Mzzopublic/C](https://github.com/Mzzopublic/C) - C语言
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring and tuning software designed for 64-bit processors.
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [bylee20/bomi](https://github.com/bylee20/bomi) - bomi - a powerful and easy-to-use multimedia player
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -268,6 +268,7 @@
 
 ## C# # 
 
+- [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个PowerToys Run的翻译插件/a translate plugin for PowerToys Run
 - [fkiliver/SakuraTranslator](https://github.com/fkiliver/SakuraTranslator) - 
 - [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 - [tumuyan/MusicBeePlug_AlbumCover](https://github.com/tumuyan/MusicBeePlug_AlbumCover) - A Artwork Provider Plug-in for MusicBee.
@@ -798,6 +799,8 @@
 
 ## HTML 
 
+- [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) - 页面上加载的模型
+- [novice88/jetbra-server-rust](https://github.com/novice88/jetbra-server-rust) - 
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
 - [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
 - [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -1054,8 +1057,11 @@
 
 ## JavaScript 
 
+- [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+- [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
+- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [luisllamasbinaburo/VSCodeSnap](https://github.com/luisllamasbinaburo/VSCodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站支持ECC和RSA证书  完成后平台将支持三证书，以适应更复杂的浏览器环境
+- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [yfzhao20/Shift-IM-for-VSCode](https://github.com/yfzhao20/Shift-IM-for-VSCode) - An extension for automatically shift IM(Input Method) condition. Make it easier to input LaTeX in VSCode.
 - [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
@@ -1498,7 +1504,7 @@
 
 ## Kotlin 
 
-- [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 将日本网络小说/文库小说翻译成中文并转换成电子书。
+- [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -1877,7 +1883,7 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Kivy-CN/GlumPy-CN](https://github.com/Kivy-CN/GlumPy-CN) - A Chinese Translation of GlumPy Documents 中文翻译GlumPy文档
 - [cwc1987/QmlBook-In-Chinese](https://github.com/cwc1987/QmlBook-In-Chinese) - QML Book In Chinese
-- [darcy-shen/texmacs-1](https://github.com/darcy-shen/texmacs-1) - 
+- [da-liii/texmacs-1](https://github.com/da-liii/texmacs-1) - 
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books) - 如果有人让你推荐前端技术书，请让他看这个列表
 - [jobbole/awesome-css-cn](https://github.com/jobbole/awesome-css-cn) - CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
@@ -2241,7 +2247,7 @@
 - [lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [GuiWonder/EarlySummerMincho](https://github.com/GuiWonder/EarlySummerMincho) - EarlySummer Mincho 初夏明朝體
-- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -2828,6 +2834,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
@@ -2900,7 +2907,7 @@
 - [marcomaggi/vicare](https://github.com/marcomaggi/vicare) - A native compiler for Scheme compliant with R6RS
 - [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) - A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013)
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-- [darcy-shen/dotTeXmacs](https://github.com/darcy-shen/dotTeXmacs) - My TeXmacs configurations
+- [da-liii/dotTeXmacs](https://github.com/da-liii/dotTeXmacs) - My TeXmacs configurations
 - [pkrumins/the-reasoned-schemer](https://github.com/pkrumins/the-reasoned-schemer) - All the logic programming code examples from the book "The Reasoned Schemer"
 - [pkrumins/the-little-prover](https://github.com/pkrumins/the-little-prover) - All code examples from "The Little Prover" book
 - [pkrumins/the-seasoned-schemer](https://github.com/pkrumins/the-seasoned-schemer) - All the Scheme code examples from the book "The Seasoned Schemer"
@@ -3071,7 +3078,7 @@
 - [XmacsLabs/Xmacs](https://github.com/XmacsLabs/Xmacs) - Xmacs renamed to Mogan
 - [texmacs/texmacs](https://github.com/texmacs/texmacs) - Source Code of GNU TeXmacs, Developers Guide ==&gt;
 - [texmacs/mirror](https://github.com/texmacs/mirror) - Mirror only, DO NOT SUBMIT PR
-- [darcy-shen/tigmacs](https://github.com/darcy-shen/tigmacs) - 
+- [da-liii/tigmacs](https://github.com/da-liii/tigmacs) - 
 - [adasilva/journal2ebook](https://github.com/adasilva/journal2ebook) - optimize academic pdfs for e-readers
 - [X-Wei/INF580_HashCode2014](https://github.com/X-Wei/INF580_HashCode2014) - Solving Google HashCode2014 with knowledge from INF580 !
 - [richi235/bachelor-thesis-link-aggregation-tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling) - Full Sources and Experiment Data of my Bachelor Thesis on Link Aggregation Tunneling
