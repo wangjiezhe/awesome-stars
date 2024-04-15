@@ -141,6 +141,7 @@
 
 ## C 
 
+- [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
 - [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
