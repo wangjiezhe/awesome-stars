@@ -1066,8 +1066,9 @@
 
 ## JavaScript 
 
+- [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
-- [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
+- [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [luisllamasbinaburo/VSCodeSnap](https://github.com/luisllamasbinaburo/VSCodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
@@ -1382,7 +1383,6 @@
 - [mozillascience/PaperBadger](https://github.com/mozillascience/PaperBadger) - Issuing badges to credit authors for their work on academic papers
 - [imfly/how-to-create-self-publishing-platform](https://github.com/imfly/how-to-create-self-publishing-platform) - 用Gitbook和Github轻松搭建自出版平台
 - [imfly/electron-docs-gitbook](https://github.com/imfly/electron-docs-gitbook) - Deprecated. You can get it from:
-- [thx/chartx](https://github.com/thx/chartx) - Data Visualization Solutions
 - [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium/Firefox "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
@@ -1505,7 +1505,7 @@
 - [andrewray/iocaml](https://github.com/andrewray/iocaml) - An OCaml kernel for the IPython notebook
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [jupyter/nbconvert-examples](https://github.com/jupyter/nbconvert-examples) - Examples that illustrate how nbconvert can be used
-- [mpld3/mpld3](https://github.com/mpld3/mpld3) - D3 Renderings of Matplotlib Graphics
+- [mpld3/mpld3](https://github.com/mpld3/mpld3) - An interactive data visualization tool which brings matplotlib graphics to the browser using D3.
 - [gmonce/scikit-learn-book](https://github.com/gmonce/scikit-learn-book) - Source code for the "Learning scikit-learn: Machine Learning in Python"
 - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
@@ -1651,6 +1651,7 @@
 
 ## Others 
 
+- [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
 - [Translate-with-LOVE/Ra2-zh_hans-main](https://github.com/Translate-with-LOVE/Ra2-zh_hans-main) - 
 - [moshowgame/ra2yuri](https://github.com/moshowgame/ra2yuri) - 这是红色警戒2尤里的复仇，WIN10版下载、MOD攻略等，怀念青春，红色年华，天启、基洛夫、特斯拉、光棱、巨炮、尤里X与你同在。
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
