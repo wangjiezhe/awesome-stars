@@ -909,7 +909,7 @@
 
 ## css 
 
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [scriptype/sorted-colors](https://github.com/scriptype/sorted-colors) - A tool to sort the named CSS colors in a way that it shows related colors together
@@ -1493,7 +1493,7 @@
 ## github 
 
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
@@ -1782,7 +1782,7 @@
 
 ## http 
 
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
@@ -2006,7 +2006,7 @@
 
 ## js 
 
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 
@@ -2624,7 +2624,7 @@
 
 ## npm 
 
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
@@ -2678,6 +2678,7 @@
 
 ## others 
 
+- [dvlab-research/MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 - [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
 - [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
@@ -3723,7 +3724,6 @@
 - [bigwiv/Biopython-cn](https://github.com/bigwiv/Biopython-cn) - Biopython Tutorial Chinese Translation
 - [hipeta/arrow-macros](https://github.com/hipeta/arrow-macros) - Arrow-macros provides Clojure-like arrow macros in Common Lisp
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [realworldocaml/examples](https://github.com/realworldocaml/examples) - All the examples in Real World OCaml
 - [1dot75cm/awesome-flask-cn](https://github.com/1dot75cm/awesome-flask-cn) - A curated list of awesome Flask resources and plugins
 - [MarisaKirisame/resume](https://github.com/MarisaKirisame/resume) - 
