@@ -1072,7 +1072,7 @@
 - [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [luisllamasbinaburo/VSCodeSnap](https://github.com/luisllamasbinaburo/VSCodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
-- [54ayao/EdgeJSedSpeed](https://github.com/54ayao/EdgeJSedSpeed) - 一个免费面向中国境内外的高速jsdelivr镜像站
+- [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [yfzhao20/Shift-IM-for-VSCode](https://github.com/yfzhao20/Shift-IM-for-VSCode) - An extension for automatically shift IM(Input Method) condition. Make it easier to input LaTeX in VSCode.
 - [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
@@ -2200,6 +2200,7 @@
 
 ## Python 
 
+- [dvlab-research/MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [3150601355/pic_hide_barcode](https://github.com/3150601355/pic_hide_barcode) - hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
@@ -3006,7 +3007,6 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
