@@ -723,6 +723,7 @@
 
 ## Go 
 
+- [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [dianbanjiu/rss_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
@@ -1068,6 +1069,9 @@
 
 ## JavaScript 
 
+- [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+- [daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
+- [chengdong0421/GB_tampermonkey](https://github.com/chengdong0421/GB_tampermonkey) - 
 - [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
@@ -1653,6 +1657,7 @@
 
 ## Others 
 
+- [netsecfish/dlink](https://github.com/netsecfish/dlink) - 
 - [Fairy8o/IPTV](https://github.com/Fairy8o/IPTV) - 11
 - [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
 - [Translate-with-LOVE/Ra2-zh_hans-main](https://github.com/Translate-with-LOVE/Ra2-zh_hans-main) - 
@@ -1875,7 +1880,6 @@
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack) - 这里收集了许多移动端上遇到的各种坑
 - [LenKiMo/CCFAQTrans](https://github.com/LenKiMo/CCFAQTrans) - 知识共享协议FAQ非官方翻译
-- [Jackchows/Cangjie5](https://github.com/Jackchows/Cangjie5) - 倉頡五代補完計劃
 - [yourtion/objc-zen-book-cn](https://github.com/yourtion/objc-zen-book-cn) - GitBook for 《禅与 Objective-C 编程艺术》
 - [LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese) - 《Bash脚本进阶指南》第十次修订本中文版
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
@@ -2202,6 +2206,7 @@
 
 ## Python 
 
+- [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) - D-Link NAS CVE-2024-3273 Exploit Tool
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
@@ -2452,6 +2457,7 @@
 - [liuwons/wxBot](https://github.com/liuwons/wxBot) - Deprecated
 - [youfou/wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [LCTT/LCBot](https://github.com/LCTT/LCBot) - Linux 中国 微信群机器人（已经停止维护）
+- [Jackchows/Cangjie5](https://github.com/Jackchows/Cangjie5) - 倉頡五代補完計劃
 - [Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus) - 倉頡三代補完計畫
 - [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
