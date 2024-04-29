@@ -811,6 +811,7 @@
 
 ## HTML 
 
+- [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) - 页面上加载的模型
 - [novice88/jetbra-server-rust](https://github.com/novice88/jetbra-server-rust) - 
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
@@ -1659,6 +1660,7 @@
 
 ## Others 
 
+- [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [netsecfish/dlink](https://github.com/netsecfish/dlink) - 
 - [Fairy8o/IPTV](https://github.com/Fairy8o/IPTV) - 11
 - [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
@@ -2214,7 +2216,7 @@
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [3150601355/pic_hide_barcode](https://github.com/3150601355/pic_hide_barcode) - hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing variable font] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
