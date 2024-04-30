@@ -2679,6 +2679,8 @@
 
 ## others 
 
+- [Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom) - 🦄 🎃 👻 V2Ray 路由规则文件自定义版，可代替官方 geosite.dat，兼容 Hysteria、Shadowsocks-windows、Xray-core、Trojan-Go 和 Leaf。Customized edition of geosite.dat for V2Ray, Xray-core, Shadowsocks-windows, Trojan-Go, Leaf and Hys
+- [v2fly/geoip](https://github.com/v2fly/geoip) - GeoIP for V2Ray. Generate and release GeoIP files such as geoip.dat and geoip-only-cn-private.dat for V2Ray automatically every Thursday.
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - 基于JavaFx实现的中国象棋界面程序
@@ -3062,7 +3064,7 @@
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [hfutxqd/ImageConverter](https://github.com/hfutxqd/ImageConverter) - 一个图片转换器，可以把任意两张图片转换成一张黑白的png图片，该png图片在白色背景和黑色背景下呈现不同的形态
-- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2020 年格式
+- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2023 年格式
 - [latexstudio/ChenLaTeXBookTemplate](https://github.com/latexstudio/ChenLaTeXBookTemplate) - ChenLaTeX书籍模板，群享书籍模板-由群共建-QQ群: 91940767
 - [latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn) - 中文 LaTeX 常见问题工程，见证中文社区的力量
 - [latexstudio/LaTeXPackages-CN](https://github.com/latexstudio/LaTeXPackages-CN) - LaTeX commonly used macro package  Chinese localization project-常用宏包说明的中文本地化项目
