@@ -724,6 +724,8 @@
 
 ## Go 
 
+- [Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom) - 🦄 🎃 👻 V2Ray 路由规则文件自定义版，可代替官方 geosite.dat，兼容 Hysteria、Shadowsocks-windows、Xray-core、Trojan-Go 和 Leaf。Customized edition of geosite.dat for V2Ray, Xray-core, Shadowsocks-windows, Trojan-Go, Leaf and Hys
+- [v2fly/geoip](https://github.com/v2fly/geoip) - GeoIP for V2Ray. Generate and release GeoIP files such as geoip.dat and geoip-only-cn-private.dat for V2Ray automatically every Thursday.
 - [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -3152,7 +3154,7 @@
 - [RuixiZhang42/font-pairing-guide](https://github.com/RuixiZhang42/font-pairing-guide) - A technical guide for pairing CJK and Latin fonts
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [fuujiro/Waseda-Beamer-Slide](https://github.com/fuujiro/Waseda-Beamer-Slide) - A LaTeX beamer theme template for Waseda Univ. students.
-- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2020 年格式
+- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2023 年格式
 - [latexstudio/ChenLaTeXBookTemplate](https://github.com/latexstudio/ChenLaTeXBookTemplate) - ChenLaTeX书籍模板，群享书籍模板-由群共建-QQ群: 91940767
 - [latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn) - 中文 LaTeX 常见问题工程，见证中文社区的力量
 - [latexstudio/LaTeXPackages-CN](https://github.com/latexstudio/LaTeXPackages-CN) - LaTeX commonly used macro package  Chinese localization project-常用宏包说明的中文本地化项目
