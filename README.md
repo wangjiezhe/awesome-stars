@@ -2913,7 +2913,7 @@
 
 ## Scheme 
 
-- [XmacsLabs/mogan](https://github.com/XmacsLabs/mogan) - Mogan (based on GNU TeXmacs): Let us enjoy exploring science and technology!
+- [XmacsLabs/mogan](https://github.com/XmacsLabs/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 - [mrmathematica/MrMathematica](https://github.com/mrmathematica/MrMathematica) - Calling Mathematica from Racket
 - [yinwang0/yscheme](https://github.com/yinwang0/yscheme) - A compiler from Scheme into X64
 - [akeep/nanopass-framework](https://github.com/akeep/nanopass-framework) - The new nanopass framework; an embedded DSL for writing compilers in Scheme
