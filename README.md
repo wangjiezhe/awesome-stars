@@ -2074,7 +2074,6 @@
 - [programthink/opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 - [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project) - A collection about github front-end project
-- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [amygdalama/python-internals](https://github.com/amygdalama/python-internals) - Resources for learning about Python internals and CPython source code
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
@@ -2683,6 +2682,7 @@
 - [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 - [Axelrod-Python/Axelrod](https://github.com/Axelrod-Python/Axelrod) - A research tool for the Iterated Prisoner's Dilemma
 - [justzx2011/openyoudao](https://github.com/justzx2011/openyoudao) - openyoudao is a youdao client for linux.有道字典在Linux下的客户端，目前程序已经进入aur源，并支持Debian/Ubuntu fedora/centos 等常用发行版linux
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
