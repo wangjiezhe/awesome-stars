@@ -815,6 +815,7 @@
 
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) - 页面上加载的模型
+- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
 - [fenxp/iptv](https://github.com/fenxp/iptv) - 自动采集与互联网IPTV
 - [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -1080,7 +1081,6 @@
 - [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
-- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [luisllamasbinaburo/VSCodeSnap](https://github.com/luisllamasbinaburo/VSCodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
