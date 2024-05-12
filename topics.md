@@ -1664,7 +1664,6 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
@@ -2685,6 +2684,7 @@
 
 ## others 
 
+- [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 - [zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive) - iptv直播源、4k点播源地址
 - [Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom) - 🦄 🎃 👻 V2Ray 路由规则文件自定义版，可代替官方 geosite.dat，兼容 Hysteria、Shadowsocks-windows、Xray-core、Trojan-Go 和 Leaf。Customized edition of geosite.dat for V2Ray, Xray-core, Shadowsocks-windows, Trojan-Go, Leaf and Hys
