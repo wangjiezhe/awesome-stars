@@ -2693,6 +2693,7 @@
 
 ## others 
 
+- [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [2010dainifei/IPTV](https://github.com/2010dainifei/IPTV) - 自动收集全网IPTV直播源信息，每天凌晨自动更新，支持TXT和M3U格式。目前只有央视和卫视。如有其他需求请联系QQ群：418118493
 - [Yong-TT/IPTV](https://github.com/Yong-TT/IPTV) - 电视直播源
 - [schumijo/iptv](https://github.com/schumijo/iptv) - 
