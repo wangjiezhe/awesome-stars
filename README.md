@@ -1076,6 +1076,7 @@
 
 ## JavaScript 
 
+- [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [myhomebox/tv](https://github.com/myhomebox/tv) - 
 - [zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive) - iptv直播源、4k点播源地址
 - [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
