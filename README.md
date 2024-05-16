@@ -321,6 +321,9 @@
 
 ## C++ 
 
+- [diannaojiang/Bilibili-Playin-Mpv](https://github.com/diannaojiang/Bilibili-Playin-Mpv) - 
+- [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
+- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 - [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat) - DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
