@@ -143,6 +143,7 @@
 
 ## C 
 
+- [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [nmap/npcap](https://github.com/nmap/npcap) - Nmap Project's Windows packet capture and transmission library
 - [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Mach
@@ -321,9 +322,10 @@
 
 ## C++ 
 
+- [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [diannaojiang/Bilibili-Playin-Mpv](https://github.com/diannaojiang/Bilibili-Playin-Mpv) - 
-- [Mr-Wiseguy/Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
-- [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
+- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware
 - [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat) - DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
@@ -1669,6 +1671,7 @@
 
 ## Others 
 
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [2010dainifei/IPTV](https://github.com/2010dainifei/IPTV) - 自动收集全网IPTV直播源信息，每天凌晨自动更新，支持TXT和M3U格式。目前只有央视和卫视。如有其他需求请联系QQ群：418118493
 - [Yong-TT/IPTV](https://github.com/Yong-TT/IPTV) - 电视直播源
 - [newclews/iptvlist](https://github.com/newclews/iptvlist) - iptvlist
@@ -2222,6 +2225,7 @@
 
 ## Python 
 
+- [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [schumijo/iptv](https://github.com/schumijo/iptv) - 
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) - D-Link NAS CVE-2024-3273 Exploit Tool
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
