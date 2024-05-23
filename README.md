@@ -2554,7 +2554,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [Miserlou/omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
 - [JinnLynn/genpac](https://github.com/JinnLynn/genpac) - PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules.
