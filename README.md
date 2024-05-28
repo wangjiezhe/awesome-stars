@@ -1595,6 +1595,7 @@
 
 ## Makefile 
 
+- [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [maxchehab/Unofficial-Google-Messages-Desktop-App](https://github.com/maxchehab/Unofficial-Google-Messages-Desktop-App) - The (Unofficial) Google Messages Desktop Application
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -3151,7 +3152,7 @@
 - [a358003542/tikz_gallery](https://github.com/a358003542/tikz_gallery) - It is just a simple tikz gallery project.
 - [qyxf/qyxf-book](https://github.com/qyxf/qyxf-book) - 钱院学辅 LaTeX 书籍模板
 - [zhanggyb/nndl](https://github.com/zhanggyb/nndl) - Another Chinese Translation of Neural Networks and Deep Learning
-- [jamesfang8499/math6](https://github.com/jamesfang8499/math6) - 
+- [jamesfang8499/math6-2](https://github.com/jamesfang8499/math6-2) - 
 - [jamesfang8499/math5](https://github.com/jamesfang8499/math5) - 
 - [jamesfang8499/math4](https://github.com/jamesfang8499/math4) - 
 - [jamesfang8499/math3](https://github.com/jamesfang8499/math3) - 
