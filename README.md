@@ -273,7 +273,7 @@
 
 - [Vincentzyx/VinXiangQi](https://github.com/Vincentzyx/VinXiangQi) - Xiangqi syncing tool based on Yolov5 / 基于Yolov5的中国象棋连线工具
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个PowerToys Run的翻译插件/a translate plugin for PowerToys Run
+- [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run
 - [fkiliver/SakuraTranslator](https://github.com/fkiliver/SakuraTranslator) - 
 - [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 - [tumuyan/MusicBeePlug_AlbumCover](https://github.com/tumuyan/MusicBeePlug_AlbumCover) - A Artwork Provider Plug-in for MusicBee.
