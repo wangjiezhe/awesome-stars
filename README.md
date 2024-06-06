@@ -1082,6 +1082,7 @@
 
 ## JavaScript 
 
+- [59799517/simple_sq_musuc_plus](https://github.com/59799517/simple_sq_musuc_plus) - NAS音乐下载工具   支持下载后的音乐标签匹配 符合emby的文件目录格式  兄弟们2.。0正式完成用2.0 1.0不维护了
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [myhomebox/tv](https://github.com/myhomebox/tv) - 
 - [zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive) - iptv直播源、4k点播源地址
