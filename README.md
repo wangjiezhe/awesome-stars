@@ -1302,7 +1302,7 @@
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [wangfupeng1988/js-async-tutorial](https://github.com/wangfupeng1988/js-async-tutorial) - 深入理解 JavaScript 异步
 - [lepture/social](https://github.com/lepture/social) - Share your notes with a beautiful social button.
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 пользовательских скриптов
 - [LCTT/WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
 - [dozer47528/zhihu-block-chrome-extension](https://github.com/dozer47528/zhihu-block-chrome-extension) - 知乎用户屏蔽插件
 - [SuzanneSoy/scribble-math](https://github.com/SuzanneSoy/scribble-math) - Integration of MathJax, KaTeX and Asymptote with scribble, to typeset math in Racket documentation
@@ -2256,7 +2256,7 @@
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
-- [Artiprocher/DiffSynth-Studio](https://github.com/Artiprocher/DiffSynth-Studio) - 
+- [Artiprocher/DiffSynth-Studio](https://github.com/Artiprocher/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [lihongxun945/alpha-zero-gobang](https://github.com/lihongxun945/alpha-zero-gobang) - alpha zero 原理实现五子棋 AI，tensorflow
 - [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - A gobang robot based on reinforcement learning.
 - [pytorch/torcheval](https://github.com/pytorch/torcheval) - A library that contains a rich collection of performant PyTorch model metrics, a simple interface to create new metrics, a toolkit to facilitate metric computation in distributed training and tools fo
