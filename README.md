@@ -29,6 +29,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
+- [Fluent](#fluent)
 - [Fortran](#fortran)
 - [FreeMarker](#freemarker)
 - [GAP](#gap)
@@ -708,6 +709,10 @@
 - [nonsequitur/smex](https://github.com/nonsequitur/smex) - A smart M-x enhancement for Emacs.
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Fortran 
 
 - [Foadsf/Cmathtuts](https://github.com/Foadsf/Cmathtuts) - trying to collect all useful tutorials for famous C math and linear algebra libraries such as CBLAS, CLAPACK, GSL...
@@ -809,7 +814,7 @@
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [bigwhite/experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1619,7 +1624,7 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -2438,7 +2443,6 @@
 - [abusetelegram/xixi-haha](https://github.com/abusetelegram/xixi-haha) - 📖 习语大集合
 - [bowenpay/wechat-spider](https://github.com/bowenpay/wechat-spider) - 微信公众号爬虫
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [littlecodersh/itchatmp](https://github.com/littlecodersh/itchatmp) - A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。
 - [yidao620c/core-algorithm](https://github.com/yidao620c/core-algorithm) - 算法集锦的python实现
 - [sillybun/vim-autodoc](https://github.com/sillybun/vim-autodoc) - 
