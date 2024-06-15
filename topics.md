@@ -2702,6 +2702,7 @@
 
 ## others 
 
+- [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
