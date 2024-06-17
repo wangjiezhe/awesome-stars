@@ -44,6 +44,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -898,6 +899,16 @@
 
 - [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
+
+## cryptography 
+
+- [hellman/xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
+- [padloc/padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
+- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
+- [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
+- [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 
 ## csharp 
 
@@ -2809,7 +2820,7 @@
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [whyscience/CS231n-Note-Translation_CN](https://github.com/whyscience/CS231n-Note-Translation_CN) - CS231课程笔记翻译 https://zhuanlan.zhihu.com/intelligentunit
 - [NanBox/PiPiName](https://github.com/NanBox/PiPiName) - 根据三才五格和古诗文给宝宝起名
-- [redleafnew/Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+- [zotero-chinese/Chinese-STD-GB-T-7714-related-csl](https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
 - [747929791/majsoul_wrapper](https://github.com/747929791/majsoul_wrapper) - 自动化雀魂AI的SDK，实时解析雀魂对局信息，并模拟鼠标动作出牌
 - [gohhh1234/iptv](https://github.com/gohhh1234/iptv) - 
@@ -3331,7 +3342,6 @@
 - [F4bwDP6a6W/FLY_US](https://github.com/F4bwDP6a6W/FLY_US) - 美国大学备考资料 How to apply US colleges
 - [kobalab/Majiang](https://github.com/kobalab/Majiang) - HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [hellman/xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [Mahosyojyo/Majong-AutoScore](https://github.com/Mahosyojyo/Majong-AutoScore) - 日麻自动算分器
 - [yinwang0/ydiff](https://github.com/yinwang0/ydiff) - A structural comparison tool for Lisp family languages, with experimental C++, JS support
@@ -3767,7 +3777,6 @@
 - [phatpiglet/autocorrect](https://github.com/phatpiglet/autocorrect) - Python 3 Spelling Corrector
 - [mflatt/plai-typed](https://github.com/mflatt/plai-typed) - 
 - [darkerego/mips-binaries](https://github.com/darkerego/mips-binaries) - Various binaries for the mips architecture.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [BinRoot/Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook) - Accompanying Source Code for the Haskell Data Analysis Cookbook
 - [littlecodersh/danmu](https://github.com/littlecodersh/danmu) - Python 弹幕包 A live danmu package for python
@@ -3957,7 +3966,6 @@
 - [defunctzombie/badginator](https://github.com/defunctzombie/badginator) - badges for your badges
 - [esumii/min-caml](https://github.com/esumii/min-caml) - moved from https://sourceforge.net/p/min-caml/code/
 - [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
-- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 - [itorr/itorr.github.io](https://github.com/itorr/itorr.github.io) - 妹 Blog - GitHub Pages 特别版
 - [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
@@ -4739,7 +4747,7 @@
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
