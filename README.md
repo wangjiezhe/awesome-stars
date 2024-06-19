@@ -1604,6 +1604,7 @@
 
 ## Makefile 
 
+- [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [maxchehab/Unofficial-Google-Messages-Desktop-App](https://github.com/maxchehab/Unofficial-Google-Messages-Desktop-App) - The (Unofficial) Google Messages Desktop Application
@@ -2542,7 +2543,7 @@
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
-- [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - (Donot use 3.7.6,3.8.1):snake:Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
+- [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 - [scusjs/baiduyun](https://github.com/scusjs/baiduyun) - 提取百度网盘高速下载链接
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [airingursb/bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
@@ -3486,7 +3487,7 @@
 
 ## XML 
 
-- [zotero-chinese/Chinese-STD-GB-T-7714-related-csl](https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+- [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
 - [brassogre/JGEX_SagaciousMatterFork](https://github.com/brassogre/JGEX_SagaciousMatterFork) - Refactor of JGEX Java Geometry Expert
 
 ## XSLT 
