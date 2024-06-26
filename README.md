@@ -273,6 +273,8 @@
 
 ## C# # 
 
+- [zetaloop/OFGB](https://github.com/zetaloop/OFGB) - 广告滚蛋 - 删除 Win11 各处广告的小工具
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [Vincentzyx/VinXiangQi](https://github.com/Vincentzyx/VinXiangQi) - Xiangqi syncing tool based on Yolov5 / 基于Yolov5的中国象棋连线工具
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run
@@ -978,7 +980,6 @@
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
 - [WaSuper/Mahjong](https://github.com/WaSuper/Mahjong) - 一个小小的日本麻将计分器
-- [jcchikikomori/GmsCoreHuawei](https://github.com/jcchikikomori/GmsCoreHuawei) - Attempt to support Free implementation of Play Services for HUAWEI devices
 - [EloYGomeZ/android_packages_apps_GmsCore-HUAWEI](https://github.com/EloYGomeZ/android_packages_apps_GmsCore-HUAWEI) - Free implementation of Play Services
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
@@ -1968,7 +1969,6 @@
 - [uhub/awesome-coq](https://github.com/uhub/awesome-coq) - A curated list of awesome Coq frameworks, libraries and software.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [karthikncode/nlp-datasets](https://github.com/karthikncode/nlp-datasets) - A list of datasets/corpora for NLP tasks, in reverse chronological order.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
 - [tigerneil/neural-networks-and-deep-learning-zh-cn](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn) - 
 - [ysh329/Chinese-UFLDL-Tutorial](https://github.com/ysh329/Chinese-UFLDL-Tutorial) - [UNMAINTAINED] 非监督特征学习与深度学习中文教程，该版本翻译自新版 UFLDL Tutorial 。建议新人们去学习斯坦福的CS231n课程，该门课程在网易云课堂上也有一个配有中文字幕的版本。
@@ -2287,7 +2287,7 @@
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Load, pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
@@ -2978,7 +2978,7 @@
 
 ## Shell 
 
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr等镜像加速\管理服务。支持部署到Render
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
@@ -3294,6 +3294,7 @@
 
 ## TypeScript 
 
+- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK for creating/editing video files on the web platform. WebAV 是一个在 Web 平台上创建/编辑视频文件的 SDK。
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [latex-lsp/texlab-vscode](https://github.com/latex-lsp/texlab-vscode) - LaTeX for Visual Studio Code
@@ -3453,6 +3454,7 @@
 - [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - A vim plugin for communicating with a language server
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
