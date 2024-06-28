@@ -1552,6 +1552,7 @@
 
 ## Lean 
 
+- [avigad/mathematics_in_lean_source](https://github.com/avigad/mathematics_in_lean_source) - Source code for the Mathematics in Lean tutorial.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Less 
@@ -1681,6 +1682,7 @@
 
 ## Others 
 
+- [Tao-Boy/IPTV](https://github.com/Tao-Boy/IPTV) - IPTV m3u
 - [shipujin/LFS-BOOK-loongson](https://github.com/shipujin/LFS-BOOK-loongson) - Compiles LFS on 3A3000 host to make a MIPS architecture for the normal operation of LFS OS, MIPS architecture.
 - [fanmingming/SW-Chinese-received-frequency](https://github.com/fanmingming/SW-Chinese-received-frequency) - 主流国际中文电台短波接收频率
 - [kemomi/TokyoHolyLandTour](https://github.com/kemomi/TokyoHolyLandTour) - 东京圣地巡礼/せいち じゅんれい:圣地巡礼是指ACGN爱好者根据自己喜欢的作品，造访故事背景区域，该场所则被称为圣地。这个名词是从朝圣而来的，原先是指宗教上寻觅灵性意义的过程。
@@ -2236,6 +2238,7 @@
 
 ## Python 
 
+- [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，850+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。
 - [MemoryCollection/IPTV](https://github.com/MemoryCollection/IPTV) - 酒店组播采集
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
@@ -2248,7 +2251,7 @@
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [3150601355/pic_hide_barcode](https://github.com/3150601355/pic_hide_barcode) - hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
@@ -2286,7 +2289,7 @@
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - The easiest way to use LLMs. 20+ high-performance LLM implementations with recipes to pretrain, finetune and deploy at scale.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLM implementations with recipes to pretrain, finetune and deploy at scale.
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
@@ -3454,7 +3457,7 @@
 - [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - A vim plugin for communicating with a language server
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
