@@ -42,6 +42,7 @@
 - [Haskell](#haskell)
 - [Idris](#idris)
 - [Inno Setup](#inno-setup)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -57,6 +58,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -970,6 +972,10 @@
 
 - [git-for-windows/build-extra](https://github.com/git-for-windows/build-extra) - Additional files and scripts to help build Git for Windows on MSYS2.
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - 基于JavaFx实现的中国象棋界面程序
@@ -1622,7 +1628,6 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -1637,6 +1642,10 @@
 - [RuleBasedIntegration/Rubi](https://github.com/RuleBasedIntegration/Rubi) - Rubi for Mathematica
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
 - [oovm/Mathpix](https://github.com/oovm/Mathpix) - Mathpix API in Mathematica
+
+## Nix 
+
+- [dramforever/nixos-loongson2f](https://github.com/dramforever/nixos-loongson2f) - NixOS on Loongson-2F
 
 ## Nunjucks 
 
