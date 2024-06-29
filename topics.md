@@ -2718,6 +2718,7 @@
 
 ## others 
 
+- [dramforever/nixos-loongson2f](https://github.com/dramforever/nixos-loongson2f) - NixOS on Loongson-2F
 - [avigad/mathematics_in_lean_source](https://github.com/avigad/mathematics_in_lean_source) - Source code for the Mathematics in Lean tutorial.
 - [Tao-Boy/IPTV](https://github.com/Tao-Boy/IPTV) - IPTV m3u
 - [zetaloop/OFGB](https://github.com/zetaloop/OFGB) - 广告滚蛋 - 删除 Win11 各处广告的小工具
