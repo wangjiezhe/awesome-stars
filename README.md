@@ -75,6 +75,7 @@
 - [R](#r)
 - [Racket](#racket)
 - [Rascal](#rascal)
+- [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -794,7 +795,7 @@
 - [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
@@ -1670,7 +1671,6 @@
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [LaurentMazare/tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow
 - [rleonid/oml](https://github.com/rleonid/oml) - OCaml Math Library
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [realworldocaml/examples](https://github.com/realworldocaml/examples) - All the examples in Real World OCaml
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [tomprimozic/type-systems](https://github.com/tomprimozic/type-systems) - Implementations of various type systems in OCaml.
@@ -1691,6 +1691,8 @@
 
 ## Others 
 
+- [ji4ozhu/kkcap](https://github.com/ji4ozhu/kkcap) - The Most Advanced Proxy Client,support to SOCKS5, Shadowsocks 游戏加速器
+- [wxflogic/logic_vsi](https://github.com/wxflogic/logic_vsi) - 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章）
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 - [Tao-Boy/IPTV](https://github.com/Tao-Boy/IPTV) - IPTV m3u
 - [shipujin/LFS-BOOK-loongson](https://github.com/shipujin/LFS-BOOK-loongson) - Compiles LFS on 3A3000 host to make a MIPS architecture for the normal operation of LFS OS, MIPS architecture.
@@ -2248,6 +2250,7 @@
 
 ## Python 
 
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [flygon2018/MobaXterm-keygen](https://github.com/flygon2018/MobaXterm-keygen) - A keygen for MobaXterm
 - [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 - [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，850+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。
@@ -2874,6 +2877,10 @@
 
 - [googlehosts/hosts-ipv6](https://github.com/googlehosts/hosts-ipv6) - 镜像：https://scaffrey.coding.net/p/hosts-ipv6/git / https://git.qvq.network/googlehosts/hosts-ipv6
 
+## ReScript 
+
+- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
+
 ## Rich Text Format 
 
 - [XiewzHub/EFI](https://github.com/XiewzHub/EFI) - 拯救者Y7000和Y50-70装黑苹果(hackintosh)，已经配置好的EFI引导文件，安装时可用，不同分支功能不同
@@ -2910,6 +2917,8 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -2993,6 +3002,7 @@
 
 ## Shell 
 
+- [1265578519/kangle](https://github.com/1265578519/kangle) - kangle web server 最强网站性能服务器架设软件
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
@@ -3165,6 +3175,7 @@
 
 ## TeX 
 
+- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除
 - [latexstudio/the-chinese-characteristic](https://github.com/latexstudio/the-chinese-characteristic) - 中国人的性格  万泽校对和点评
 - [chianjin/zhvt-classic](https://github.com/chianjin/zhvt-classic) - 中文线装书排版
 - [vEnhance/web.evanchen.cc](https://github.com/vEnhance/web.evanchen.cc) - Source files for https://web.evanchen.cc
@@ -3361,7 +3372,7 @@
 - [datejer/vercel-badge](https://github.com/datejer/vercel-badge) - Simple serverless service for embedding a Vercel deployment badge.
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [TeamMeow/vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) - 📐 Render LaTeX math equations in any Markdown file!
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
