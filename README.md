@@ -1698,6 +1698,7 @@
 
 ## Others 
 
+- [Erich-Chen/Loongson-2f-Install-Debian](https://github.com/Erich-Chen/Loongson-2f-Install-Debian) - My experience to install Debian on loongson-2f
 - [ji4ozhu/kkcap](https://github.com/ji4ozhu/kkcap) - The Most Advanced Proxy Client,support to SOCKS5, Shadowsocks 游戏加速器
 - [wxflogic/logic_vsi](https://github.com/wxflogic/logic_vsi) - 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章）
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
