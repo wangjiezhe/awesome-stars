@@ -2741,6 +2741,7 @@
 
 ## others 
 
+- [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool，supports PDF/webpage/e-book extraction.
 - [xiaoxuan6/github-mirror](https://github.com/xiaoxuan6/github-mirror) - GitHub 文件加速集群
