@@ -800,7 +800,7 @@
 - [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
@@ -1106,6 +1106,9 @@
 
 ## JavaScript 
 
+- [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
+- [hawkhu/cpractice](https://github.com/hawkhu/cpractice) - 小学加减法口算题生成程序
+- [hldgaofeng/oralcalc](https://github.com/hldgaofeng/oralcalc) - oral calculation generator
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 解密 Windows QQ Music mflac 文件
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
@@ -1144,7 +1147,7 @@
 - [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [parpalak/upmath.me](https://github.com/parpalak/upmath.me) - Markdown and LaTeX online editor - create text for web with equations and diagrams
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [dmsm/scissors-congruence](https://github.com/dmsm/scissors-congruence) - An interactive demonstration of the Wallace–Bolyai–Gerwien theorem.
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
@@ -2939,6 +2942,7 @@
 
 ## Rust 
 
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address.
