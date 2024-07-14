@@ -1724,7 +1724,6 @@
 - [ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font) - A free font family derived from Source Han Serif.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [2010dainifei/IPTV](https://github.com/2010dainifei/IPTV) - 自动收集全网IPTV直播源信息，每天凌晨自动更新，支持TXT和M3U格式。目前只有央视和卫视。如有其他需求请联系QQ群：418118493
-- [Yong-TT/IPTV](https://github.com/Yong-TT/IPTV) - 电视直播源
 - [newclews/iptvlist](https://github.com/newclews/iptvlist) - iptvlist
 - [reynelda86/MyTv](https://github.com/reynelda86/MyTv) - 
 - [xisohi/IPTV-Multicast-source](https://github.com/xisohi/IPTV-Multicast-source) - 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
