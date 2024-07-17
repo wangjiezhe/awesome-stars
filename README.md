@@ -745,6 +745,7 @@
 
 ## Go 
 
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [xiaoxuan6/github-mirror](https://github.com/xiaoxuan6/github-mirror) - GitHub 文件加速集群
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 - [Loyalsoldier/domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom) - 🦄 🎃 👻 V2Ray 路由规则文件自定义版，可代替官方 geosite.dat，兼容 Hysteria、Shadowsocks-windows、Xray-core、Trojan-Go 和 Leaf。Customized edition of geosite.dat for V2Ray, Xray-core, Shadowsocks-windows, Trojan-Go, Leaf and Hys
@@ -2942,6 +2943,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
