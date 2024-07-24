@@ -441,6 +441,7 @@
 
 ## awesome 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dundalek/awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -512,6 +513,7 @@
 
 ## awesome-list 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [dundalek/awesome-lisp-languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages
 - [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -1821,6 +1823,7 @@
 
 ## http 
 
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [54ayao/JSDMirror](https://github.com/54ayao/JSDMirror) - 一个免费面向中国境内外的高速jsdelivr镜像站
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -2585,6 +2588,7 @@
 
 ## neovim 
 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
 - [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file_folder: The dark powered file explorer implementation for neovim/Vim8
@@ -2751,6 +2755,7 @@
 
 ## others 
 
+- [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
 - [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 - [skywind3000/gobang](https://github.com/skywind3000/gobang) - Gobang game with artificial intelligence in 900 Lines !!
 - [losehu/uv-k5-bootloader-custom](https://github.com/losehu/uv-k5-bootloader-custom) - a custom bootloader for uv-k5
@@ -2801,7 +2806,7 @@
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
 - [kemomi/TokyoHolyLandTour](https://github.com/kemomi/TokyoHolyLandTour) - 东京圣地巡礼/せいち じゅんれい:圣地巡礼是指ACGN爱好者根据自己喜欢的作品，造访故事背景区域，该场所则被称为圣地。这个名词是从朝圣而来的，原先是指宗教上寻觅灵性意义的过程。
-- [59799517/simple_sq_musuc_plus](https://github.com/59799517/simple_sq_musuc_plus) - NAS音乐下载工具   支持下载后的音乐标签匹配 符合emby的文件目录格式  兄弟们2.。0正式完成用2.0 1.0不维护了
+- [59799517/simple_sq_musuc_plus](https://github.com/59799517/simple_sq_musuc_plus) - NAS音乐下载工具 以后会可能做些插件对其他人的网页进行集成
 - [mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony) - 开源阅读鸿蒙版仓库
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
@@ -5675,6 +5680,7 @@
 
 ## web 
 
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
