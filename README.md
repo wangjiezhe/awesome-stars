@@ -2953,6 +2953,7 @@
 
 ## Rust 
 
+- [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -3559,6 +3560,7 @@
 
 ## Vue 
 
+- [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [kbkn3/MahjongSoul-review-supporter](https://github.com/kbkn3/MahjongSoul-review-supporter) - This is a chrome extension that automatically sends Paihu to an AI-based analysis tool for Mahjong Soul
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
