@@ -361,7 +361,7 @@
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [buddhi1980/mandelbulber2](https://github.com/buddhi1980/mandelbulber2) - Official repository for Mandelbulber v2
-- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - One music sequencer for all major platforms, desktop and mobile
+- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 - [thunlp/THULAC](https://github.com/thunlp/THULAC) - An Efficient Lexical Analyzer for Chinese
 - [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
@@ -749,6 +749,7 @@
 
 ## Go 
 
+- [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [xiaoxuan6/github-mirror](https://github.com/xiaoxuan6/github-mirror) - GitHub 文件加速集群
@@ -995,6 +996,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - 基于JavaFx实现的中国象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
 - [serso/android-calculatorpp](https://github.com/serso/android-calculatorpp) - Android Calculator
@@ -1113,6 +1115,7 @@
 
 ## JavaScript 
 
+- [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 - [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 - [hawkhu/cpractice](https://github.com/hawkhu/cpractice) - 小学加减法口算题生成程序
 - [hldgaofeng/oralcalc](https://github.com/hldgaofeng/oralcalc) - oral calculation generator
@@ -1719,6 +1722,7 @@
 
 ## Others 
 
+- [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2279,6 +2283,7 @@
 
 ## Python 
 
+- [graphdeco-inria/hierarchical-3d-gaussians](https://github.com/graphdeco-inria/hierarchical-3d-gaussians) - 
 - [skywind3000/gobang](https://github.com/skywind3000/gobang) - Gobang game with artificial intelligence in 900 Lines !!
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
@@ -2293,7 +2298,7 @@
 - [MemoryCollection/IPTV](https://github.com/MemoryCollection/IPTV) - 酒店组播采集
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [schumijo/iptv](https://github.com/schumijo/iptv) - 
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) - D-Link NAS CVE-2024-3273 Exploit Tool
@@ -2384,6 +2389,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [mac-zhou/midea-msmart](https://github.com/mac-zhou/midea-msmart) - This is a library to allow communicating to a Midea AC via the Local area network.
 - [mac-zhou/midea-ac-py](https://github.com/mac-zhou/midea-ac-py) - Home Assistant Custom Integration for Midea Group(Hualing, Senville, Klimaire, AirCon, Century, Pridiom, Thermocore, Comfee, Toshiba, Carrier, Goodman, Friedrich, Samsung, Kenmore, Trane, Lennox, LG a
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [yongman/homeassistant-components](https://github.com/yongman/homeassistant-components) - 目前在使用的Homeassistant自定义插件，当前版本Home Assistant 2022.05
 - [georgezhao2010/midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [meishild/AqaraBridge](https://github.com/meishild/AqaraBridge) - aqara link homeassistant
@@ -3047,6 +3053,8 @@
 
 ## Shell 
 
+- [bekcpear/ryans-repos](https://github.com/bekcpear/ryans-repos) - A personal ebuild repository for Gentoo Linux. The reponame is "ryans"
+- [12101111/overlay](https://github.com/12101111/overlay) - 12101111 Gentoo overlay
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [1265578519/kangle](https://github.com/1265578519/kangle) - kangle web server 最强网站性能服务器架设软件
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render\Koyeb
@@ -3065,7 +3073,6 @@
 - [xen0n/loongson-overlay](https://github.com/xen0n/loongson-overlay) - Support overlay for Gentoo/Loongson users
 - [blakeblackshear/frigate-hass-addons](https://github.com/blakeblackshear/frigate-hass-addons) - Frigate hass.io addons
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [bugprogrammer/hackintosh](https://github.com/bugprogrammer/hackintosh) - 
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
