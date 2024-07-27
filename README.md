@@ -347,7 +347,7 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
 - [xqbase/eleeye](https://github.com/xqbase/eleeye) - ElephantEye - a XiangQi (Chinese Chess) Engine for XQWizard with Strong AI
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [nekobean/mahjong-cpp](https://github.com/nekobean/mahjong-cpp) - Miscellaneous programs about Japanese Mahjong
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
@@ -2298,7 +2298,7 @@
 - [MemoryCollection/IPTV](https://github.com/MemoryCollection/IPTV) - 酒店组播采集
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [schumijo/iptv](https://github.com/schumijo/iptv) - 
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) - D-Link NAS CVE-2024-3273 Exploit Tool
@@ -3206,7 +3206,7 @@
 
 ## Stylus 
 
-- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple comment systems.
 - [mickeyouyou/yinwang](https://github.com/mickeyouyou/yinwang) - Blog Theme For Hexo
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
