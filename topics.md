@@ -1128,7 +1128,7 @@
 
 ## design 
 
-- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple comment systems.
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple commenting systems.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
@@ -2763,7 +2763,6 @@
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 - [12101111/overlay](https://github.com/12101111/overlay) - 12101111 Gentoo overlay
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
-- [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 - [skywind3000/gobang](https://github.com/skywind3000/gobang) - Gobang game with artificial intelligence in 900 Lines !!
 - [losehu/uv-k5-bootloader-custom](https://github.com/losehu/uv-k5-bootloader-custom) - a custom bootloader for uv-k5
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
