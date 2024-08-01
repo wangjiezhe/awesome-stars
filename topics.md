@@ -241,7 +241,7 @@
 
 ## ai 
 
-- [nicepkg/aide](https://github.com/nicepkg/aide) - Master Any Code: One-Click Comments and Language Conversion.  掌握任何屎山代码：一键注释和语言转换。💪
+- [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -634,7 +634,7 @@
 ## bot 
 
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
-- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching.
+- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching and auto-saving.
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
@@ -684,6 +684,7 @@
 
 ## chatgpt 
 
+- [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -2305,7 +2306,7 @@
 
 ## llm 
 
-- [nicepkg/aide](https://github.com/nicepkg/aide) - Master Any Code: One-Click Comments and Language Conversion.  掌握任何屎山代码：一键注释和语言转换。💪
+- [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -2728,7 +2729,6 @@
 
 ## open-source 
 
-- [nicepkg/aide](https://github.com/nicepkg/aide) - Master Any Code: One-Click Comments and Language Conversion.  掌握任何屎山代码：一键注释和语言转换。💪
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
@@ -3002,7 +3002,6 @@
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [coq-community/coq-100-theorems](https://github.com/coq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
-- [youshandefeiyang/LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
@@ -4833,7 +4832,7 @@
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch!
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
-- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching.
+- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching and auto-saving.
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
@@ -5031,7 +5030,7 @@
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
-- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching.
+- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching and auto-saving.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 - [Gandum2077/PyEhViewer](https://github.com/Gandum2077/PyEhViewer) - iOS端 exhentai.org 阅读方案
@@ -5435,7 +5434,7 @@
 ## telegram 
 
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
-- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching.
+- [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching and auto-saving.
 - [dianbanjiu/rss_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
