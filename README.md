@@ -556,7 +556,7 @@
 
 ## CoffeeScript 
 
-- [suziwen/ZeroOmega](https://github.com/suziwen/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
 - [akhodakivskiy/VimFx](https://github.com/akhodakivskiy/VimFx) - Vim keyboard shortcuts for Firefox
 - [littlebee/git-time-machine](https://github.com/littlebee/git-time-machine) - Atom package that allows you to travel back in commit history
