@@ -337,7 +337,7 @@
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 - [jiangxincode/cnblogs](https://github.com/jiangxincode/cnblogs) - 一些我在平时工作和学习中积累的编程相关的资源。如果大家有兴趣可以一起增加，修改。
-- [DmitryMalkovich/material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
+- [dmitrygr95/material-design-dimens](https://github.com/dmitrygr95/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
@@ -673,7 +673,7 @@
 - [ksco/BuildYourOwnLispCn](https://github.com/ksco/BuildYourOwnLispCn) - Build Your Own Lisp 中文版
 - [tbeu/matio](https://github.com/tbeu/matio) - MATLAB MAT File I/O Library
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
-- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [Orc/discount](https://github.com/Orc/discount) - My C implementation of John Gruber's Markdown markup language
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
@@ -2514,7 +2514,7 @@
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
 - [Blankeer/MDWechat](https://github.com/Blankeer/MDWechat) - 一个能让微信 Material Design 化的 Xposed 模块
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
-- [DmitryMalkovich/material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
+- [dmitrygr95/material-design-dimens](https://github.com/dmitrygr95/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -2529,7 +2529,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [microsoft/checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
 
 ## minecraft 
 
