@@ -27,6 +27,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -191,6 +192,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
@@ -683,6 +685,20 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [bigwhite/experiments](https://github.com/bigwhite/experiments) - Personal code, scripts and config files for experiments
+
+## c-plus-plus 
+
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
+- [eteran/edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger.
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
+- [wichtounet/thor-os](https://github.com/wichtounet/thor-os) - Simple operating system in C++, written from scratch
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 
 ## chatgpt 
 
@@ -2883,7 +2899,7 @@
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [Leymore/ruozhiba](https://github.com/Leymore/ruozhiba) - 
 - [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) - 
-- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record
+- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cloudflare | ve
 - [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 - [cjquines/tsqx](https://github.com/cjquines/tsqx) - Asymptote preprocessor
 - [OrangeX4/vscode-smart-ime](https://github.com/OrangeX4/vscode-smart-ime) - 在 VS Code 中智能地进行中英输入法的切换
@@ -3362,7 +3378,6 @@
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-- [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto 1 [GTA1]
 - [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [upimg-backup/upimg-mirror](https://github.com/upimg-backup/upimg-mirror) - Backup upimg from NPM
@@ -5191,6 +5206,18 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [nefe/redux-in-chinese](https://github.com/nefe/redux-in-chinese) - Redux 中文文档
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
+
+## reinforcement-learning 
+
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [zhiyiYo/Alpha-Gobang-Zero](https://github.com/zhiyiYo/Alpha-Gobang-Zero) - A gobang robot based on reinforcement learning.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+- [Cryolite/kanachan](https://github.com/Cryolite/kanachan) - A Japanese (Riichi) Mahjong AI Framework
+- [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
+- [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
+- [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 
 ## rest-api 
 
