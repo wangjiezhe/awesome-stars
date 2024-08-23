@@ -675,7 +675,7 @@
 - [ksco/BuildYourOwnLispCn](https://github.com/ksco/BuildYourOwnLispCn) - Build Your Own Lisp 中文版
 - [tbeu/matio](https://github.com/tbeu/matio) - MATLAB MAT File I/O Library
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
-- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [Orc/discount](https://github.com/Orc/discount) - My C implementation of John Gruber's Markdown markup language
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
@@ -2545,7 +2545,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and elimina
+- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
 
 ## minecraft 
 
