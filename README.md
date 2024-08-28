@@ -1176,7 +1176,6 @@
 - [Geolage/SliderAwesome](https://github.com/Geolage/SliderAwesome) - A slider plugin full of various effects and styles that allows any customization.  一款可定制的风格效果多样的轮播图插件。
 - [iktakahiro/markdown-it-katex](https://github.com/iktakahiro/markdown-it-katex) - Add Math to your Markdown with a KaTeX plugin for Markdown-it
 - [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool
-- [Gandum2077/JSEhViewer](https://github.com/Gandum2077/JSEhViewer) - 基于JSBox的iOS端Exhentai.org阅读方案
 - [yueyericardo/Netease-to-Youtube-or-Spotify](https://github.com/yueyericardo/Netease-to-Youtube-or-Spotify) - 迁移你的网易云歌单到 Apple Music, Youtube or Spotify. Easily transfer your Netease music playlist to Apple Music, Youtube or  Spotify
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
@@ -1820,7 +1819,7 @@
 - [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial) - C 语言教程
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [vfxpro99/usd-resources](https://github.com/vfxpro99/usd-resources) - A curated list of USD projects and resources
 - [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
@@ -3284,7 +3283,7 @@
 - [latexstudio/ChenLaTeXBookTemplate](https://github.com/latexstudio/ChenLaTeXBookTemplate) - ChenLaTeX书籍模板，群享书籍模板-由群共建-QQ群: 91940767
 - [latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn) - 中文 LaTeX 常见问题工程，见证中文社区的力量
 - [latexstudio/LaTeXPackages-CN](https://github.com/latexstudio/LaTeXPackages-CN) - LaTeX commonly used macro package  Chinese localization project-常用宏包说明的中文本地化项目
-- [leanprover/logic_and_proof](https://github.com/leanprover/logic_and_proof) - CMU Undergrad Course
+- [leanprover/logic_and_proof_lean3](https://github.com/leanprover/logic_and_proof_lean3) - CMU Undergrad Course
 - [PHPirates/travis-ci-latex-pdf](https://github.com/PHPirates/travis-ci-latex-pdf) - Overview of different methods to build LaTeX with GitHub Actions or Travis-CI (idea by @jackolney but completely rewritten by @PHPirates and contributors).
 - [ArcturusZhang/Classical-Mechanics-Lecture-Notes](https://github.com/ArcturusZhang/Classical-Mechanics-Lecture-Notes) - 根据经典力学课件总结而成的经典力学讲义
 - [Hansimov/pgfmanual-zh](https://github.com/Hansimov/pgfmanual-zh) - PGF/TikZ 中文手册
@@ -3442,6 +3441,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node&typescript重写知乎助手
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
+- [Gandum2077/JSEhViewer](https://github.com/Gandum2077/JSEhViewer) - 基于JSBox的iOS端Exhentai.org阅读方案
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
