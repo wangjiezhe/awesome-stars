@@ -1117,6 +1117,7 @@
 
 ## JavaScript 
 
+- [yfzhao20/vscode-ultra-math-preview](https://github.com/yfzhao20/vscode-ultra-math-preview) - A VS Code extension for math preview and other functions.
 - [stevemk14ebr/YTCH](https://github.com/stevemk14ebr/YTCH) - Youtube If it Had Channels
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
@@ -3383,6 +3384,7 @@
 
 ## TypeScript 
 
+- [mk12/vscode-better-git-line-blame](https://github.com/mk12/vscode-better-git-line-blame) - VS Code extension that decorates lines with git blame information.
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Your one-stop portal for following LoongArch upstream work.
 - [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
