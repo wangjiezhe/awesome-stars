@@ -2568,7 +2568,6 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [checkedc/checkedc](https://github.com/checkedc/checkedc) - Checked C is an extension to C that lets programmers write C code with bounds checking and improved type-safety. The goal is to let people easily make their existing C code type-safe and eliminate ent
 
 ## minecraft 
 
@@ -2807,6 +2806,8 @@
 
 ## others 
 
+- [yfzhao20/vscode-ultra-math-preview](https://github.com/yfzhao20/vscode-ultra-math-preview) - A VS Code extension for math preview and other functions.
+- [mk12/vscode-better-git-line-blame](https://github.com/mk12/vscode-better-git-line-blame) - VS Code extension that decorates lines with git blame information.
 - [abenori/TeX2img](https://github.com/abenori/TeX2img) - Converte TeX source to images.
 - [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
