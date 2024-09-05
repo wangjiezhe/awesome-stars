@@ -1864,7 +1864,7 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [cdp2020/v2ray](https://github.com/cdp2020/v2ray) - telegram number: @cnhumanright
 - [ssrsub/ssr](https://github.com/ssrsub/ssr) - 
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare) - 东南大学课程共享计划
 - [thunlp/Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset) - 中文谣言数据
@@ -2006,10 +2006,8 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [numbbbbb/sicp](https://github.com/numbbbbb/sicp) - 收录我完成的练习题
-- [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
 - [AmazingApps/Amazing-Windows-Apps-Zh-CN](https://github.com/AmazingApps/Amazing-Windows-Apps-Zh-CN) - 
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [giantray/stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 - [cycleuser/Kivy-CN](https://github.com/cycleuser/Kivy-CN) - A Chinese Translation of Kivy Programming Guide Based on Kivy 1.9.2 中文翻译Kivy开发文档
 - [yourtion/DataminingGuideBook](https://github.com/yourtion/DataminingGuideBook) - 《面向程序员的数据挖掘指南》Gitbook
