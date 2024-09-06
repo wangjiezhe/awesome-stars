@@ -301,6 +301,7 @@
 
 ## android 
 
+- [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -1157,7 +1158,7 @@
 
 ## deno 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [justjavac/versailles](https://github.com/justjavac/versailles) - 凡尔赛语录
 
 ## deployment 
@@ -1200,6 +1201,7 @@
 
 ## docker 
 
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
@@ -1494,6 +1496,7 @@
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [justjavac/chrome-t-rex-game](https://github.com/justjavac/chrome-t-rex-game) - Chrome T-Rex Game | Chrome 离线小恐龙(暴龙)游戏
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [podiki/cl-tcod-tutorial](https://github.com/podiki/cl-tcod-tutorial) - Lisp roguelike tutorial with libtcod and cl-tcod
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -1721,6 +1724,7 @@
 
 ## hacktoberfest 
 
+- [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1969,7 +1973,7 @@
 
 - [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - An easy to use, modern video player based on mpv （一个基于MPV,易于使用,现代化的视频播放器）
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -2021,6 +2025,7 @@
 - [geraldoramos/crypto-bar](https://github.com/geraldoramos/crypto-bar) - 📈 A menu bar app that updates cryptocurrencies prices in real-time
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [justjavac/chrome-t-rex-game](https://github.com/justjavac/chrome-t-rex-game) - Chrome T-Rex Game | Chrome 离线小恐龙(暴龙)游戏
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog) - 趁还能折腾的时候多读书——前端何时是个头
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -2250,7 +2255,7 @@
 
 ## learning 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
@@ -2601,6 +2606,7 @@
 
 ## music 
 
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [MoePlayer/hexo-tag-aplayer](https://github.com/MoePlayer/hexo-tag-aplayer) - Embed aplayer in Hexo posts/pages
@@ -2638,6 +2644,7 @@
 
 ## neovim 
 
+- [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+Typescript.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
@@ -3780,7 +3787,6 @@
 - [tongwentang/New-Tongwentang-for-Firefox](https://github.com/tongwentang/New-Tongwentang-for-Firefox) - 
 - [pfn/passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
 - [smorks/keepasshttp-connector](https://github.com/smorks/keepasshttp-connector) - Extension to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp) (Deprecated)
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
@@ -5296,7 +5302,7 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -5668,6 +5674,7 @@
 
 ## vim 
 
+- [rsvim/rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+Typescript.
 - [skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim) - :rocket: Modern Task System for Project Building, Testing and Deploying !!
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets) - Vim + LaTeX snippets setup
