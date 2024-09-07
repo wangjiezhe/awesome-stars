@@ -336,6 +336,7 @@
 
 ## C++ 
 
+- [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [OneOfEleven/k5prog-win](https://github.com/OneOfEleven/k5prog-win) - A windows GUI version of k5prog
 - [diannaojiang/Bilibili-Playin-Mpv](https://github.com/diannaojiang/Bilibili-Playin-Mpv) - 
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -1576,6 +1577,7 @@
 
 ## Kotlin 
 
+- [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
@@ -1728,6 +1730,10 @@
 
 ## Others 
 
+- [skywind3000/zvi](https://github.com/skywind3000/zvi) - :rocket: Smallest Vi-clone Text Editor for Windows CLI and SSH session (only 62KB) !!
+- [skywind3000/abandonware](https://github.com/skywind3000/abandonware) - Abandonware Collection
+- [skywind3000/preserve-iso](https://github.com/skywind3000/preserve-iso) - 绝版软件保护工程
+- [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 - [ociubotaru/transcripts](https://github.com/ociubotaru/transcripts) - 
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -2287,6 +2293,7 @@
 
 ## Python 
 
+- [vicalloy/china-population](https://github.com/vicalloy/china-population) - 图表化中国人口统计数据
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [RQLuo/MixTeX-Latex-OCR](https://github.com/RQLuo/MixTeX-Latex-OCR) - MixTeX multimodal LaTeX, ZhEn, and, Table OCR. It performs efficient CPU-based inference in a local offline on Windows.
 - [yang999876/sharedprinter](https://github.com/yang999876/sharedprinter) - 
