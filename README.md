@@ -133,7 +133,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
