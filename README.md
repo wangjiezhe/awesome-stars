@@ -866,7 +866,6 @@
 - [chen310/tenhou-se](https://github.com/chen310/tenhou-se) - 在天凤中使用雀魂角色的语音
 - [coq-community/coq-100-theorems](https://github.com/coq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-- [zgao264/Pornhub-Video-Downloader-Plugin](https://github.com/zgao264/Pornhub-Video-Downloader-Plugin) - Pornhub视频下载Chrome插件
 - [ProletRevDicta/Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - provide iptv logo and epg
 - [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
@@ -1153,6 +1152,7 @@
 - [eric200203/hexo-mahgen](https://github.com/eric200203/hexo-mahgen) - Mahgen plugin for Hexo.
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [StaZhu/enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) - A guide that teach you enable hardware HEVC decoding & encoding for Chrome / Edge, or build a custom version of Chromium / Electron that supports hardware & software HEVC decoding and hardware HEVC en
+- [zgao264/Pornhub-Video-Downloader-Plugin](https://github.com/zgao264/Pornhub-Video-Downloader-Plugin) - Pornhub视频下载Chrome插件
 - [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
 - [garywill/cc-visualize](https://github.com/garywill/cc-visualize) - 既适合程序员，也适合中文电子文字整编人员(in beta)。汉字繁、简、异、兼、笔、变等关联关系可视化。非寻常汉字字符、同形字符攻击、不可打印字符等检视工具。结合OpenCC、Unicode等数据 | Chinese characters relations or vatiants (simplified, traditional etc) visualization. Potential Uni
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -1795,6 +1795,7 @@
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
 - [cjh0613/tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
 - [Partyb0ssishere/cef-fonts-cjk](https://github.com/Partyb0ssishere/cef-fonts-cjk) - 这里是CEF Fonts CJK / 快去写作业CJK 字体项目。
 - [reysc/M3U8](https://github.com/reysc/M3U8) - 直播使用
