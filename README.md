@@ -1092,7 +1092,7 @@
 - [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
 - [zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat) - 根据Gson库使用的要求,将JSONObject格式的String  解析成实体
 - [avast/android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
@@ -1209,7 +1209,6 @@
 - [aoarashi1988/majsoul_custom_charactor](https://github.com/aoarashi1988/majsoul_custom_charactor) - 雀魂立绘魔改
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
@@ -1580,6 +1579,7 @@
 
 ## Kotlin 
 
+- [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
 - [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
@@ -2495,6 +2495,7 @@
 - [imfht/fanhaodaquan](https://github.com/imfht/fanhaodaquan) - 番号大全。
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [Harhao/wechatPubSpider](https://github.com/Harhao/wechatPubSpider) - wechat spiders微信公众号爬虫
