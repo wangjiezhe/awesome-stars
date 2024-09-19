@@ -1086,7 +1086,7 @@
 - [Chora10/Cknife](https://github.com/Chora10/Cknife) - Cknife
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
 - [WuXiaolong/AndroidUtils](https://github.com/WuXiaolong/AndroidUtils) - Android常用工具类
-- [dmitrygr95/material-design-dimens](https://github.com/dmitrygr95/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
+- [dmitrymalk/material-design-dimens](https://github.com/dmitrymalk/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
 - [sunfusheng/MarqueeView](https://github.com/sunfusheng/MarqueeView) - 俗名：可垂直跑、可水平跑的跑马灯；学名：可垂直翻、可水平翻的翻页公告
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
@@ -1912,7 +1912,7 @@
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [XiaoliChan/available-ipv6-hosts](https://github.com/XiaoliChan/available-ipv6-hosts) - IPv6 hosts
-- [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - A curated list of awesome OpenBSD resources
+- [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - The curated list of awesome OpenBSD resources
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [xiaoski/live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [m0l1ce/wooyunallbugs](https://github.com/m0l1ce/wooyunallbugs) - wooyun_all_bugs
@@ -2357,7 +2357,7 @@
 - [jindongwang/transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
-- [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
+- [sktime/pytorch-forecasting](https://github.com/sktime/pytorch-forecasting) - Time series forecasting with PyTorch
 - [aleju/imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 - [NanBox/PiPiName](https://github.com/NanBox/PiPiName) - 根据三才五格和古诗文给宝宝起名
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
