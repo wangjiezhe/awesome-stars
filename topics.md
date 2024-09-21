@@ -2836,6 +2836,7 @@
 
 ## others 
 
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [WangXiaopai595/haval](https://github.com/WangXiaopai595/haval) - 哈弗汽车，安波福车机工程模式、自定义安装软件、dns服务器搭建、高德地图升级
 - [itvv/haval-debug](https://github.com/itvv/haval-debug) - 哈弗大狗调试软件安装指南
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
@@ -2968,7 +2969,7 @@
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [Leymore/ruozhiba](https://github.com/Leymore/ruozhiba) - 
 - [ChiSheng9/iptv](https://github.com/ChiSheng9/iptv) - 
-- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. 优选域名 | 优选ip | c
+- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip
 - [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 - [cjquines/tsqx](https://github.com/cjquines/tsqx) - Asymptote preprocessor
 - [OrangeX4/vscode-smart-ime](https://github.com/OrangeX4/vscode-smart-ime) - 在 VS Code 中智能地进行中英输入法的切换
