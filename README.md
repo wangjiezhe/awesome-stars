@@ -1849,7 +1849,7 @@
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [lyricat/beancount-tutorial](https://github.com/lyricat/beancount-tutorial) - A Chinese tutorial of Beancount.
 - [justjavac/unicode-encoding-error-table](https://github.com/justjavac/unicode-encoding-error-table) - Unicode 中文乱码速查表
-- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
 - [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
