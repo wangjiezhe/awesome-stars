@@ -109,6 +109,7 @@
 - [homebrew](#homebrew)
 - [homebridge](#homebridge)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -1020,6 +1021,7 @@
 
 ## dart 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -1451,6 +1453,7 @@
 
 ## flutter 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -1458,6 +1461,7 @@
 
 ## flutter-apps 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## font 
@@ -1745,6 +1749,8 @@
 
 ## hacktoberfest 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
@@ -1792,6 +1798,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -1849,6 +1856,7 @@
 
 ## html 
 
+- [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 - [TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates) - Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -1875,6 +1883,10 @@
 - [c0bra/markdown-resume-js](https://github.com/c0bra/markdown-resume-js) - Turn a simple markdown document into a resume in HTML and PDF
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
+
+## html-css-javascript 
+
+- [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 
 ## html5 
 
@@ -2138,6 +2150,7 @@
 
 ## json 
 
+- [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [jaywcjlove/store.js](https://github.com/jaywcjlove/store.js) - A simple, lightweight JavaScript API for handling browser localStorage , it is easy to pick up and use, has a reasonable footprint 2.36kb(gzipped: 1.04kb), and has no dependencies.
@@ -2304,6 +2317,7 @@
 
 ## linux 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [TheChymera/mkstage4](https://github.com/TheChymera/mkstage4) - Bash Utility for Creating Stage 4 Tarballs
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2868,6 +2882,8 @@
 
 ## others 
 
+- [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
@@ -4820,6 +4836,7 @@
 
 ## p2p 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -4952,6 +4969,7 @@
 
 ## python 
 
+- [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -5373,6 +5391,7 @@
 
 ## rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
