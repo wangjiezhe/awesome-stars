@@ -1582,7 +1582,7 @@
 
 ## Kotlin 
 
-- [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
+- [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
 - [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
@@ -3630,6 +3630,7 @@
 
 ## Vue 
 
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [kbkn3/MahjongSoul-review-supporter](https://github.com/kbkn3/MahjongSoul-review-supporter) - This is a chrome extension that automatically sends Paihu to an AI-based analysis tool for Mahjong Soul
