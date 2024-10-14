@@ -1827,7 +1827,7 @@
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [ccpaging/books](https://github.com/ccpaging/books) - Digital some old math books and build as ebook
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
-- [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - A Bolder-weight Edition of LXGW WenKai. (Simplified Chinese Only)
+- [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，手动加粗调整字形并由 AI 辅助补字的开源中文字体。
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 - [wuwentao/bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) - 北京联通IPTV播放列表 Beijing Unicom IPTV playlist bj-unicom-iptv.m3u
