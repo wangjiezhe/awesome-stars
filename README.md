@@ -153,6 +153,7 @@
 - [losehu/uv-k5-bootloader-custom](https://github.com/losehu/uv-k5-bootloader-custom) - a custom bootloader for uv-k5
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+- [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [sq5bpf/k5prog](https://github.com/sq5bpf/k5prog) - Quansheng UV-K5 EEPROM programmer
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
@@ -180,7 +181,7 @@
 - [huazhuangnan/actions-build-padavan-openwrt](https://github.com/huazhuangnan/actions-build-padavan-openwrt) - GitHub Action 学习实例 - 自动编译 padavan 和 openWrt
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
-- [openzfsonwindows/ZFSin](https://github.com/openzfsonwindows/ZFSin) - OpenZFS on Windows port
+- [openzfsonwindows/ZFSin](https://github.com/openzfsonwindows/ZFSin) - OpenZFS on Windows port - old repo, use `OpenZFS` repo
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [Chikage0o0/Linux-NetSpeed](https://github.com/Chikage0o0/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
@@ -285,7 +286,7 @@
 - [cqjjjzr/MusicBee-NeteaseLyrics](https://github.com/cqjjjzr/MusicBee-NeteaseLyrics) - A plugin to retrieve lyrics from Netease Cloud Music for MusicBee.
 - [abenori/TeX2img](https://github.com/abenori/TeX2img) - Converte TeX source to images.
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-- [zetaloop/OFGB](https://github.com/zetaloop/OFGB) - 广告滚蛋 - 删除 Win11 各处广告的小工具
+- [zetaloop/OFGB](https://github.com/zetaloop/OFGB) - 广告滚蛋 - 删除 Win11 各处广告的小工具 - OFGB Chinese localized fork
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [Vincentzyx/VinXiangQi](https://github.com/Vincentzyx/VinXiangQi) - Xiangqi syncing tool based on Yolov5 / 基于Yolov5的中国象棋连线工具
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
@@ -337,6 +338,7 @@
 
 ## C++ 
 
+- [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [zhangwenchao1992/BIlibili_tv](https://github.com/zhangwenchao1992/BIlibili_tv) - bilibili fans display with touch screen.
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
@@ -1098,7 +1100,6 @@
 - [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
 - [zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat) - 根据Gson库使用的要求,将JSONObject格式的String  解析成实体
 - [avast/android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
@@ -1136,6 +1137,7 @@
 - [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 - [hawkhu/cpractice](https://github.com/hawkhu/cpractice) - 小学加减法口算题生成程序
 - [hldgaofeng/oralcalc](https://github.com/hldgaofeng/oralcalc) - oral calculation generator
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 解密 Windows QQ Music mflac 文件
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
@@ -1893,7 +1895,7 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [cdp2020/v2ray](https://github.com/cdp2020/v2ray) - telegram number: @cnhumanright
 - [ssrsub/ssr](https://github.com/ssrsub/ssr) - 
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区app
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare) - 东南大学课程共享计划
 - [thunlp/Chinese_Rumor_Dataset](https://github.com/thunlp/Chinese_Rumor_Dataset) - 中文谣言数据
@@ -2313,6 +2315,9 @@
 
 ## Python 
 
+- [Cityforest2000/SpaceKat](https://github.com/Cityforest2000/SpaceKat) - This is a 3D Mouse project. Current version supports Fusion360 modeling.
+- [FabianSchurig/CustomScrews](https://github.com/FabianSchurig/CustomScrews) - Fusion 360 App which creates custom screws by different parameters.
+- [CenturySturgeon/GF-Gear-Generator](https://github.com/CenturySturgeon/GF-Gear-Generator) - Main repo of the GF Gear Generator for Autodesk's Fusion 360.
 - [tapnair/HelixGenerator](https://github.com/tapnair/HelixGenerator) - Fusion 360 addin to generate helical curves
 - [thomasa88/ParametricText](https://github.com/thomasa88/ParametricText) - Fusion 360™ add-in for creating Text Parameters in sketches.
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
@@ -2333,7 +2338,6 @@
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [app-sre/github-mirror](https://github.com/app-sre/github-mirror) - GitHub API mirror that caches the responses and implements conditional requests
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -3118,7 +3122,6 @@
 - [TheChymera/mkstage4](https://github.com/TheChymera/mkstage4) - Bash Utility for Creating Stage 4 Tarballs
 - [bekcpear/ryans-repos](https://github.com/bekcpear/ryans-repos) - A personal ebuild repository for Gentoo Linux. The reponame is "ryans"
 - [12101111/overlay](https://github.com/12101111/overlay) - 12101111 Gentoo overlay
-- [felixonmars/archriscv-packages](https://github.com/felixonmars/archriscv-packages) - Modified Arch Linux packages for archriscv
 - [1265578519/kangle](https://github.com/1265578519/kangle) - kangle web server 最强网站性能服务器架设软件
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
@@ -3155,7 +3158,7 @@
 - [LER0ever/Hackintosh](https://github.com/LER0ever/Hackintosh) - macOS on PC, a collection
 - [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
 - [wolfogre/git-text](https://github.com/wolfogre/git-text) - git-text can help you to avoid from committing non-text files to git repo
-- [sagemath/sage-windows](https://github.com/sagemath/sage-windows) - Build tools for the Sagemath Windows installer
+- [sagemath/sage-windows-cygwin](https://github.com/sagemath/sage-windows-cygwin) - Build tools for the Sagemath Windows installer
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) - 📖斯坦福博弈论中文笔记
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) - :book: [译] 百页机器学习小书
 - [nspawn/nspawn](https://github.com/nspawn/nspawn) - A wrapper around machinectl for easy-deployment of nspawn.org containers
@@ -3211,7 +3214,7 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
 - [farseerfc/systemd-shutdown-diagnose](https://github.com/farseerfc/systemd-shutdown-diagnose) - Take from https://co-op.space/2016/03/10/systemd-guan-ji-chao-shi-wen-ti-ding-wei-fang-fa/ , help to diagnose why systemd cannot shutdown properly
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
@@ -3440,7 +3443,7 @@
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact 是一个摄影师专用的摄影作品展示网站，基于 Next.js + Hono.js 开发。今天又是想当二次元摄影高手的一天呢！
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
