@@ -767,6 +767,8 @@
 
 ## chrome 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -790,6 +792,8 @@
 
 ## chrome-extension 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -817,6 +821,7 @@
 
 ## cli 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [SukkaW/nali-cli](https://github.com/SukkaW/nali-cli) - :anchor: Parse geoinfo of IP Address without leaving your terminal
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -1448,6 +1453,7 @@
 
 ## firefox 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
@@ -1798,7 +1804,6 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [marcosfede/algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages
 - [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot) - An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -2024,6 +2029,8 @@
 
 ## javascript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [bosichong/PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2613,7 +2620,7 @@
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [Orc/discount](https://github.com/Orc/discount) - My C implementation of John Gruber's Markdown markup language
-- [tylerlong/markdown-plus](https://github.com/tylerlong/markdown-plus) - Markdown editor with extra features.
+- [markpluslabs/react-markplus](https://github.com/markpluslabs/react-markplus) - A React markdown editor and previewer.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [c0bra/markdown-resume-js](https://github.com/c0bra/markdown-resume-js) - Turn a simple markdown document into a resume in HTML and PDF
@@ -2901,10 +2908,16 @@
 
 ## osint 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 
 ## others 
 
+- [IDimitrovDev/HDR-Controller](https://github.com/IDimitrovDev/HDR-Controller) - HDR Controller is a tool for automatically enabling windows HDR by selection of app to be observed for running
+- [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
+- [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa) - Sarasa UI -&gt; Microsoft YaHei UI
+- [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - 
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [Cityforest2000/SpaceKat](https://github.com/Cityforest2000/SpaceKat) - This is a 3D Mouse project. Current version supports Fusion360 modeling.
 - [FabianSchurig/CustomScrews](https://github.com/FabianSchurig/CustomScrews) - Fusion 360 App which creates custom screws by different parameters.
@@ -4874,7 +4887,6 @@
 ## p2p 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [linagora/hublin](https://github.com/linagora/hublin) - DEPRECATED - An easy and free video conference service based on WebRTC
@@ -5347,6 +5359,7 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [markpluslabs/react-markplus](https://github.com/markpluslabs/react-markplus) - A React markdown editor and previewer.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
@@ -5410,7 +5423,7 @@
 
 ## robotics 
 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## ruby 
