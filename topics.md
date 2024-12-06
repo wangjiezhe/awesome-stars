@@ -237,6 +237,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2984,7 +2985,7 @@
 - [yfzhao20/vscode-ultra-math-preview](https://github.com/yfzhao20/vscode-ultra-math-preview) - A VS Code extension for math preview and other functions.
 - [mk12/vscode-better-git-line-blame](https://github.com/mk12/vscode-better-git-line-blame) - VS Code extension that decorates lines with git blame information.
 - [abenori/TeX2img](https://github.com/abenori/TeX2img) - Converte TeX source to images.
-- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac
+- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in to insert LaTeX equations into PowerPoint presentations on Windows and Mac
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [stevemk14ebr/YTCH](https://github.com/stevemk14ebr/YTCH) - Youtube If it Had Channels
 - [ociubotaru/transcripts](https://github.com/ociubotaru/transcripts) - 
@@ -3223,7 +3224,6 @@
 - [chen310/tenhou-se](https://github.com/chen310/tenhou-se) - 在天凤中使用雀魂角色的语音
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 社区trojan-go(欢迎各位给pr和修复bug)
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
@@ -3435,7 +3435,6 @@
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 - [Avenshy/majsoul_mod_plus](https://github.com/Avenshy/majsoul_mod_plus) - 雀魂解锁全角色、皮肤、装扮等，支持全部服务器。
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [hfutxqd/ImageConverter](https://github.com/hfutxqd/ImageConverter) - 一个图片转换器，可以把任意两张图片转换成一张黑白的png图片，该png图片在白色背景和黑色背景下呈现不同的形态
@@ -3551,7 +3550,6 @@
 - [ssrsub/ssr](https://github.com/ssrsub/ssr) - 
 - [stackp/Droopy](https://github.com/stackp/Droopy) - Mini Web server that let others upload files to your computer
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - GB/T 7714-2015 BibTeX Style
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
 - [imfht/fanhaodaquan](https://github.com/imfht/fanhaodaquan) - 番号大全。
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
@@ -3782,7 +3780,6 @@
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [lexrus/fontdiao](https://github.com/lexrus/fontdiao) - [已废弃]中文图标字体，可用于 Web 或 iOS，同时提供了国内各种常用网站、应用的徽标 SVG 源文件。
 - [wuchong/jacman](https://github.com/wuchong/jacman) - Jacman is a fresh looking and responsive theme for Hexo with more features based on Pacman.
-- [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
 - [ly0/xiami-tools](https://github.com/ly0/xiami-tools) - 虾米工具包
 - [HalfdogStudio/youdaodict](https://github.com/HalfdogStudio/youdaodict) - 一个简单的基于有道在线翻译的GreaseMonkey屏幕取词脚本，在哪个网站都能用:)
 - [yulingtianxia/FuckFakeGitHubStars](https://github.com/yulingtianxia/FuckFakeGitHubStars) - GitHub 虚假 Star 净网行动
@@ -4283,7 +4280,6 @@
 - [ben174/git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [pkuwwt/d3-tutorial-cn](https://github.com/pkuwwt/d3-tutorial-cn) - Chinese version of D3 tutorials
 - [kxtry/czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
-- [xyuanmu/XX-Mini](https://github.com/xyuanmu/XX-Mini) - :ghost: XX-Net 精简版
 - [binux/qiandao](https://github.com/binux/qiandao) - 签到
 - [wdk-docs/sphinx-doc](https://github.com/wdk-docs/sphinx-doc) - sphinx 中文文档
 - [xunxuny/zh-sphinx-doc](https://github.com/xunxuny/zh-sphinx-doc) - Sphinx 文档生成器 中文手册
@@ -4531,7 +4527,6 @@
 - [EvilCult/Video-Downloader](https://github.com/EvilCult/Video-Downloader) - 下载youku,letv,sohu,tudou,bilibili,acfun,iqiyi等网站分段视频文件，提供mac&win独立App。
 - [zythum/mama2](https://github.com/zythum/mama2) - 妈妈计划-众人拾柴火焰高
 - [iamjoel/front-end-plugins](https://github.com/iamjoel/front-end-plugins) - :whale2: Web 前端常用插件
-- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [marcojakob/code.makery.ch](https://github.com/marcojakob/code.makery.ch) - Learning how to code. Tutorials and Blog about programming.
 - [marcojakob/tutorial-javafx-8](https://github.com/marcojakob/tutorial-javafx-8) - Example Sources for JavaFX 8 Tutorial
 - [CSUG/real_world_scala](https://github.com/CSUG/real_world_scala) - an introduction book on real world's scala, including its main stream frameworks and MOMs...
@@ -5356,7 +5351,7 @@
 
 ## react 
 
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -5675,7 +5670,7 @@
 
 ## svelte 
 
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## swift 
@@ -5918,9 +5913,23 @@
 - [latex-lsp/texlab-vscode](https://github.com/latex-lsp/texlab-vscode) - LaTeX for Visual Studio Code
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
+## vpn 
+
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
+- [CoNETProject/QTGate-Desktop-Client](https://github.com/CoNETProject/QTGate-Desktop-Client) - A revolutionary internet infrastructure enabling a truly free Network, that offers Stability, Trust, Privacy, and Security
+- [CoNETProject/CoNET](https://github.com/CoNETProject/CoNET) - What is possible, not what is What it could be, not what it is A more secure way of doing… everything
+- [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [xyuanmu/XX-Mini](https://github.com/xyuanmu/XX-Mini) - :ghost: XX-Net 精简版
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+
 ## vue 
 
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
