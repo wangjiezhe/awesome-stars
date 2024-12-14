@@ -865,7 +865,7 @@
 
 ## HTML 
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
@@ -2539,7 +2539,7 @@
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [breakwa11/GFWList2PAC](https://github.com/breakwa11/GFWList2PAC) - GFWList2PAC
 - [stackp/Droopy](https://github.com/stackp/Droopy) - Mini Web server that let others upload files to your computer
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、
 - [imfht/fanhaodaquan](https://github.com/imfht/fanhaodaquan) - 番号大全。
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
@@ -2736,7 +2736,7 @@
 - [hylarucoder/danmu.fm](https://github.com/hylarucoder/danmu.fm) - douyutv danmu 斗鱼TV 弹幕助手
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
-- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
+- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Third Edition — Source Code and Errata for the Book
 - [supasate/yosh](https://github.com/supasate/yosh) - yosh - Your Own Shell in Python
 - [asciidoc-py/asciidoc-py2](https://github.com/asciidoc-py/asciidoc-py2) - Deprecated python2 implementation of AsciiDoc.py. See asciidoc-py/asciidoc-py for current work.
 - [yanpanlau/Keras-FlappyBird](https://github.com/yanpanlau/Keras-FlappyBird) - Using Keras and Deep Q-Network to Play FlappyBird
