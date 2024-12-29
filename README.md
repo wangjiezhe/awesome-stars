@@ -286,6 +286,7 @@
 
 ## C# # 
 
+- [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱 | A Modern Toolbox for Geeks
 - [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 - [cqjjjzr/MusicBee-NeteaseLyrics](https://github.com/cqjjjzr/MusicBee-NeteaseLyrics) - A plugin to retrieve lyrics from Netease Cloud Music for MusicBee.
 - [abenori/TeX2img](https://github.com/abenori/TeX2img) - Converte TeX source to images.
@@ -318,7 +319,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [pandolia/easy-service](https://github.com/pandolia/easy-service) - 
 - [jjw24/Wox](https://github.com/jjw24/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
@@ -342,6 +343,7 @@
 
 ## C++ 
 
+- [libfann/fann](https://github.com/libfann/fann) - Official github repository for Fast Artificial Neural Network Library (FANN)
 - [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [zhangwenchao1992/BIlibili_tv](https://github.com/zhangwenchao1992/BIlibili_tv) - bilibili fans display with touch screen.
@@ -480,6 +482,7 @@
 - [TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates) - Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.
 - [Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single) - 🎈 一个简洁大气，含夜间模式的 Typecho 博客主题
 - [yoniu/twitter](https://github.com/yoniu/twitter) - typecho微仿推特主题 https://www.200011.net
+- [wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe) - typecho主题,根据当前博客园的主题整合开发
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [yfzhao20/Typora-markdown](https://github.com/yfzhao20/Typora-markdown) - 试验性的存储库，用于存放Typora折腾过的css样式和其他
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -630,6 +633,7 @@
 
 ## Dart 
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -868,7 +872,6 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) - 页面上加载的模型
@@ -968,6 +971,7 @@
 - [ellekasai/resumecards](https://github.com/ellekasai/resumecards) - [Unmaintained] A Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
 - [olahol/melody-jsnes](https://github.com/olahol/melody-jsnes) - :tv: Multiplayer NES through the magic of WebSockets and Go.
 - [pku-birdmen/pkuwebmaster](https://github.com/pku-birdmen/pkuwebmaster) - PKU IPGW Chrome Extension
+- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
 - [marboo/orgmode-cn](https://github.com/marboo/orgmode-cn) - orgmode中文主页(非官方)
 - [emacs-china/emacs-lisp-cn](https://github.com/emacs-china/emacs-lisp-cn) - emacs lisp文档中文翻译
@@ -1017,6 +1021,7 @@
 
 ## Java 
 
+- [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/Azureus/Vuze/BitComet
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [59799517/simple_sq_musuc_plus](https://github.com/59799517/simple_sq_musuc_plus) - NAS音乐下载工具 以后会可能做些插件对其他人的网页进行集成
@@ -1137,6 +1142,7 @@
 
 ## JavaScript 
 
+- [hymbz/ComicReadScript](https://github.com/hymbz/ComicReadScript) - 为漫画站增加双页阅读模式及优化使用体验。
 - [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) - 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
@@ -1180,7 +1186,6 @@
 - [honvl/Majsoul-to-NAGA](https://github.com/honvl/Majsoul-to-NAGA) - Use Mahjong Soul Logs with NAGA AI analysis
 - [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
-- [wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe) - typecho主题,根据当前博客园的主题整合开发
 - [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [parpalak/upmath.me](https://github.com/parpalak/upmath.me) - Markdown and LaTeX online editor - create text for web with equations and diagrams
@@ -1597,12 +1602,11 @@
 
 ## Kotlin 
 
-- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
 - [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
-- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
 - [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
@@ -1622,7 +1626,6 @@
 
 ## Less 
 
-- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [there4/markdown-resume](https://github.com/there4/markdown-resume) - Generate a responsive CSS3 and HTML5 resume with Markdown, with optional PDF output.
 
 ## Lua 
@@ -1693,6 +1696,7 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -2321,6 +2325,13 @@
 
 ## Python 
 
+- [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar
+- [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) - 由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合
+- [WCY-dt/my-github-2024](https://github.com/WCY-dt/my-github-2024) - Statistics of your activities on GitHub in 2024. 统计2024年你在GitHub上的活动.
+- [timerring/bilive](https://github.com/timerring/bilive) - 最快的B站直播录制、自动渲染弹幕以及字幕并投稿至B站，兼容超低配置机器。
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [VeejaLiu/ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection) - 科幻小说作品集
@@ -2764,7 +2775,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, scraping, testing, and reporting. Supports pytest. Stealth abilities: UC Mode and CDP Mode.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3012,7 +3023,6 @@
 - [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [mozilla/ssh_scan](https://github.com/mozilla/ssh_scan) - DEPRECATED - A prototype SSH configuration and policy scanner (Blog: https://mozilla.github.io/ssh_scan/)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [jiangxincode/cnblogs](https://github.com/jiangxincode/cnblogs) - 一些我在平时工作和学习中积累的编程相关的资源。如果大家有兴趣可以一起增加，修改。
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -3031,6 +3041,8 @@
 
 ## Rust 
 
+- [kkew3/jieba.vim](https://github.com/kkew3/jieba.vim) - 基于 jieba 的 Vim 按词跳转插件
+- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -3138,6 +3150,7 @@
 
 ## Shell 
 
+- [skyrpex/potrace](https://github.com/skyrpex/potrace) - [mirror] Tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image
 - [poddmo/ufw-blocklist](https://github.com/poddmo/ufw-blocklist) - IP blocklist extension for Ubuntu ufw
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
@@ -3146,6 +3159,7 @@
 - [bekcpear/ryans-repos](https://github.com/bekcpear/ryans-repos) - A personal ebuild repository for Gentoo Linux. The reponame is "ryans"
 - [12101111/overlay](https://github.com/12101111/overlay) - 12101111 Gentoo overlay
 - [1265578519/kangle](https://github.com/1265578519/kangle) - kangle web server 最强网站性能服务器架设软件
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
@@ -3165,7 +3179,6 @@
 - [bugprogrammer/hackintosh](https://github.com/bugprogrammer/hackintosh) - 
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [phlinhng/v2ray-tcp-tls-web](https://github.com/phlinhng/v2ray-tcp-tls-web) - VLESS / Trojan-Go / Shadowsocks 脚本 支持纯 IPv6
-- [Lbingyi/Heroku-Xray](https://github.com/Lbingyi/Heroku-Xray) - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [RokasUrbelis/docker-wine-linux](https://github.com/RokasUrbelis/docker-wine-linux) - :boom::whale::fire:Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
@@ -3400,7 +3413,7 @@
 - [js8544/nyu-latex-templates](https://github.com/js8544/nyu-latex-templates) - Beamer presentation and poster template for New York University / NYU Abu Dhabi / NYU Shanghai
 - [sathyamvellal/latex-newsletter-template](https://github.com/sathyamvellal/latex-newsletter-template) - LaTeX Newsletter Template
 - [abolybook/aboly](https://github.com/abolybook/aboly) - 一瓶论语 | A Bottle of Lún Yǔ
-- [wvqusrai/hnu_exam](https://github.com/wvqusrai/hnu_exam) - 自已制作的衡阳师范学院LaTeX试卷模板（含答案）
+- [wvqusrai/hnu_exam](https://github.com/wvqusrai/hnu_exam) - 自已制作的衡阳师范大学LaTeX试卷模板（含答案）
 - [emersonmello/slides-aulas-latex](https://github.com/emersonmello/slides-aulas-latex) - Um exemplo de organização de aulas com slides em LaTeX Beamer em diretórios
 - [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。
 - [dainachiba/RiichiBooks](https://github.com/dainachiba/RiichiBooks) - A book on riichi mahjong strategies
@@ -3426,7 +3439,6 @@
 - [txyyss/Lambda-Calculus](https://github.com/txyyss/Lambda-Calculus) - An introduction to lambda calculus in Chinese, including an interpreter in Haskell.
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
 - [wuzhouhui/intro-latex-slides](https://github.com/wuzhouhui/intro-latex-slides) - slides of introduction to latex
-- [MarisaKirisame/resume](https://github.com/MarisaKirisame/resume) - 
 - [math-comp/mcb](https://github.com/math-comp/mcb) - Mathematical Components (the Book)
 - [ocaml/ocamlunix](https://github.com/ocaml/ocamlunix) - Unix system programming in OCaml book
 - [opieters/business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
@@ -3463,6 +3475,7 @@
 
 ## TypeScript 
 
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact，分享你和世界！
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
@@ -3503,7 +3516,7 @@
 - [minchingtonak/lambster](https://github.com/minchingtonak/lambster) - Lambda calculus interpreter written in TypeScript
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [eric03742/mahgen](https://github.com/eric03742/mahgen) - 🀄️ mahgen is a simple library that generates corresponding mahjong tile images for given sequences.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -3593,6 +3606,7 @@
 ## Typst 
 
 - [kalxd/morelull](https://github.com/kalxd/morelull) - typst民间模板艺术
+- [MarisaKirisame/resume](https://github.com/MarisaKirisame/resume) - 
 
 ## VBA 
 
@@ -3644,7 +3658,7 @@
 - [wklken/vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - A vim plugin for communicating with a language server
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
@@ -3676,7 +3690,7 @@
 - [mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony) - 开源阅读鸿蒙版仓库
 - [kbkn3/MahjongSoul-review-supporter](https://github.com/kbkn3/MahjongSoul-review-supporter) - This is a chrome extension that automatically sends Paihu to an AI-based analysis tool for Mahjong Soul
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the expo
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
