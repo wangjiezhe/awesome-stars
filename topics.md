@@ -97,6 +97,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [gkd-subscription](#gkd-subscription)
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
@@ -311,6 +312,7 @@
 
 ## android 
 
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
@@ -1673,6 +1675,10 @@
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 
+## gkd-subscription 
+
+- [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
 ## go 
 
 - [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
@@ -2238,6 +2244,7 @@
 
 ## kotlin 
 
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
@@ -5796,7 +5803,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 370 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
@@ -5845,6 +5852,7 @@
 
 ## typescript 
 
+- [gkd-kit/inspect](https://github.com/gkd-kit/inspect) - GKD 网页端审查工具 | GKD web page accessibility node inspection tool
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -5968,6 +5976,7 @@
 
 ## vue 
 
+- [gkd-kit/inspect](https://github.com/gkd-kit/inspect) - GKD 网页端审查工具 | GKD web page accessibility node inspection tool
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
