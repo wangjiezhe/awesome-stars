@@ -39,7 +39,6 @@
 - [Groff](#groff)
 - [HLSL](#hlsl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Idris](#idris)
 - [Inno Setup](#inno-setup)
@@ -345,6 +344,7 @@
 
 ## C++ 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -367,7 +367,7 @@
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
+- [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg).
 - [YomikoR/VapourSynth-Editor](https://github.com/YomikoR/VapourSynth-Editor) - Branch vse-previewer for standalone previewer. Branch vs-api4 for an IDE with a text editor. Branch master for "stability". Forked from https://bitbucket.org/mystery_keeper/vapoursynth-editor
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
@@ -779,6 +779,7 @@
 
 ## Go 
 
+- [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) - 三网回程路由测试
 - [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 - [MkvAutoSubset/MkvAutoSubset](https://github.com/MkvAutoSubset/MkvAutoSubset) - ASS字幕字体子集化 ASS转PGS MKV批量提取/生成
 - [xiaozhou26/deeplx-pro](https://github.com/xiaozhou26/deeplx-pro) - free deeplx-pro
@@ -887,7 +888,6 @@
 - [PeterFeicht/cppreference-doc](https://github.com/PeterFeicht/cppreference-doc) - C++ standard library reference
 - [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
@@ -1001,10 +1001,6 @@
 - [erjjones/erjjones.github.com](https://github.com/erjjones/erjjones.github.com) - 
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（https://markdown.kuapp.com/）
-
-## Handlebars 
-
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Haskell 
 
@@ -1383,6 +1379,7 @@
 - [dwqs/blog](https://github.com/dwqs/blog) - :dog: :clap: :star2: Welcome to star
 - [MoeHero/BilibiliHelper](https://github.com/MoeHero/BilibiliHelper) - 萌园助手 - 哔哩哔哩(bilibili.com)辅助工具
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [justjavac/chrome-t-rex-game](https://github.com/justjavac/chrome-t-rex-game) - Chrome T-Rex Game | Chrome 离线小恐龙(暴龙)游戏
 - [tongwentang/New-Tongwentang-for-Firefox](https://github.com/tongwentang/New-Tongwentang-for-Firefox) - 
 - [pfn/passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
@@ -1793,6 +1790,8 @@
 
 ## Others 
 
+- [alienlu/iptv](https://github.com/alienlu/iptv) - 每日更新的可用iptv源
+- [lijigang/write-prompt](https://github.com/lijigang/write-prompt) - 公众号Write Prompt 发布的Prompt，同步记录于此
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [zhiyu1998/rrorange-and-friends-weekly](https://github.com/zhiyu1998/rrorange-and-friends-weekly) - 《大橘和朋友们的周刊》：分享日常冲浪互联网看到好玩的网站、app应用、资源分享、效率软件工具集等
 - [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -1929,7 +1928,7 @@
 - [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Attack Surface Management & Red Team Simulation Platform 互联网攻击面管理&红队模拟平台
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - A Unified Platform for Adversary Emulation and Red Team Operations
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
@@ -2369,6 +2368,14 @@
 
 ## Python 
 
+- [SengokuCola/MaiMBot](https://github.com/SengokuCola/MaiMBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（非常专注）QQ BOT
+- [k4yt3x/txt2epub](https://github.com/k4yt3x/txt2epub) - A simple tool for converting TXT books into ePub
+- [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 AI 能力分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
+- [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) - 🎉最新可用IPTV源，长期更新，自带TXT、M3U两种格式
+- [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [pmanstet/clang_repl_kernel](https://github.com/pmanstet/clang_repl_kernel) - 
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
@@ -2397,6 +2404,7 @@
 - [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) - 由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合
 - [WCY-dt/my-github-2024](https://github.com/WCY-dt/my-github-2024) - Statistics of your activities on GitHub in 2024. 统计2024年你在GitHub上的活动.
 - [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，兼容超低配置机器。
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
@@ -2876,7 +2884,7 @@
 - [mozillazg/baidu-pcs-python-sdk](https://github.com/mozillazg/baidu-pcs-python-sdk) - 百度个人云存储（PCS）Python SDK. （因为 PCS 服务已关闭，推荐改用百度网盘 API： https://github.com/ly0/baidupcsapi ）
 - [mozillazg/pinyin-data](https://github.com/mozillazg/pinyin-data) - 汉字拼音数据
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [trufont/trufont](https://github.com/trufont/trufont) - TruFont is a streamlined and hackable font editor. À l’ancienne.
+- [trufont/trufont](https://github.com/trufont/trufont) - TruFont is a font editor that uses the UFO font format and offers Python scripting.
 - [Hawstein/snake-ai](https://github.com/Hawstein/snake-ai) - a snake AI written in python
 - [matthewearl/deep-anpr](https://github.com/matthewearl/deep-anpr) - Using neural networks to build an automatic number plate recognition system
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -3218,6 +3226,8 @@
 
 ## Shell 
 
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [skyrpex/potrace](https://github.com/skyrpex/potrace) - [mirror] Tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image
 - [poddmo/ufw-blocklist](https://github.com/poddmo/ufw-blocklist) - IP blocklist extension for Ubuntu ufw
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -3375,7 +3385,7 @@
 
 ## Stylus 
 
-- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple commenting systems. 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - An elegant Hexo theme that supports lazy loading, PWA, Latex, and multiple commenting systems.
 - [mickeyouyou/yinwang](https://github.com/mickeyouyou/yinwang) - Blog Theme For Hexo
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
@@ -3542,6 +3552,9 @@
 
 ## TypeScript 
 
+- [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
 - [Peiiii/zenmark-editor](https://github.com/Peiiii/zenmark-editor) - Zenmark: An open-source, Typora-like WYSIWYG Markdown editor.
@@ -3565,7 +3578,7 @@
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
@@ -3576,7 +3589,7 @@
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？在这里一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Follow LoongArch upstream work right here right away.
 - [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
-- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
+- [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [latex-lsp/texlab-vscode](https://github.com/latex-lsp/texlab-vscode) - LaTeX for Visual Studio Code
