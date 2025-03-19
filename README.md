@@ -490,6 +490,7 @@
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial) - 
 - [TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates) - Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single) - 🎈 一个简洁大气，含夜间模式的 Typecho 博客主题
 - [yoniu/twitter](https://github.com/yoniu/twitter) - typecho微仿推特主题 https://www.200011.net
 - [wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe) - typecho主题,根据当前博客园的主题整合开发
@@ -1792,6 +1793,7 @@
 
 ## Others 
 
+- [MediaBrowser/Emby.Releases](https://github.com/MediaBrowser/Emby.Releases) - Contains binary releases
 - [alienlu/iptv](https://github.com/alienlu/iptv) - 每日更新的可用iptv源
 - [lijigang/write-prompt](https://github.com/lijigang/write-prompt) - 公众号Write Prompt 发布的Prompt，同步记录于此
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
@@ -2370,6 +2372,9 @@
 
 ## Python 
 
+- [enku/gentoo-build-publisher](https://github.com/enku/gentoo-build-publisher) - Gentoo Build Publisher is a way to build gentoo updates in CI/CD and have those builds published (rsync for the portage tree; http  for binpkgs) to individual machines.
+- [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [SengokuCola/MaiMBot](https://github.com/SengokuCola/MaiMBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（非常专注）QQ BOT
@@ -2451,7 +2456,7 @@
 - [itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，850+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [amnemonic/Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 - [schumijo/iptv](https://github.com/schumijo/iptv) - 
 - [Chocapikk/CVE-2024-3273](https://github.com/Chocapikk/CVE-2024-3273) - D-Link NAS CVE-2024-3273 Exploit Tool
@@ -2561,7 +2566,6 @@
 - [csekri/tkzgeom](https://github.com/csekri/tkzgeom) - GUI tool for TikZ figure production
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [captn3m0/pystitcher](https://github.com/captn3m0/pystitcher) - pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [textext/textext](https://github.com/textext/textext) - Re-editable LaTeX/ typst graphics for Inkscape
