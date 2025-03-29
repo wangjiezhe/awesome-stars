@@ -217,7 +217,7 @@
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [vmg/sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure markdown processing library in C
 - [eudoxia0/magma](https://github.com/eudoxia0/magma) - Extending C with cmacro
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [Mzzopublic/C](https://github.com/Mzzopublic/C) - C语言
@@ -1644,7 +1644,7 @@
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1786,7 +1786,7 @@
 - [esumii/min-caml](https://github.com/esumii/min-caml) - moved from https://sourceforge.net/p/min-caml/code/
 - [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-- [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive developme
+- [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment f
 
 ## Objective-C 
 
@@ -1800,6 +1800,7 @@
 
 ## Others 
 
+- [lxgw/SimXiZhi](https://github.com/lxgw/SimXiZhi) - 新晰黑体＆新致宋体：「霞鹜新晰黑」「霞鹜新致宋」兼容 Windows 内置「黑体」「宋体」度量数据和字符集的版本，基于 IPA Gothic、IPA Mincho 衍生。
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) - 🧑‍🚀 全世界最好的LLM资料总结（数据处理、模型训练、模型部署、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [vcb-s/guides](https://github.com/vcb-s/guides) - VCB-Studio 公开教程（新版）
@@ -2382,7 +2383,8 @@
 ## Python 
 
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
+- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara – A privacy-first, client-side AI assistant WebUI for Ollama. No backend, no data leaks. Keep your conversations completely yours, If you like it, Don't Forget to Give a Star 🌟
+- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate 
 - [enku/gentoo-build-publisher](https://github.com/enku/gentoo-build-publisher) - Gentoo Build Publisher is a way to build gentoo updates in CI/CD and have those builds published (rsync for the portage tree; http  for binpkgs) to individual machines.
 - [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
@@ -2964,7 +2966,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Xinkai/XwareDesktop](https://github.com/Xinkai/XwareDesktop) - 桌面化迅雷固件
 - [nipunbatra/pythor](https://github.com/nipunbatra/pythor) - pythor-Python meets R
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Python command-line client for tldr pages 📚
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Official Python command-line client for tldr pages 📚.
 - [msabramo/setuptools-markdown](https://github.com/msabramo/setuptools-markdown) - Use Markdown for your project description
 - [pycurl/pycurl](https://github.com/pycurl/pycurl) - PycURL - Python interface to libcurl
 - [0x5e/wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - 查看被删的微信好友
@@ -3348,7 +3350,7 @@
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
 - [farseerfc/systemd-shutdown-diagnose](https://github.com/farseerfc/systemd-shutdown-diagnose) - Take from https://co-op.space/2016/03/10/systemd-guan-ji-chao-shi-wen-ti-ding-wei-fang-fa/ , help to diagnose why systemd cannot shutdown properly
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
@@ -3572,7 +3574,6 @@
 
 ## TypeScript 
 
-- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara – A privacy-first, client-side AI assistant WebUI for Ollama. No backend, no data leaks. Keep your conversations completely yours, If you like it, Don't Forget to Give a Star 🌟
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
