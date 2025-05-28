@@ -265,6 +265,7 @@
 
 ## ai 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
@@ -802,6 +803,7 @@
 
 ## chatgpt 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -1306,7 +1308,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [ant-design/ant-ux](https://github.com/ant-design/ant-ux) - :guitar: A sitemap template for ux design
 
@@ -1427,7 +1428,6 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
@@ -1616,8 +1616,8 @@
 - [Partyb0ssishere/cef-fonts-cjk](https://github.com/Partyb0ssishere/cef-fonts-cjk) - CEF Fonts CJK / 快去写作业CJK 是一款用鼠标绘制字形的字体。
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
-- [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [LingDong-/qiji-font](https://github.com/LingDong-/qiji-font) - 齊伋體 - typeface from Ming Dynasty woodblock printed books
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
@@ -2166,7 +2166,6 @@
 - [xtuhcy/gecco](https://github.com/xtuhcy/gecco) - Easy to use lightweight web crawler（易用的轻量化网络爬虫）
 - [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
@@ -2481,7 +2480,6 @@
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
-- [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 
 ## library 
@@ -2581,14 +2579,15 @@
 
 ## llm 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
-- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara – Privacy-first, client-side AI assistant for Ollama with tool calling & mini n8n-style flow builder. No backend. No data leaks. 100% yours. Shoutout to Don ☕💙 for contributing to this project.
+- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your m
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（视频生成、Agent、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-- [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（非常专注）QQ BOT
+- [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
@@ -3086,6 +3085,7 @@
 
 ## openai 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabili
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
@@ -3137,12 +3137,12 @@
 
 ## others 
 
+- [CodSpeedHQ/action](https://github.com/CodSpeedHQ/action) - Github Actions for running CodSpeed in your CI
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege) - 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [kuiba1949/xiangqi-tools](https://github.com/kuiba1949/xiangqi-tools) - 中国象棋相关的工具，包含3个命令行程序: xiangqi-fen2text, xiangqi-fen2pic, xiangqi-ubb2fen
 - [nnngrach/AnyGIS_maps](https://github.com/nnngrach/AnyGIS_maps) - XML: Ready-to-use files of map preset for mobile navigation apps
@@ -3217,7 +3217,7 @@
 - [TypesettingTools/Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
 - [crifan/media_process_ffmpeg](https://github.com/crifan/media_process_ffmpeg) - 强大的音视频处理工具：ffmpeg
 - [takushun-wu/WenYuanFonts](https://github.com/takushun-wu/WenYuanFonts) - 一种更加适合简体中文情景及其TeX领域的开源中文字体。/A more suitable open-source Chinese font collection for Simplified Chinese environment & TeX field.
-- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。
+- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
 - [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份与数据报告
 - [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) - 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。
 - [maitel2020/iptv-self-use](https://github.com/maitel2020/iptv-self-use) - 集多家之源，自检自查，供自家使用
@@ -3243,7 +3243,7 @@
 - [IDimitrovDev/HDR-Controller](https://github.com/IDimitrovDev/HDR-Controller) - HDR Controller is a tool for automatically enabling windows HDR by selection of app to be observed for running
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 - [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa) - Sarasa UI -&gt; Microsoft YaHei UI
-- [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - 
+- [Tencent-Hunyuan/Tencent-Hunyuan-Large](https://github.com/Tencent-Hunyuan/Tencent-Hunyuan-Large) - 
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [Cityforest2000/SpaceKat](https://github.com/Cityforest2000/SpaceKat) - This is a 3D Mouse project. Current version supports Fusion360 modeling.
 - [FabianSchurig/CustomScrews](https://github.com/FabianSchurig/CustomScrews) - Fusion 360 App which creates custom screws by different parameters.
@@ -4198,7 +4198,6 @@
 - [madmaze/pyNmonAnalyzer](https://github.com/madmaze/pyNmonAnalyzer) - Python tool for reformatting and plotting/graphing NMON output
 - [liangqi/XQStudio](https://github.com/liangqi/XQStudio) - Xiangqi Notation Software, not my own code.
 - [pigworker/CS410-17](https://github.com/pigworker/CS410-17) - being the lecture materials and exercises for the 2017/18 session of CS410 Advanced Functional Programming at the University of Strathclyde
-- [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 - [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack) - 这里收集了许多移动端上遇到的各种坑
 - [cl21/cl21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
@@ -4860,6 +4859,7 @@
 - [mattiasgeniar/certdiff](https://github.com/mattiasgeniar/certdiff) - Every tried to run 'diff' on 2 certificate files? Doesn't quite work. This tool helps resolve that: a clear report between 2 certificates, reporting all differences.
 - [SawfishWM/sawfish](https://github.com/SawfishWM/sawfish) - Sawfish Window-Manager
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [processing/processing](https://github.com/processing/processing) - ⚠️ Processing moved to processing/processing4 ⚠️
 - [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [scinart/net](https://github.com/scinart/net) - net is a simple and handy common lisp dramka wrapper
 - [VitoVan/jopy](https://github.com/VitoVan/jopy) - Job Spider
@@ -5326,12 +5326,13 @@
 
 ## python 
 
+- [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - Pytest plugin to create CodSpeed benchmarks
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
 - [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [enku/gentoo-build-publisher](https://github.com/enku/gentoo-build-publisher) - Gentoo Build Publisher is a way to build gentoo updates in CI/CD and have those builds published (rsync for the portage tree; http  for binpkgs) to individual machines.
-- [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（非常专注）QQ BOT
+- [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 - [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) - 🎉最新可用IPTV源，长期更新，自带TXT、M3U两种格式
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
