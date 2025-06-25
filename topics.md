@@ -1614,7 +1614,7 @@
 
 - [Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project) - 基于汇文明朝体，并以旧字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 - [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [GuiWonder/EarlySummerSerif](https://github.com/GuiWonder/EarlySummerSerif) - EarlySummer Serif 初夏明朝體
@@ -4687,7 +4687,7 @@
 - [kootenpv/cant](https://github.com/kootenpv/cant) - For those who can't remember how to get a result
 - [overtone/emacs-live](https://github.com/overtone/emacs-live) - M-x start-hacking
 - [wklken/stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
-- [memo/ai-resources](https://github.com/memo/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
+- [memoakten/ai-resources](https://github.com/memoakten/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
 - [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide) - 
 - [badges/stability-badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index
 - [sagemathinc/cocalc_tutorial](https://github.com/sagemathinc/cocalc_tutorial) - A tutorial for anyone wanting to use CoCalc, especially for teaching
