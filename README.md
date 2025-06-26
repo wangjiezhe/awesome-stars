@@ -156,6 +156,7 @@
 
 ## C 
 
+- [Majjcom/ncmpp](https://github.com/Majjcom/ncmpp) - 一个用C++编写的极速ncm解密器
 - [Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui) - 一个使用C++编写的极速ncm转换GUI工具
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
@@ -517,7 +518,6 @@
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/
 - [idealclover/UniTypecho](https://github.com/idealclover/UniTypecho) - 🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
@@ -3722,6 +3722,7 @@
 - [u2sb/hexo-tag-mmedia](https://github.com/u2sb/hexo-tag-mmedia) - hexo插入aplayer、meting、dplayer、bilibili、哔哩哔哩、西瓜视频 标签
 - [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 - [veaba/ncov](https://github.com/veaba/ncov) - 【在开发2.x版本，暂时关闭站点！新版大屏beta 版本，全实时数据，交互式大屏，精确到城市级，弹幕来袭】关注2019新型冠状病毒（2019-nCoV），数据可视化感染人群热点图、迁徙扩散轨迹，以提供帮助分析疫情。 愿世界安好。Focus on Wuhan 2019-nCoV, data visualization, to help analyze the epidemic situation. 
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [SAPikachu/amae-koromo](https://github.com/SAPikachu/amae-koromo) - 雀魂牌谱屋 (See also: https://github.com/SAPikachu/amae-koromo-scripts )
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
@@ -3765,7 +3766,7 @@
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
