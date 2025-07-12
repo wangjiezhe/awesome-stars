@@ -139,9 +139,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [hk029/leetbook](https://github.com/hk029/leetbook) - LeetCode题解开源书《LeetBook》
 - [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
@@ -294,6 +292,7 @@
 
 ## C# # 
 
+- [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -903,7 +902,7 @@
 
 ## HTML 
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🔍 多平台热门新闻聚合工具，自动推送你关注的新闻 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持多渠道手机推送等。持续追踪热点变化。😊欢迎通过 star ⭐支持开发者，😎为伟大的开源事业添砖加瓦，已支持企业微信，飞书，钉钉，telegram的推送渠道(晚点支持docker
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个中文平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕。⭐ 让算法为你服务，而非被算法绑架
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) - Markdown Conversion
 - [PeterFeicht/cppreference-doc](https://github.com/PeterFeicht/cppreference-doc) - C++ standard library reference
@@ -1927,6 +1926,7 @@
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [drvinceknight/video-editing-process](https://github.com/drvinceknight/video-editing-process) - How I prepare teaching videos
 - [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
+- [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
 - [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 - [doll-houhuayuan/latest_address](https://github.com/doll-houhuayuan/latest_address) - 蔷薇后花园和黑沼泽俱乐部的最新地址
 - [SyaoranHinata/I.Mahjong](https://github.com/SyaoranHinata/I.Mahjong) - Open-source fonts for Mahjong tiles
@@ -1966,6 +1966,7 @@
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [NightFurySL2001/TangYuan-font](https://github.com/NightFurySL2001/TangYuan-font) - Source files of Inherited TangYuan/MaoKen TangYuan font ｜ 传承糖圆体／猫啃网糖圆体字型源文件
 - [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) - A free font family derived from Source Han Sans.
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [lyricat/beancount-tutorial](https://github.com/lyricat/beancount-tutorial) - A Chinese tutorial of Beancount.
 - [justjavac/unicode-encoding-error-table](https://github.com/justjavac/unicode-encoding-error-table) - Unicode 中文乱码速查表
@@ -3183,6 +3184,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -3630,6 +3632,9 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [dongguaguaguagua/zhihu_obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
