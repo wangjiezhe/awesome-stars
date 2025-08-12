@@ -1183,7 +1183,7 @@
 - [DhruvParikh1/markdownload-extension-updated](https://github.com/DhruvParikh1/markdownload-extension-updated) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源获取加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的下载体验，涵盖代码储存库、包管理、容器镜像、模型及数据集等 | Ultra-high performance, secure all-in-one open source resource acceleration engine. Its performance far exceeds traditio
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，同时支持Gemini cli、Codex中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，同时支持Gemini cli、Codex cli中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 - [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2025年8月更新，百度网盘(百度云)不限速工具分享。
