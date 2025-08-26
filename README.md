@@ -1667,6 +1667,8 @@
 
 ## Kotlin 
 
+- [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
+- [lhear/SimpleXray](https://github.com/lhear/SimpleXray) - Stable and efficient Android proxy client based on Xray-core
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
@@ -1839,6 +1841,7 @@
 
 ## Others 
 
+- [lietxia/mahjong_graphic](https://github.com/lietxia/mahjong_graphic) - 可以随意商用的立直麻将矢量图
 - [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
 - [likuai2010/auto-installer](https://github.com/likuai2010/auto-installer) - HarmonyOS Next Hap installer
 - [xiaobaigroup/ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
@@ -2470,7 +2473,7 @@
 - [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网
 - [MaoXiaoYuZ/Long-Novel-GPT](https://github.com/MaoXiaoYuZ/Long-Novel-GPT) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [ZALin/ESJZone-novel-mirror](https://github.com/ZALin/ESJZone-novel-mirror) - ESJZone 的小說備份
@@ -3034,7 +3037,7 @@
 - [prompt-toolkit/pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
 - [felixonmars/ydcv](https://github.com/felixonmars/ydcv) - YouDao Console Version - Simple wrapper for Youdao online translate (Chinese &lt;-&gt; English) service API, as an alternative to the StarDict Console Version(sdcv).
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -3674,7 +3677,7 @@
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
-- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your m
+- [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama.cpp, along with support for any provider, tool calling, agent building, Stable Diffusion, and n8n-st
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
