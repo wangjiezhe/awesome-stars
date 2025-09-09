@@ -853,7 +853,7 @@
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 - [out0fmemory/Goproxy-Always-Available](https://github.com/out0fmemory/Goproxy-Always-Available) - fork from goproxy Becaust it closed!! 1632版本自动扫描可用ip
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
@@ -1180,7 +1180,7 @@
 - [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk is a beautiful browser extension that allows you to use AI to read page content and have multiple conversations.
 - [DhruvParikh1/markdownload-extension-updated](https://github.com/DhruvParikh1/markdownload-extension-updated) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high performance, secure, all-in-one open-source resource acceleration engine. Significantly outperforms
+- [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure, all-in-one acceleration engine for developer resource access. Its performance 
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，支持Claude Code、Gemini CLI、Codex CLI，支持Claude Console接入。集成OAuth认   证、多账号池切换、自定义API密钥、OpenAI兼容格式、代理支持和智能防封机制。
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
@@ -1344,7 +1344,7 @@
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 - [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
-- [Chanshiyucx/heart-beat](https://github.com/Chanshiyucx/heart-beat) - An ACG-inspired blog theme that will steal your heart.
+- [chanshiyucx/heart-beat](https://github.com/chanshiyucx/heart-beat) - An ACG-inspired blog theme that will steal your heart.
 - [imsun/gh-feed](https://github.com/imsun/gh-feed) - Generate RSS feed from GitHub Issues
 - [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 - [Tsuk1ko/SS-Collection](https://github.com/Tsuk1ko/SS-Collection) - 常用资源汇集，仅个人收集向
@@ -2425,6 +2425,7 @@
 
 ## Python 
 
+- [CursorTouch/Windows-Use](https://github.com/CursorTouch/Windows-Use) - 🖥️Open-source Computer-Use for Windows
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [147227/BatchScribe-novel](https://github.com/147227/BatchScribe-novel) - 人人都是小说家，兼顾速度、质量与便携的小说创作器——面向批量生成与流水化出稿
@@ -2433,7 +2434,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
@@ -3721,7 +3722,7 @@
 - [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony) - 开源阅读鸿蒙版仓库
-- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment. 可一键部署的Cloudflare AI平台
 - [latex-lsp/texlab-vscode](https://github.com/latex-lsp/texlab-vscode) - LaTeX for Visual Studio Code
 - [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
 - [pokon548/ai-gateway-openai-wrapper](https://github.com/pokon548/ai-gateway-openai-wrapper) - Provide OpenAI compatible, cost effective and proxied api endpoints on Cloudflare Worker. Foolproof considered
