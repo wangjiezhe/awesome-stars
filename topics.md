@@ -569,7 +569,7 @@
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
@@ -1713,7 +1713,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-- [GuiWonder/EarlySummerSerif](https://github.com/GuiWonder/EarlySummerSerif) - EarlySummer Serif 初夏明朝體
+- [GuiWonder/EarlySummerSerif](https://github.com/GuiWonder/EarlySummerSerif) - Early Summer Serif 初夏明朝體
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
@@ -3285,6 +3285,7 @@
 
 ## others 
 
+- [Roetz4point0/Roetz-End](https://github.com/Roetz4point0/Roetz-End) - Open-source Co Extrusion Hotend for Directional Material Deposition (DMD) — The Roetz-End by Roetz4.0
 - [andreas128/RePaint](https://github.com/andreas128/RePaint) - Official PyTorch Code and Models of "RePaint: Inpainting using Denoising Diffusion Probabilistic Models", CVPR 2022
 - [Wind4/vlmcsd-docker](https://github.com/Wind4/vlmcsd-docker) - Docker container
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
@@ -3307,7 +3308,7 @@
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
 - [jiangnan1224/iptv_ipv4_live](https://github.com/jiangnan1224/iptv_ipv4_live) - iptv直播源，过滤出ipv4的直播源
 - [Kinneyzhang/ETML](https://github.com/Kinneyzhang/ETML) - Emacs Text Markup Language: text block rendering and flexible layout in Emacs buffers.
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [idootop/migpt-next](https://github.com/idootop/migpt-next) - 让小爱音箱「听你的」，解锁无限可能。
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
 - [themetaschemer/malt](https://github.com/themetaschemer/malt) - Machine Learning Toolkit accompanying The Little Learner by Daniel P. Friedman and Anurag Mendhekar
@@ -5905,7 +5906,7 @@
 - [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) - Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [nefe/redux-in-chinese](https://github.com/nefe/redux-in-chinese) - Redux 中文文档
@@ -6027,7 +6028,7 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Do things fast
 - [RustStudy/RustBooksChina](https://github.com/RustStudy/RustBooksChina) - 记录国内的Rust书籍与文章
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
