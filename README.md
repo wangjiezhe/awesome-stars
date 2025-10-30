@@ -1070,6 +1070,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -1191,6 +1192,7 @@
 
 ## JavaScript 
 
+- [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) - A quick vibe coded app for deepseek OCR
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform cl
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
@@ -1236,7 +1238,7 @@
 - [hawkhu/cpractice](https://github.com/hawkhu/cpractice) - 小学加减法口算题生成程序
 - [hldgaofeng/oralcalc](https://github.com/hldgaofeng/oralcalc) - oral calculation generator
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
-- [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 解密 Windows QQ Music mflac 文件
+- [yllhwa/decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida) - 
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
 - [pixiv-cat/pixivcat-backend](https://github.com/pixiv-cat/pixivcat-backend) - Pixiv.cat backend server
 - [windyhusky/PixivSource](https://github.com/windyhusky/PixivSource) - 为Pixiv网站制作的适配在阅读3.0App上的书源
@@ -1807,7 +1809,7 @@
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方《Swift 编程语言》
 
 ## Mathematica 
 
@@ -1869,6 +1871,7 @@
 
 ## Others 
 
+- [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [Roetz4point0/Roetz-End](https://github.com/Roetz4point0/Roetz-End) - Open-source Co Extrusion Hotend for Directional Material Deposition (DMD) — The Roetz-End by Roetz4.0
 - [lietxia/mahjong_graphic](https://github.com/lietxia/mahjong_graphic) - 可以随意商用的立直麻将矢量图
 - [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
@@ -2462,7 +2465,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂热点 - 多平台热点聚合+AI智能分析工具。监控35个平台（抖音、知乎、B站、微博等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂热点 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、微博等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
@@ -2558,7 +2561,7 @@
 - [app-sre/github-mirror](https://github.com/app-sre/github-mirror) - GitHub API mirror that caches the responses and implements conditional requests
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [itcharge/AlgoNote](https://github.com/itcharge/AlgoNote) - ⛽️「算法通关手册」：一本系统讲解算法与数据结构、涵盖 LeetCode 题解的中文学习手册
+- [itcharge/AlgoNote](https://github.com/itcharge/AlgoNote) - ⛽️「算法通关手册」：从零开始的「算法与数据结构」学习教程，200 道「算法面试热门题目」，1000+ 道「LeetCode 题目解析」，持续更新中！
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -3237,6 +3240,7 @@
 
 ## Rust 
 
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 - [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch) - license patcher for davinci resolve studio
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
@@ -3272,7 +3276,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Equim-chan/Mortal](https://github.com/Equim-chan/Mortal) - 🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.
 - [Equim-chan/mjai-reviewer](https://github.com/Equim-chan/mjai-reviewer) - 🔍🀄️ Review mahjong game log with mjai-compatible mahjong AI.
@@ -3354,7 +3358,7 @@
 
 ## Shell 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [CodSpeedHQ/action](https://github.com/CodSpeedHQ/action) - Github Actions for running CodSpeed in your CI
@@ -3366,7 +3370,6 @@
 - [poddmo/ufw-blocklist](https://github.com/poddmo/ufw-blocklist) - IP blocklist extension for Ubuntu ufw firewall
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-- [WangXiaopai595/haval](https://github.com/WangXiaopai595/haval) - 哈弗汽车，安波福车机工程模式、自定义安装软件、dns服务器搭建、高德地图升级
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [TheChymera/mkstage4](https://github.com/TheChymera/mkstage4) - Bash Utility for Creating Stage 4 Tarballs
 - [bekcpear/ryans-repos](https://github.com/bekcpear/ryans-repos) - A personal ebuild repository for Gentoo Linux. The reponame is "ryans"
@@ -3697,6 +3700,8 @@
 
 ## TypeScript 
 
+- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 - [pengzhanbo/caniuse-embed](https://github.com/pengzhanbo/caniuse-embed) - Embed the CanIUse compatibility table in your site
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
