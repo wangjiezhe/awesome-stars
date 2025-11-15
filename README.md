@@ -147,7 +147,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL) - 🔑KMS_VL_ALL - Smart Activation Script
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [hk029/leetbook](https://github.com/hk029/leetbook) - LeetCode题解开源书《LeetBook》
@@ -2503,7 +2502,7 @@
 - [enku/gentoo-build-publisher](https://github.com/enku/gentoo-build-publisher) - Gentoo Build Publisher is a way to build gentoo updates in CI/CD and have those builds published (rsync for the portage tree; http  for binpkgs) to individual machines.
 - [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 - [k4yt3x/txt2epub](https://github.com/k4yt3x/txt2epub) - A simple tool for converting TXT books into ePub
@@ -3308,6 +3307,7 @@
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -3879,7 +3879,6 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
