@@ -162,6 +162,7 @@
 
 ## C 
 
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [Majjcom/ncmpp](https://github.com/Majjcom/ncmpp) - 一个用C++编写的极速ncm解密器
@@ -366,6 +367,7 @@
 
 ## C++ 
 
+- [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
@@ -383,7 +385,7 @@
 - [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
 - [rigaya/NVEnc](https://github.com/rigaya/NVEnc) - NVENCによる高速エンコードの性能実験
 - [zhangwenchao1992/BIlibili_tv](https://github.com/zhangwenchao1992/BIlibili_tv) - bilibili fans display with touch screen.
-- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
@@ -3374,6 +3376,7 @@
 
 ## Shell 
 
+- [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
