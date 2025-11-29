@@ -598,7 +598,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [PKUHelper/pkuipgw](https://github.com/PKUHelper/pkuipgw) - A CLI for PKU IP Gateway connection.
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
@@ -2339,7 +2339,6 @@
 - [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [BlackArch/blackarch-config-i3](https://github.com/BlackArch/blackarch-config-i3) - BlackArch menu, theme, and config for i3 WM.
 - [tylertreat/CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [japila-books/apache-spark-internals](https://github.com/japila-books/apache-spark-internals) - The Internals of Apache Spark
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [empenguinxh/emacs-tutorial-in-chinese](https://github.com/empenguinxh/emacs-tutorial-in-chinese) - emacs系列教程，中文写作
