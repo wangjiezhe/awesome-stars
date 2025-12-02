@@ -42,6 +42,7 @@
 - [Groff](#groff)
 - [HLSL](#hlsl)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Idris](#idris)
 - [Inno Setup](#inno-setup)
@@ -1041,6 +1042,10 @@
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [riku/Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（https://markdown.kuapp.com/）
 
+## Handlebars 
+
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+
 ## Haskell 
 
 - [goldfirere/glambda](https://github.com/goldfirere/glambda) - The home of the Glamorous Glambda interpreter
@@ -1077,7 +1082,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - A cross-platform chess interface program that supports uci and ucci protocol engines / 支持uci和ucci协议引擎的跨平台象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
@@ -1442,7 +1447,6 @@
 - [dwqs/blog](https://github.com/dwqs/blog) - :dog: :clap: :star2: Welcome to star
 - [MoeHero/BilibiliHelper](https://github.com/MoeHero/BilibiliHelper) - 萌园助手 - 哔哩哔哩(bilibili.com)辅助工具
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [justjavac/chrome-t-rex-game](https://github.com/justjavac/chrome-t-rex-game) - Chrome T-Rex Game | Chrome 离线小恐龙(暴龙)游戏
 - [tongwentang/New-Tongwentang-for-Firefox](https://github.com/tongwentang/New-Tongwentang-for-Firefox) - 
 - [pfn/passifox](https://github.com/pfn/passifox) - Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)
@@ -1573,7 +1577,6 @@
 - [ruanyf/react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [conventional-changelog-archived-repos/validate-commit-msg](https://github.com/conventional-changelog-archived-repos/validate-commit-msg) - DEPRECATED. Use https://github.com/marionebl/commitlint instead. githook to validate commit messages are up to standard
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [jaredly/treed](https://github.com/jaredly/treed) - Powerful Tree Editor
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
 - [JuanitoFatas/Computer-Science-Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary) - aka CSG, English -&gt; Chinese
@@ -1889,6 +1892,7 @@
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+- [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [Warren2060/FreeFontCollection](https://github.com/Warren2060/FreeFontCollection) - 年度更新的精选字体合集。
 - [lxgw/SimXiZhi](https://github.com/lxgw/SimXiZhi) - 新晰黑体＆新致宋体：「霞鹜新晰黑」「霞鹜新致宋」兼容 Windows 内置「黑体」「宋体」度量数据和字符集的版本，基于 IPA Gothic、IPA Mincho 衍生。
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -3387,7 +3391,6 @@
 - [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26.1 beta
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
-- [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [CodSpeedHQ/action](https://github.com/CodSpeedHQ/action) - Github Actions for running CodSpeed in your CI
 - [kuiba1949/xiangqi-tools](https://github.com/kuiba1949/xiangqi-tools) - 中国象棋相关的工具，包含3个命令行程序: xiangqi-fen2text, xiangqi-fen2pic, xiangqi-ubb2fen
 - [thesamesam/sam-gentoo-scripts](https://github.com/thesamesam/sam-gentoo-scripts) - Set of scripts I use for Gentoo development.
@@ -3902,6 +3905,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
