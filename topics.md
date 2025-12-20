@@ -172,6 +172,7 @@
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -3109,6 +3110,10 @@
 ## maven 
 
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+## microservices 
+
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 
 ## microsoft 
 
