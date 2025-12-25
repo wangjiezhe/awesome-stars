@@ -1082,6 +1082,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - A cross-platform chess interface program that supports uci and ucci protocol engines / 支持uci和ucci协议引擎的跨平台象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
@@ -1881,6 +1882,7 @@
 
 ## Others 
 
+- [freedom-introvert/Research-on-Avalon-System-in-Bilibili-Comment-Area](https://github.com/freedom-introvert/Research-on-Avalon-System-in-Bilibili-Comment-Area) - 深挖b站如何控评-对阿瓦隆系统探究
 - [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) - A curated collection of AI tools, utilities, and resources for developers and creators
 - [l0gicx/ai-model-bypass](https://github.com/l0gicx/ai-model-bypass) - Exploit prompts and roleplay techniques for bypassing AI model restrictions.
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
@@ -3791,7 +3793,6 @@
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [mk12/vscode-better-git-line-blame](https://github.com/mk12/vscode-better-git-line-blame) - VS Code extension that decorates lines with git blame information.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？在这里一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Follow LoongArch upstream work right here right away.
 - [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
