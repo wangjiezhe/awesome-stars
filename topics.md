@@ -3437,6 +3437,7 @@
 
 ## others 
 
+- [freedom-introvert/Research-on-Avalon-System-in-Bilibili-Comment-Area](https://github.com/freedom-introvert/Research-on-Avalon-System-in-Bilibili-Comment-Area) - 深挖b站如何控评-对阿瓦隆系统探究
 - [fietser97/battlenations-unit-tracker](https://github.com/fietser97/battlenations-unit-tracker) - Battle nations unit tracker
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
