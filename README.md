@@ -672,6 +672,7 @@
 
 ## Dart 
 
+- [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -882,7 +883,7 @@
 - [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
@@ -2468,6 +2469,7 @@
 
 ## Python 
 
+- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [suiginko/moetype](https://github.com/suiginko/moetype) - 基于萌娘百科词条的输入法词库
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -2748,7 +2750,6 @@
 - [manim-kindergarten/manim_document_zh](https://github.com/manim-kindergarten/manim_document_zh) - 一份manim中文教程文档 / manim tutorial document in Chinese (完善中)
 - [manim-kindergarten/manim_sandbox](https://github.com/manim-kindergarten/manim_sandbox) - manim-kindergarten's communal repository
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [marblexu/PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game
 - [ghwswywps/jd_seckill](https://github.com/ghwswywps/jd_seckill) - 
 - [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
@@ -3731,6 +3732,7 @@
 
 ## TypeScript 
 
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - 本地化的聊天记录分析工具，通过 SQL 和AI Agent 回顾你的聊天记录
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
