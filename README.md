@@ -1201,6 +1201,7 @@
 
 ## JavaScript 
 
+- [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [fietser97/battlenations-unit-tracker](https://github.com/fietser97/battlenations-unit-tracker) - Battle nations unit tracker
 - [hanskellner/Fusion360Voronoi](https://github.com/hanskellner/Fusion360Voronoi) - Voronoi Sketch Generator Script for Autodesk Fusion 360
 - [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) - A quick vibe coded app for deepseek OCR
@@ -1639,6 +1640,7 @@
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [SocratesClub/ccbook](https://github.com/SocratesClub/ccbook) - Elements of Computational Communication 《计算传播基础》
@@ -1850,7 +1852,6 @@
 - [janestreet/torch](https://github.com/janestreet/torch) - 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) - Effects-based direct-style IO for multicore OCaml
 - [fdopen/ppx_cstubs](https://github.com/fdopen/ppx_cstubs) - preprocessor for easier stub generation with ocaml-ctypes
-- [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [bmourad01/eoc](https://github.com/bmourad01/eoc) - A compiler for a subset of Typed Racket.
 - [dkim/rwo-lwt](https://github.com/dkim/rwo-lwt) - Lwt Translations of the Async Code Examples in Real World OCaml
@@ -2006,7 +2007,7 @@
 - [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
-- [bootcs-dev/cs_study_plan](https://github.com/bootcs-dev/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [bootcs-cn/cs_study_plan](https://github.com/bootcs-cn/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [goolguy007/radioer](https://github.com/goolguy007/radioer) - 高清电台电视台直播源，只收录码率在128kbps或以上的电台以及稳定流畅的电视台直播源。
