@@ -810,6 +810,7 @@
 
 ## Go 
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -1087,7 +1088,7 @@
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - A cross-platform chess interface program that supports uci and ucci protocol engines / 支持uci和ucci协议引擎的跨平台象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
 - [serso/android-calculatorpp](https://github.com/serso/android-calculatorpp) - Android Calculator
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
 - [WaSuper/Mahjong](https://github.com/WaSuper/Mahjong) - 一个小小的日本麻将计分器
@@ -2498,7 +2499,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy) - :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis
@@ -2552,7 +2553,7 @@
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。
+- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。
 - [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) - 由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合
 - [WCY-dt/my-github-2025](https://github.com/WCY-dt/my-github-2025) - Statistics of your activities on GitHub in 2025. 统计2025年你在GitHub上的活动.
 - [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种模态模型，兼容超低配置机器。Extremely fast live recording, automatic slicing, rendering, uploading and Integrating MLLMs. Compatible with low configurations machines.
@@ -3274,6 +3275,7 @@
 ## Rust 
 
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch) - license patcher for davinci resolve studio
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 🔊 让小爱音箱「听见你的声音」，解锁无限可能。
@@ -3743,7 +3745,6 @@
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform cl
 - [pengzhanbo/caniuse-embed](https://github.com/pengzhanbo/caniuse-embed) - Embed the CanIUse compatibility table in your site
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
