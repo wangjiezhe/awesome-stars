@@ -1476,6 +1476,7 @@
 - [lepture/social](https://github.com/lepture/social) - Share your notes with a beautiful social button.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [LCTT/WeApp-Password](https://github.com/LCTT/WeApp-Password) - 运维密码微信小程序
+- [ecraven/r7rs-benchmarks](https://github.com/ecraven/r7rs-benchmarks) - Benchmarks for various Scheme implementations. Taken with kind permission from the Larceny project, based on the Gabriel and Gambit benchmarks.
 - [dozer47528/zhihu-block-chrome-extension](https://github.com/dozer47528/zhihu-block-chrome-extension) - 知乎用户屏蔽插件
 - [SuzanneSoy/scribble-math](https://github.com/SuzanneSoy/scribble-math) - Integration of MathJax, KaTeX and Asymptote with scribble, to typeset math in Racket documentation
 - [ywzhaiqi/userscript](https://github.com/ywzhaiqi/userscript) - 本人原创或修改的 GM 脚本，包括小说阅读脚本等。
@@ -2517,7 +2518,7 @@
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
@@ -3393,7 +3394,6 @@
 - [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) - The new nanopass framework; an embedded DSL for writing compilers in Scheme
 - [miniKanren/TheReasonedSchemer](https://github.com/miniKanren/TheReasonedSchemer) - Code from 'The Reasoned Schemer' (MIT Press, 2005) by Daniel P. Friedman, William E. Byrd and Oleg Kiselyov.
 - [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) - Canonical miniKanren implementation
-- [ecraven/r7rs-benchmarks](https://github.com/ecraven/r7rs-benchmarks) - Benchmarks for various Scheme implementations. Taken with kind permission from the Larceny project, based on the Gabriel and Gambit benchmarks.
 - [ds26gte/pregexp](https://github.com/ds26gte/pregexp) - 
 - [tiancaiamao/yscheme](https://github.com/tiancaiamao/yscheme) - a compiler from a subset of Scheme into X64
 - [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
