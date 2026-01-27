@@ -811,6 +811,7 @@
 
 ## Go 
 
+- [hulutech-web/novel-video-workflow](https://github.com/hulutech-web/novel-video-workflow) - 完全本地的AI小说视频生成工作流，每个人都能成为导演！
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -3389,7 +3390,7 @@
 
 ## Scheme 
 
-- [XmacsLabs/mogan](https://github.com/XmacsLabs/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
+- [MoganLab/mogan](https://github.com/MoganLab/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 - [mrmathematica/MrMathematica](https://github.com/mrmathematica/MrMathematica) - Calling Mathematica from Racket
 - [akeep/nanopass-framework](https://github.com/akeep/nanopass-framework) - The new nanopass framework; an embedded DSL for writing compilers in Scheme
 - [evilbinary/scheme-lib](https://github.com/evilbinary/scheme-lib) - 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib
@@ -3603,7 +3604,7 @@
 
 ## Tcl 
 
-- [XmacsLabs/Xmacs](https://github.com/XmacsLabs/Xmacs) - Xmacs renamed to Mogan
+- [MoganLab/Xmacs](https://github.com/MoganLab/Xmacs) - Xmacs renamed to Mogan
 - [texmacs/texmacs](https://github.com/texmacs/texmacs) - Mirror of the GNU TeXmacs SVN
 - [texmacs/mirror](https://github.com/texmacs/mirror) - Mirror only, DO NOT SUBMIT PR
 - [da-liii/tigmacs](https://github.com/da-liii/tigmacs) - 
@@ -3759,6 +3760,8 @@
 
 ## TypeScript 
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension.
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
