@@ -319,6 +319,8 @@
 
 ## ai 
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [hulutech-web/novel-video-workflow](https://github.com/hulutech-web/novel-video-workflow) - 完全本地的AI小说视频生成工作流，每个人都能成为导演！
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) - A curated collection of AI tools, utilities, and resources for developers and creators
@@ -1208,7 +1210,7 @@
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui) - 一个使用C++编写的极速ncm转换GUI工具
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [XmacsLabs/mogan](https://github.com/XmacsLabs/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
+- [MoganLab/mogan](https://github.com/MoganLab/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [official-pikafish/Pikafish](https://github.com/official-pikafish/Pikafish) - A free and strong UCI xiangqi engine
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
@@ -3492,6 +3494,7 @@
 
 ## others 
 
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [lattifai/omni-captions-skills](https://github.com/lattifai/omni-captions-skills) - Caption Skills
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [AdvancedCompiler/AdvancedCompiler](https://github.com/AdvancedCompiler/AdvancedCompiler) - 先进编译实验室的个人主页
@@ -4061,7 +4064,7 @@
 - [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 - [UmeLabs/node.umelabs.dev](https://github.com/UmeLabs/node.umelabs.dev) - 每天24:00点前更新免费SS/SSR节点
 - [wuwentao/bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) - 北京联通IPTV播放列表 Beijing Unicom IPTV playlist bj-unicom-iptv.m3u
-- [XmacsLabs/Xmacs](https://github.com/XmacsLabs/Xmacs) - Xmacs renamed to Mogan
+- [MoganLab/Xmacs](https://github.com/MoganLab/Xmacs) - Xmacs renamed to Mogan
 - [TheBloodthirster/BUAA_Course_Sharing](https://github.com/TheBloodthirster/BUAA_Course_Sharing) - 北京航空航天大学(北航)课程作业资料共享计划
 - [skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format) - :sunglasses: Prettify Current Line on Enter !!
 - [misterchaos/hotcorner](https://github.com/misterchaos/hotcorner) - 让Windows拥有macOS的触发角功能
@@ -6098,7 +6101,7 @@
 
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - An easy to use, modern video player based on mpv （一个基于MPV,易于使用,现代化的视频播放器）
-- [XmacsLabs/mogan](https://github.com/XmacsLabs/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
+- [MoganLab/mogan](https://github.com/MoganLab/mogan) - Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology!
 - [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
