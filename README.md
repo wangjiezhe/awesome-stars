@@ -2483,6 +2483,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) - Visual Causal Flow
 - [lattifai/omni-captions-skills](https://github.com/lattifai/omni-captions-skills) - Caption Skills
 - [leehong0704/ai-novel](https://github.com/leehong0704/ai-novel) - AI小说创作工具，Python实现，支持剧情大纲生成、角色设定、文本续写与批量导出，适合作者自动化写作与灵感辅助，命令行/脚本可用，便于二次开发与集成。
@@ -2520,7 +2521,7 @@
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
