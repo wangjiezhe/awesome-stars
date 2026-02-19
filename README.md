@@ -1947,7 +1947,7 @@
 - [kickstarter/kickstarter-autodesk-3d](https://github.com/kickstarter/kickstarter-autodesk-3d) - Kickstarter Autodesk 3D Printer Evaluation
 - [YihuiLu/DIY-3D-printer-heater](https://github.com/YihuiLu/DIY-3D-printer-heater) - A simple and easy-to-use 3D printer chamber temperature heating module
 - [PurpleHack/ToaSD_reader](https://github.com/PurpleHack/ToaSD_reader) - 
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -1981,7 +1981,7 @@
 - [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 - [Meroser/Home-assistant](https://github.com/Meroser/Home-assistant) - 
 - [asukaminato0721/Geometry-Expression](https://github.com/asukaminato0721/Geometry-Expression) - 几何表达式仓库
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [kemaloksuz/ObjectDetectionImbalance](https://github.com/kemaloksuz/ObjectDetectionImbalance) - Lists the papers related to imbalance problems in object detection [TPAMI]
 - [it-ebooks-0/it-ebooks-2023](https://github.com/it-ebooks-0/it-ebooks-2023) - :books: 计算机电子书 2023
 - [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
@@ -2537,7 +2537,6 @@
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
@@ -2548,7 +2547,7 @@
 - [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 - [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR) - A lightweight LMM-based Document Parsing Model
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [WeichenFan/CFG-Zero-star](https://github.com/WeichenFan/CFG-Zero-star) - Official repo for CFG-Zero*
 - [Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project) - 基于汇文明朝体，并以旧字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 - [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
@@ -3809,6 +3808,7 @@
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
 - [idootop/migpt-next](https://github.com/idootop/migpt-next) - 让小爱音箱「听你的」，解锁无限可能。
 - [flyeric0212/wx-md](https://github.com/flyeric0212/wx-md) - 一个基于 Web 的 Markdown 编辑器，专为微信公众号文章排版设计。它能够实时将 Markdown 文本转换为适合微信公众号的富文本格式，解决了微信公众号文章排版困难的问题。
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 - [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Vercel + Redis
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
