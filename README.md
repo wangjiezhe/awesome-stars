@@ -198,6 +198,7 @@
 - [RavenSystem/esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [LingDong-/magic-square-poems](https://github.com/LingDong-/magic-square-poems) - Discovering magic squares in Tang Dynasty poems
+- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [huazhuangnan/actions-build-padavan-openwrt](https://github.com/huazhuangnan/actions-build-padavan-openwrt) - GitHub Action 学习实例 - 自动编译 padavan 和 openWrt
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -427,7 +428,6 @@
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 - [tongtzeho/PKUCourse](https://github.com/tongtzeho/PKUCourse) - 北大计算机课程大作业
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
@@ -1205,8 +1205,8 @@
 - [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
 - [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 - [kimtg/Javelin](https://github.com/kimtg/Javelin) - Javelin is a dialect of Lisp. It is designed to be an embedded language (minimal Lisp for the Java Virtual Machine).
-- [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
-- [geeeeeeeeek/IntelligentChineseChessSystem](https://github.com/geeeeeeeeek/IntelligentChineseChessSystem) - :trophy: Chinese Chess (中国象棋): UI and AI. Obsoleted. 不再维护.
+- [zhongyi-tong/WeChatLuckyMoney](https://github.com/zhongyi-tong/WeChatLuckyMoney) - :money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
+- [zhongyi-tong/IntelligentChineseChessSystem](https://github.com/zhongyi-tong/IntelligentChineseChessSystem) - :trophy: Chinese Chess (中国象棋): UI and AI. Obsoleted. 不再维护.
 - [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
 - [YahooArchive/anthelion](https://github.com/YahooArchive/anthelion) - Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages.
 - [gchq/Gaffer](https://github.com/gchq/Gaffer) - A large-scale entity and relation database supporting aggregation of properties
@@ -1585,7 +1585,7 @@
 - [imfly/electron-docs-gitbook](https://github.com/imfly/electron-docs-gitbook) - Deprecated. You can get it from:
 - [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Firefox "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
-- [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+- [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [jiacai2050/gooreplacer.xpi](https://github.com/jiacai2050/gooreplacer.xpi) - DEPRECATED. 本仓库采用的 Add-on SDK 技术以废弃。 可参考最新的 WebExtensions 在
 - [jiacai2050/gooreplacer](https://github.com/jiacai2050/gooreplacer) - ⚡️⚡️A browser extension to modify HTTP requests :-)
 - [breezewish/pinyinlite](https://github.com/breezewish/pinyinlite) - Lightweight and Lightning-Fast :zap: Pinyin Library for JavaScript
@@ -2363,7 +2363,7 @@
 - [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project) - A collection about github front-end project
 - [amygdalama/python-internals](https://github.com/amygdalama/python-internals) - Resources for learning about Python internals and CPython source code
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
-- [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [zhongyi-tong/git-recipes](https://github.com/zhongyi-tong/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [risshun/Chinese_Laws](https://github.com/risshun/Chinese_Laws) - 本项目旨在收集中华人民共和国的各类法律条文；项目重启中，期望PR
 - [betamint/ppietnu-report-style](https://github.com/betamint/ppietnu-report-style) - Standard TeXmacs styles for report of PPIETNU (Planning Project for Innovation and Entrepreneurship Training of National Undergraduate) in China
 - [flyhigher139/awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo) - A curated list of awesome GitHub repositories. Inspired by awesome-python, which is inspired by awesome-php.
@@ -3306,7 +3306,7 @@
 - [ryanb/ruby-warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby.
 - [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [oa414/objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) - ObjC Zen Book 中文翻译
 - [SciRuby/iruby](https://github.com/SciRuby/iruby) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook
 - [qhwa/Command-Line-Youdao-Dictionary](https://github.com/qhwa/Command-Line-Youdao-Dictionary) - 在命令行中查单词，使用网易有道词典
