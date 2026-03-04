@@ -95,6 +95,7 @@
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1780,6 +1781,11 @@
 ## facebook 
 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
 ## finance 
 
@@ -3505,6 +3511,7 @@
 
 ## others 
 
+- [FireRedTeam/FireRed-OCR](https://github.com/FireRedTeam/FireRed-OCR) - 
 - [open-guji/luatex-cn](https://github.com/open-guji/luatex-cn) - 支持中文古籍竖排，长期愿景希望基于LuaTeX完整支持中文排版。
 - [jimz011/hki-elements](https://github.com/jimz011/hki-elements) - HKI Elements Custom Cards Suite for Home Assistant
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
