@@ -1019,7 +1019,6 @@
 - [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
 - [lzjqsdd/scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn) - scikit-learn机器学习库中文文档翻译项目
 - [LinuxTOY/linuxtoy.org](https://github.com/LinuxTOY/linuxtoy.org) - Site source for linuxtoy.org.
-- [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [SICPDistilled/website](https://github.com/SICPDistilled/website) - 
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [whatwg/encoding](https://github.com/whatwg/encoding) - Encoding Standard
@@ -1694,6 +1693,7 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [rasbt/pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2) - Book and code for Think Complexity, 2nd edition
+- [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [drvinceknight/cfm](https://github.com/drvinceknight/cfm) - Repository for a Python course for university Mathematics students
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
@@ -2495,6 +2495,7 @@
 
 ## Python 
 
+- [FireRedTeam/FireRed-OCR](https://github.com/FireRedTeam/FireRed-OCR) - 
 - [ChaceQC/bilibili_live_stream_code](https://github.com/ChaceQC/bilibili_live_stream_code) - 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
 - [UniverseEmbedded/OpenColor](https://github.com/UniverseEmbedded/OpenColor) - Full-color FDM printing
 - [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Str
