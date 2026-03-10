@@ -1595,7 +1595,6 @@
 - [ruanyf/react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [conventional-changelog-archived-repos/validate-commit-msg](https://github.com/conventional-changelog-archived-repos/validate-commit-msg) - DEPRECATED. Use https://github.com/marionebl/commitlint instead. githook to validate commit messages are up to standard
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [jaredly/treed](https://github.com/jaredly/treed) - Powerful Tree Editor
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
 - [JuanitoFatas/Computer-Science-Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary) - aka CSG, English -&gt; Chinese
@@ -3024,7 +3023,7 @@
 - [doraemonext/wechat-python-sdk](https://github.com/doraemonext/wechat-python-sdk) - 微信公众平台 Python 开发包 [DEPRECATED]
 - [fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 - [mapio/prettytable-mirror](https://github.com/mapio/prettytable-mirror) - A mirror of the prettytable repo (on Google Code)
 - [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
@@ -3039,7 +3038,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 A complete Python framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Over 200 included examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase simplifies browser automation, scraping, and testing. CDP Mode adds stealth (and works with Playwright). Lots of examples and YouTube tutorials.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3320,6 +3319,7 @@
 ## Rust 
 
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch) - license patcher for davinci resolve studio
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) - 🔊 让小爱音箱「听见你的声音」，解锁无限可能。
@@ -3651,7 +3651,7 @@
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
 - [chianjin/outline-of-mechanics](https://github.com/chianjin/outline-of-mechanics) - 《力学概论》LaTeX 重排版
 - [qinglee/GEB](https://github.com/qinglee/GEB) - Gödel, Escher, Bach: an Eternal Golden Braid
 - [TeXackers/tabularray](https://github.com/TeXackers/tabularray) - Typeset tabulars and arrays with LaTeX3
@@ -3805,7 +3805,6 @@
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti
 - [pengzhanbo/caniuse-embed](https://github.com/pengzhanbo/caniuse-embed) - Embed the CanIUse compatibility table in your site
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
@@ -3974,6 +3973,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
