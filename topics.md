@@ -1995,7 +1995,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [LucienShui/PasteMe](https://github.com/LucienShui/PasteMe) - PasteMe 是一个无需注册的文本分享平台（未登陆状态下只能使用阅后即焚），可以为文本设置密码和阅后即焚，支持二维码分享和各种一键复制，针对代码提供了额外的高亮功能。
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -2992,7 +2992,7 @@
 - [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch
 - [NiuTrans/MTBook](https://github.com/NiuTrans/MTBook) - 《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）
 - [Cryolite/kanachan](https://github.com/Cryolite/kanachan) - A Japanese (Riichi) Mahjong AI Framework
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
