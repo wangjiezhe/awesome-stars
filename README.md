@@ -163,6 +163,7 @@
 
 ## C 
 
+- [aresbit/weixin-agent-c-sdk](https://github.com/aresbit/weixin-agent-c-sdk) - weixin-agent-c-sdk
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -489,6 +490,7 @@
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [dropbox/json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
+- [bartman/git-wip](https://github.com/bartman/git-wip) - help track git Work In Progress branches
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
@@ -813,6 +815,7 @@
 
 ## Go 
 
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [imldy/chatlog](https://github.com/imldy/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库读取及提供mcp服务开源软件）的二次开发，会尽可能同步最新开源解密源码
@@ -937,7 +940,6 @@
 ## HTML 
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
-- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - [多平台接入开发中] ✨ 群日常分析总结插件 - 生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能；支持 QQ (OneBot)、Telegram、Discord
 - [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
@@ -1073,7 +1075,7 @@
 - [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 - [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
-- [write-you-a-scheme-v2/scheme](https://github.com/write-you-a-scheme-v2/scheme) - Write You a Scheme
+- [adamwespiser/scheme](https://github.com/adamwespiser/scheme) - Write You a Scheme
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [BinRoot/Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook) - Accompanying Source Code for the Haskell Data Analysis Cookbook
 - [ThoughtWorksInc/DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy) - A Programming Language for Deep Learning
@@ -2034,7 +2036,7 @@
 - [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
-- [tensorhero-dev/cs_study_plan](https://github.com/tensorhero-dev/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [spring2go/cs_study_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [goolguy007/radioer](https://github.com/goolguy007/radioer) - 高清电台电视台直播源，只收录码率在128kbps或以上的电台以及稳定流畅的电视台直播源。
@@ -2499,6 +2501,7 @@
 
 ## Python 
 
+- [MOVIBALE/Lumina-Layers](https://github.com/MOVIBALE/Lumina-Layers) - A physics-based multi-material FDM color system. Converts images to full-color 3D prints via calibrated light-transmission mixing. Supports 2-8 color systems with slicer-ready 3MF export (BambuStudio/
 - [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7 and MiroThinker-H1, achieve 74.0 and 88.2 on the BrowseComp, respectively.
 - [wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py) - 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本
 - [car-factory/car_apk_manager](https://github.com/car-factory/car_apk_manager) - Open car APK manager. DNS + Web Download
@@ -2520,6 +2523,7 @@
 - [MaxHastings/llm-madness](https://github.com/MaxHastings/llm-madness) - 
 - [zydo/bedtimenews-agent](https://github.com/zydo/bedtimenews-agent) - 睡前消息知识库 Agentic RAG
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
+- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [suiginko/moetype](https://github.com/suiginko/moetype) - 基于萌娘百科词条的输入法词库
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -2571,7 +2575,7 @@
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字
-- [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
+- [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka，基于LLM的智能体，一个致力于了解你，并以真实人类的风格进行交互的数字生命，她不追求完美，她不追求高效，但追求亲切和真实。
 - [k4yt3x/txt2epub](https://github.com/k4yt3x/txt2epub) - A simple tool for converting TXT books into EPUB
 - [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 AI 能力一键分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
 - [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
@@ -2763,7 +2767,7 @@
 - [rushsaker/PKULTD](https://github.com/rushsaker/PKULTD) - PKU  Library Thesis Download
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python) - 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
-- [RicterZ/nhentai](https://github.com/RicterZ/nhentai) - nhentai doujinshi downloader
+- [RicterZ/doujinshi-dl](https://github.com/RicterZ/doujinshi-dl) - Doujinshi downloader framework
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
@@ -2810,7 +2814,7 @@
 - [leanprover/theorem_proving_in_lean](https://github.com/leanprover/theorem_proving_in_lean) - Theorem proving in Lean
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy,VPN,免费代理,网络加速,科学上网,机场订阅,翻墙,梯子 無料プロキシ 무료 프록시 Gratis gratuit Бесплатный прокси gratuito Gratis  Darmowe  Ücretsiz  بروكسي مجاني मुफ्त प्रॉक्सी พร็อกซีฟรี miễn phí
+- [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
 - [redguardtoo/pyim2fcitx](https://github.com/redguardtoo/pyim2fcitx) - Conver pyim dictionary to fcitx dictionary
 - [TheAMM/mpv_crop_script](https://github.com/TheAMM/mpv_crop_script) - A Lua script to take cropped screenshots in mpv, sans external dependencies
 - [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
@@ -3573,7 +3577,6 @@
 - [jahendrie/cheat](https://github.com/jahendrie/cheat) - A Bash reimplementation of Chris Lane's cheat sheet script
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
-- [bartman/git-wip](https://github.com/bartman/git-wip) - help track git Work In Progress branches
 - [EnigmaCurry/arch-ppa](https://github.com/EnigmaCurry/arch-ppa) - Create and maintain personal Arch linux package repositories
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -3789,6 +3792,8 @@
 
 ## TypeScript 
 
+- [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
+- [hao-ji-xing/cc-weixin](https://github.com/hao-ji-xing/cc-weixin) - 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) - Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎
