@@ -777,7 +777,7 @@
 - [wenbinye/emacs-eim](https://github.com/wenbinye/emacs-eim) - Emacs Input Method
 - [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [melpa/melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 - [auto-complete/auto-complete](https://github.com/auto-complete/auto-complete) - Emacs auto-complete package
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
@@ -1722,7 +1722,7 @@
 
 ## Kotlin 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [ldlywt/IdeaMemo](https://github.com/ldlywt/IdeaMemo) - A Beautiful Memo App written with Jetpack Compose.        开源Android闪念笔记App。
 - [Frost819/bv](https://github.com/Frost819/bv) - 哔哩哔哩 的第三方 Android TV 应用 BV 的个人修改版
 - [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
