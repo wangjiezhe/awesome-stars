@@ -321,6 +321,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 ## ai 
 
@@ -436,7 +437,6 @@
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [F8F-1BearCat/CtCI-6th-Edition-CN](https://github.com/F8F-1BearCat/CtCI-6th-Edition-CN) - 《Cracking the Coding Interview, 6th Edition》CtCI中文翻译
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -840,7 +840,7 @@
 ## bot 
 
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
-- [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
+- [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Multi-cloud management with Web SSH terminal, host dashboard, cloud panel, and Telegram bot — 多云管理：Web SSH 终端 + 云管理面板 + Telegram 机器人，支持 OCI / AWS / Azure / SolusVM
 - [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A telegram bot for searching and auto-saving.
 - [koishijs/novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -1165,7 +1165,7 @@
 ## computer-science 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [spring2go/cs_study_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+- [craftcs/cs_study_plan](https://github.com/craftcs/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [huihut/CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF
@@ -1562,7 +1562,6 @@
 
 ## distributed-systems 
 
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 
@@ -2430,7 +2429,7 @@
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [utmhikari/Mahjong-Helper](https://github.com/utmhikari/Mahjong-Helper) - 日麻助手V0.50——百科、教程阅读、牌效分析、天凤观战与对战
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [AweiLoveAndroid/CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge) - :octocat::fire: :star2::star::star::star: :star:  史上最全的BAT大厂Android面试题汇集，以及常用的Android开发的一些技能点，冷门知识点汇总，开发中遇到的坑汇总等干货。
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -3203,6 +3202,7 @@
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
@@ -3268,7 +3268,7 @@
 ## mysql 
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -3537,6 +3537,7 @@
 
 ## others 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [aresbit/weixin-agent-c-sdk](https://github.com/aresbit/weixin-agent-c-sdk) - weixin-agent-c-sdk
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
@@ -3753,7 +3754,7 @@
 - [maitel2020/iptv-self-use](https://github.com/maitel2020/iptv-self-use) - 集多家之源，自检自查，供自家使用
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - 
-- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。
+- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - 扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。没错这里是万象拼音的“罗马帝国”!
 - [PBH-BTN/BTN-Collected-Rules](https://github.com/PBH-BTN/BTN-Collected-Rules) - 由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [kkew3/jieba.vim](https://github.com/kkew3/jieba.vim) - 基于 jieba 的 Vim/Nvim 按词跳转插件
@@ -6364,7 +6365,7 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries and other code
+- [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries
 - [RustStudy/RustBooksChina](https://github.com/RustStudy/RustBooksChina) - 记录国内的Rust书籍与文章
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -6534,7 +6535,7 @@
 
 ## spring 
 
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 ## sql 
 
