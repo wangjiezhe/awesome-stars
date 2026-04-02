@@ -3196,6 +3196,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
@@ -3483,6 +3484,7 @@
 
 ## openai 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) - A curated collection of AI tools, utilities, and resources for developers and creators
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -3537,6 +3539,8 @@
 
 ## others 
 
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
+- [wmpeng/codingplan](https://github.com/wmpeng/codingplan) - 提供国内主流 AI 平台的 Coding Plan套餐对比，智谱、Kimi、MiniMax、阿里云百炼、字节火山方舟、百度千帆
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [aresbit/weixin-agent-c-sdk](https://github.com/aresbit/weixin-agent-c-sdk) - weixin-agent-c-sdk
@@ -3545,7 +3549,7 @@
 - [hao-ji-xing/cc-weixin](https://github.com/hao-ji-xing/cc-weixin) - 
 - [karminski/miromind-skill](https://github.com/karminski/miromind-skill) - MiroMind Deep Research Skill
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claud
+- [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Cla
 - [wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py) - 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本
 - [car-factory/car_apk_manager](https://github.com/car-factory/car_apk_manager) - Open car APK manager. DNS + Web Download
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
@@ -3663,7 +3667,7 @@
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
-- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年3月更新，百度网盘(百度云)不限速工具分享。
+- [dongyubin/Baidu-VIP](https://github.com/dongyubin/Baidu-VIP) - 2026年4月更新，百度网盘(百度云)不限速工具分享。
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
