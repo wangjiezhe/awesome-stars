@@ -818,7 +818,7 @@
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [imldy/chatlog](https://github.com/imldy/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-- [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库读取及提供mcp服务开源软件）的二次开发，会尽可能同步最新开源解密源码
+- [teest114514/chatlog_alpha](https://github.com/teest114514/chatlog_alpha) - 原 [chatlog]项目（一个微信数据库解密读取及提供mcp服务、http服务的开源软件），现已支持通过微信clawbot接口推送消息，可以实时转发全部或指定消息到clawbot
 - [hulutech-web/novel-video-workflow](https://github.com/hulutech-web/novel-video-workflow) - 完全本地的AI小说视频生成工作流，每个人都能成为导演！
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home.
