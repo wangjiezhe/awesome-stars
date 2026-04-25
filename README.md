@@ -608,7 +608,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [PKUHelper/pkuipgw](https://github.com/PKUHelper/pkuipgw) - A CLI for PKU IP Gateway connection.
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
@@ -2827,7 +2827,7 @@
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入
-- [redguardtoo/pyim2fcitx](https://github.com/redguardtoo/pyim2fcitx) - Conver pyim dictionary to fcitx dictionary
+- [redguardtoo/pyim2fcitx](https://github.com/redguardtoo/pyim2fcitx) - Convert pyim dictionary to fcitx dictionary
 - [TheAMM/mpv_crop_script](https://github.com/TheAMM/mpv_crop_script) - A Lua script to take cropped screenshots in mpv, sans external dependencies
 - [BingLingGroup/autosub](https://github.com/BingLingGroup/autosub) - Command-line utility to transcribe/translate from video/audio/subtitles to subtitles
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -3830,7 +3830,7 @@
 - [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
+- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of Git projects to infer coding work intensity.
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
