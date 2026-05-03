@@ -543,7 +543,6 @@
 - [idealclover/UniTypecho](https://github.com/idealclover/UniTypecho) - 🎉 多平台 Typecho 移动应用解决方案 可打包为 APP/小程序
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
-- [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [yscoder/hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
@@ -1370,6 +1369,7 @@
 - [upupming/docsify-katex](https://github.com/upupming/docsify-katex) - :symbols:  KaTeX support for docsify
 - [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 - [theme-next/hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc) - Utteranc.es comment system for NexT.
+- [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
 - [Mapaler/GetOneDriveDirectLink](https://github.com/Mapaler/GetOneDriveDirectLink) - 批量获取OneDrive直链
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [paulzzh/Majsoul-Chong](https://github.com/paulzzh/Majsoul-Chong) - 为雀魂麻将Majsoul添加最近大铳和最近炸庄功能    https://greasyfork.org/zh-CN/scripts/388241
@@ -2000,7 +2000,6 @@
 - [Tunas1337/UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 - [netsecfish/dlink](https://github.com/netsecfish/dlink) - 
 - [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) - Chinese CCTV List (IPV6)
-- [Translate-with-LOVE/Ra2-zh_hans-main](https://github.com/Translate-with-LOVE/Ra2-zh_hans-main) - 
 - [moshowgame/ra2yuri](https://github.com/moshowgame/ra2yuri) - 这是红色警戒2尤里的复仇，WIN10版下载、MOD攻略等，怀念青春，红色年华，天启、基洛夫、特斯拉、光棱、巨炮、尤里X与你同在。
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Leymore/ruozhiba](https://github.com/Leymore/ruozhiba) - 
@@ -2256,7 +2255,6 @@
 - [uhub/awesome-coq](https://github.com/uhub/awesome-coq) - A curated list of awesome Coq frameworks, libraries and software.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [karthikncode/nlp-datasets](https://github.com/karthikncode/nlp-datasets) - A list of datasets/corpora for NLP tasks, in reverse chronological order.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
 - [tigerneil/neural-networks-and-deep-learning-zh-cn](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn) - 
 - [ysh329/Chinese-UFLDL-Tutorial](https://github.com/ysh329/Chinese-UFLDL-Tutorial) - [UNMAINTAINED] 非监督特征学习与深度学习中文教程，该版本翻译自新版 UFLDL Tutorial 。建议新人们去学习斯坦福的CS231n课程，该门课程在网易云课堂上也有一个配有中文字幕的版本。
@@ -2501,6 +2499,7 @@
 
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+- [Translate-with-LOVE/Ra2-zh_hans-main](https://github.com/Translate-with-LOVE/Ra2-zh_hans-main) - 
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [EhTagTranslation/Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
 - [enko/EmacsChocolateyPackage](https://github.com/enko/EmacsChocolateyPackage) - source code for the emacs package on chocolatey.org
