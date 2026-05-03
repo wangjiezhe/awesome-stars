@@ -4980,7 +4980,6 @@
 - [phatpiglet/autocorrect](https://github.com/phatpiglet/autocorrect) - Python 3 Spelling Corrector
 - [mflatt/plai-typed](https://github.com/mflatt/plai-typed) - 
 - [darkerego/mips-binaries](https://github.com/darkerego/mips-binaries) - Various binaries for the mips architecture.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [BinRoot/Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook) - Accompanying Source Code for the Haskell Data Analysis Cookbook
 - [littlecodersh/danmu](https://github.com/littlecodersh/danmu) - Python 弹幕包 A live danmu package for python
