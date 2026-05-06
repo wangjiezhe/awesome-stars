@@ -520,6 +520,7 @@
 
 ## CMake 
 
+- [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN) - CMake 教程 Modern-CMake 的简体中文翻译，中文版 Gitbook ：https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/ Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cm
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
@@ -687,7 +688,6 @@
 - [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) - 在docker里运行wechat，可以通过web或者VNC访问wechat
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [petersendev/hassio-addons](https://github.com/petersendev/hassio-addons) - collection of hass.io addons including sonarr, radarr and nzbget
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [ddadaal/vpn-as-proxy](https://github.com/ddadaal/vpn-as-proxy) - Use VPN like a proxy with docker
 - [bclswl0827/v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift) - 用于在 Openshift 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
 - [xiaokaixuan/ss-v2ray-plugin](https://github.com/xiaokaixuan/ss-v2ray-plugin) - 一键部署 SS+V2Ray-plugin 到 Heroku/KubeSail
@@ -941,7 +941,6 @@
 
 ## HTML 
 
-- [tw93/Luo](https://github.com/tw93/Luo) - Luo 落文：正在造字中的中文字体，面向纸面排版和长文阅读。
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
@@ -1311,6 +1310,7 @@
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [honvl/Majsoul-to-NAGA](https://github.com/honvl/Majsoul-to-NAGA) - Use Mahjong Soul Logs with NAGA AI analysis
 - [zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide) - 杭州购房指南，根据个人购房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -1470,7 +1470,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [52cik/github-hans](https://github.com/52cik/github-hans) - [废弃] {官方中文马上就来了} GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [iammapping/wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jaywcjlove/oscnews](https://github.com/jaywcjlove/oscnews) - Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。
 - [saucxs/watermark-dom](https://github.com/saucxs/watermark-dom) - watermark.js是基于DOM对象实现的BS系统的水印，确保系统保密性，安全性，降低数据泄密风险，简单轻量，支持多属性配置，动态计算水印，水印防被删（监听水印组件元素删除并重新添加，监听改变水印的属性并重新添加）。1、支持2种方式导入使用，2、水印插件-testTool（测试工具），3、内置3种全局API方法，等等。欢迎访问：
@@ -1977,7 +1977,6 @@
 - [kickstarter/kickstarter-autodesk-3d](https://github.com/kickstarter/kickstarter-autodesk-3d) - Kickstarter Autodesk 3D Printer Evaluation
 - [YihuiLu/DIY-3D-printer-heater](https://github.com/YihuiLu/DIY-3D-printer-heater) - A simple and easy-to-use 3D printer chamber temperature heating module
 - [PurpleHack/ToaSD_reader](https://github.com/PurpleHack/ToaSD_reader) - 
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -2526,6 +2525,8 @@
 
 ## Python 
 
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
+- [tw93/Luo](https://github.com/tw93/Luo) - Luo 落文：正在造字中的中文字体，面向纸面排版和长文阅读。
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
@@ -2666,6 +2667,7 @@
 - [CenturySturgeon/GF-Gear-Generator](https://github.com/CenturySturgeon/GF-Gear-Generator) - Main repo of the GF Gear Generator for Autodesk's Fusion 360.
 - [tapnair/HelixGenerator](https://github.com/tapnair/HelixGenerator) - Fusion 360 addin to generate helical curves
 - [thomasa88/ParametricText](https://github.com/thomasa88/ParametricText) - Fusion 360™ add-in for creating Text Parameters in sketches.
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 - [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
