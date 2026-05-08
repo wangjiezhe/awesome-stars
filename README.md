@@ -163,6 +163,7 @@
 
 ## C 
 
+- [PacktPublishing/The-Modern-Cpp-Challenge](https://github.com/PacktPublishing/The-Modern-Cpp-Challenge) - The Modern C++ Challenge, published by Packt
 - [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 - [aresbit/weixin-agent-c-sdk](https://github.com/aresbit/weixin-agent-c-sdk) - weixin-agent-c-sdk
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -1461,7 +1462,7 @@
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [chunyenHuang/hummusRecipe](https://github.com/chunyenHuang/hummusRecipe) - A powerful PDF tool for NodeJS based on HummusJS.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 496.2 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 499 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
@@ -2526,6 +2527,7 @@
 
 ## Python 
 
+- [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [tw93/Luo](https://github.com/tw93/Luo) - Luo 落文：正在造字中的中文字体，面向纸面排版和长文阅读。
@@ -3844,7 +3846,7 @@
 
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Laurent00TT/deepseek-v4-vscode-chat](https://github.com/Laurent00TT/deepseek-v4-vscode-chat) - Deepseek V4 for Copilot
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -3873,7 +3875,7 @@
 - [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
-- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
+- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 - [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of Git projects to infer coding work intensity.
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 🇨🇳 功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)
 - [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
