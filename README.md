@@ -1555,7 +1555,7 @@
 - [mping/5to6](https://github.com/mping/5to6) - Converts es5 to es6, using simple and safe transforms
 - [mixu/nwm](https://github.com/mixu/nwm) - Tiling window manager for X11 written in Node.js
 - [surbhioberoi/github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [lihongxun945/jquery-weui](https://github.com/lihongxun945/jquery-weui) - 由于前端业界早已以React/Vue/Angular为主，个人也多年未使用过jQuery，此仓库已不再维护。推荐大家尽快转向 AntD、Element等更先进的UI库，https://ant.design/, https://element.eleme.io/#/zh-CN
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [ramoona/banks-db](https://github.com/ramoona/banks-db) - Community driven database to get bank info (name, brand color etc.) by bankcard prefix (BIN)
@@ -2525,6 +2525,7 @@
 
 ## Python 
 
+- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 - [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
@@ -3492,6 +3493,7 @@
 
 ## Shell 
 
+- [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
@@ -3522,7 +3524,6 @@
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 Nginx 或 Caddy(v2 版) 配合 V2Ray(v4 版) 或 Xray、Caddy(v2 版) 加专用插件、Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成特定插件的 Caddy(v2 版) 文件，分享给大家食用及自己备份。
-- [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
@@ -3694,6 +3695,7 @@
 
 ## TeX 
 
+- [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing presentations
 - [fenglielie/latexzero](https://github.com/fenglielie/latexzero) - LaTeX Templates for Mathematical Notes and Slides
 - [zongpingding/zTeX_bundle](https://github.com/zongpingding/zTeX_bundle) - A LaTeX bundle for writing notes, books, and slides — with support for diagrams and interactive work with Python, gnuplot and Mathematica. Have fun!
 - [stevenliuyi/latex-alpha2](https://github.com/stevenliuyi/latex-alpha2) - LaTeX package that embeds and executes Wolfram Language (Mathematica) codes inside LaTeX documents
@@ -3841,6 +3843,8 @@
 
 ## TypeScript 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Laurent00TT/deepseek-v4-vscode-chat](https://github.com/Laurent00TT/deepseek-v4-vscode-chat) - Deepseek V4 for Copilot
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -3910,7 +3914,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Sitoi/ai-commit](https://github.com/Sitoi/ai-commit) - Use OpenAI / Azure OpenAI / DeepSeek / Gemini API to review Git changes, generate conventional commit messages that meet the conventions, simplify the commit process, and keep the commit conventions c
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
