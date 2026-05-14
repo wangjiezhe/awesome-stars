@@ -952,7 +952,6 @@
 - [cporter202/ai-agent-tools](https://github.com/cporter202/ai-agent-tools) - A curated collection of AI tools, utilities, and resources for developers and creators
 - [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk is a beautiful browser extension that allows you to use AI to read page content and have multiple conversations.
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; 
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -1004,7 +1003,6 @@
 
 ## chatgpt-api 
 
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
 ## chrome 
@@ -1099,6 +1097,7 @@
 
 ## cli 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
@@ -1181,6 +1180,7 @@
 
 ## code-review 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
 ## coding 
@@ -2025,6 +2025,7 @@
 
 ## git 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2796,6 +2797,8 @@
 
 ## latex 
 
+- [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing presentations
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [fenglielie/latexzero](https://github.com/fenglielie/latexzero) - LaTeX Templates for Mathematical Notes and Slides
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
 - [ctypst/zh-kit](https://github.com/ctypst/zh-kit) - 一个用于提供中文支持的 Typst 基础包。是 Project CTypst 的一部分。
@@ -3009,7 +3012,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
-- [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
@@ -3635,6 +3637,7 @@
 
 ## others 
 
+- [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [PacktPublishing/The-Modern-Cpp-Challenge](https://github.com/PacktPublishing/The-Modern-Cpp-Challenge) - The Modern C++ Challenge, published by Packt
 - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN) - CMake 教程 Modern-CMake 的简体中文翻译，中文版 Gitbook ：https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/ Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cm
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
@@ -4034,7 +4037,6 @@
 - [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat) - DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11
 - [Translate-with-LOVE/Ra2-zh_hans-main](https://github.com/Translate-with-LOVE/Ra2-zh_hans-main) - 
 - [moshowgame/ra2yuri](https://github.com/moshowgame/ra2yuri) - 这是红色警戒2尤里的复仇，WIN10版下载、MOD攻略等，怀念青春，红色年华，天启、基洛夫、特斯拉、光棱、巨炮、尤里X与你同在。
-- [LLM-Red-Team/free-api-hub](https://github.com/LLM-Red-Team/free-api-hub) - 🥳 free-api系列项目集合共享资源，快来PR！
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [QiShaoXuan/live2DModel](https://github.com/QiShaoXuan/live2DModel) - 页面上加载的模型
 - [N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - 一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run
@@ -5992,6 +5994,7 @@
 
 ## python 
 
+- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
 - [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -6350,6 +6353,7 @@
 
 ## react 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
@@ -6380,7 +6384,7 @@
 - [nicejade/Front-end-tutorial](https://github.com/nicejade/Front-end-tutorial) - :panda_face: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [nefe/redux-in-chinese](https://github.com/nefe/redux-in-chinese) - Redux 中文文档
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [markpluslabs/react-markplus](https://github.com/markpluslabs/react-markplus) - A React markdown editor and previewer.
@@ -6889,6 +6893,7 @@
 
 ## tui 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -6908,6 +6913,7 @@
 
 ## typescript 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [KyleBing/map](https://github.com/KyleBing/map) - 路书，路线规划，高德地图 api 示例，地图信息 vue3 ts vite
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart_with_upwards_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 LeekFund turns your VS Code and Cursor into a real-time stock, fund, and futures tracker. Stay informed without leaving your flow.
