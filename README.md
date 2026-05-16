@@ -947,7 +947,7 @@
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [vcb-s/VCB-S_Collation](https://github.com/vcb-s/VCB-S_Collation) - Collation standards, guidance and naming samples.
-- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [jitOffice/jit-viewer-sdk](https://github.com/jitOffice/jit-viewer-sdk) - 一款强大的office文档预览sdk，支持word，pdf，markdown，ppt，excel等文件的预览
 - [wmpeng/codingplan](https://github.com/wmpeng/codingplan) - 国内主流 AI 平台的 Coding Plan对比，智谱、Kimi、MiniMax、阿里云百炼、字节火山方舟、百度千帆
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -1149,7 +1149,6 @@
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [jackpal/Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - [Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [bpellin/keepassdroid](https://github.com/bpellin/keepassdroid) - KeePass implementation for android
 - [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
@@ -1400,6 +1399,7 @@
 - [zthxxx/hexo-theme-Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) - A theme of Hexo for personal wiki which seems like Wikitten style.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 - [nswbmw/N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [Fndroid/tg_push_bot](https://github.com/Fndroid/tg_push_bot) - Telegram推送机器人
 - [MoePlayer/hexo-tag-dplayer](https://github.com/MoePlayer/hexo-tag-dplayer) - Embed dplayer in Hexo posts/pages
 - [MoePlayer/hexo-tag-aplayer](https://github.com/MoePlayer/hexo-tag-aplayer) - Embed aplayer in Hexo posts/pages
@@ -2619,7 +2619,6 @@
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; 
 - [k4yt3x/txt2epub](https://github.com/k4yt3x/txt2epub) - A simple tool for converting TXT books into EPUB
 - [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 AI 能力一键分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
 - [TianmuTNT/iptv](https://github.com/TianmuTNT/iptv) - 🎉 自用IPTV源
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -3904,6 +3903,7 @@
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 使用 AI 能力一键翻译 小说、游戏、字幕 等文本内容的次世代文本翻译器
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
