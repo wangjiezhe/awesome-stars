@@ -4280,7 +4280,7 @@
 - [eastonman/material](https://github.com/eastonman/material) - New Material —— A Material Design Theme for Typecho
 - [pagecho/maupassant](https://github.com/pagecho/maupassant) - A simple typecho template.
 - [dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy) - Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/
-- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+- [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) - A cute running cat animation on your windows taskbar.
 - [goolguy007/radioer](https://github.com/goolguy007/radioer) - 高清电台电视台直播源，只收录码率在128kbps或以上的电台以及稳定流畅的电视台直播源。
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
