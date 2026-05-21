@@ -913,7 +913,7 @@
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
@@ -2528,6 +2528,7 @@
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [tw93/Luo](https://github.com/tw93/Luo) - Luo 落文：正在造字中的中文字体，面向纸面排版和长文阅读。
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [walkinglabs/hands-on-modern-rl](https://github.com/walkinglabs/hands-on-modern-rl) - 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 - [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
@@ -2589,6 +2590,7 @@
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
@@ -3496,7 +3498,6 @@
 ## Shell 
 
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
@@ -3894,7 +3895,6 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
 - [idootop/migpt-next](https://github.com/idootop/migpt-next) - 让小爱音箱「听你的」，解锁无限可能。
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
