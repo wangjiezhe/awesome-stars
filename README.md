@@ -1951,7 +1951,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [Warren2060/FreeFontCollection](https://github.com/Warren2060/FreeFontCollection) - 年度更新的精选字体合集。
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [lxgw/SimXiZhi](https://github.com/lxgw/SimXiZhi) - 新晰黑体＆新致宋体：「霞鹜新晰黑」「霞鹜新致宋」兼容 Windows 内置「黑体」「宋体」度量数据和字符集的版本，基于 IPA Gothic、IPA Mincho 衍生。
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
@@ -2234,7 +2234,6 @@
 - [jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn) - 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [lotuc/PLAI-cn](https://github.com/lotuc/PLAI-cn) - Programming Languages: Application and Interpretation
-- [ligechina/Deep_Learning_Course](https://github.com/ligechina/Deep_Learning_Course) - 
 - [JustFollowUs/Machine-Learning](https://github.com/JustFollowUs/Machine-Learning) - 
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
@@ -2763,6 +2762,7 @@
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+- [laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [benmoose39/YouTube_to_m3u](https://github.com/benmoose39/YouTube_to_m3u) - Grabs m3u from YouTube live.
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
@@ -3529,7 +3529,6 @@
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 Nginx 或 Caddy(v2 版) 配合 V2Ray(v4 版) 或 Xray、Caddy(v2 版) 加专用插件、Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成特定插件的 Caddy(v2 版) 文件，分享给大家食用及自己备份。
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-- [laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime) - 收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects
 - [stefantalpalaru/gentoo-overlay](https://github.com/stefantalpalaru/gentoo-overlay) - Gentoo overlay
 - [MattiaGaspa/gentoolinux-ohmyzsh](https://github.com/MattiaGaspa/gentoolinux-ohmyzsh) - Gentoo plugins for oh-my-zsh framework
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
@@ -3852,7 +3851,7 @@
 - [Laurent00TT/deepseek-v4-vscode-chat](https://github.com/Laurent00TT/deepseek-v4-vscode-chat) - Deepseek V4 for Copilot
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
