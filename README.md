@@ -828,7 +828,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
 - [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
@@ -2614,7 +2614,7 @@
 - [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 👀「大模型」2小时从0训练65M参数的视觉多模态VLM！Train a 65M-parameter VLM from scratch in just 2h!
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; 
 - [k4yt3x/txt2epub](https://github.com/k4yt3x/txt2epub) - A simple tool for converting TXT books into EPUB
 - [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 AI 能力一键分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
@@ -3371,7 +3371,7 @@
 ## Rust 
 
 - [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple d
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI, CN-region endpoint, CNB mirror.
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch) - license patcher for davinci resolve studio
