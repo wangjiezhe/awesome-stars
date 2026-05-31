@@ -308,6 +308,7 @@
 
 ## C# # 
 
+- [Jack251970/ContextMenuManager](https://github.com/Jack251970/ContextMenuManager) - 🖱️ 一个管理 Windows 右键上下文菜单的程序（支持Windows 7 - 11）A program to manage the Windows right-click context menu with support of Windows 7 - 11
 - [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
