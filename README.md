@@ -817,6 +817,7 @@
 
 ## Go 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
@@ -1783,6 +1784,7 @@
 
 ## Lua 
 
+- [al-ma-dev/tkz-elements](https://github.com/al-ma-dev/tkz-elements) - 
 - [open-guji/luatex-cn](https://github.com/open-guji/luatex-cn) - 支持中文古籍竖排，长期愿景希望基于LuaTeX完整支持中文排版。
 - [takushun-wu/WenJinMincho](https://github.com/takushun-wu/WenJinMincho) - 可免费商用的大字符集宋体字库，以OFL协议发布。/A large character set fonts in Songti(Mincho) style. Licensed under the SIL OFL 1.1.
 - [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) - 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。
@@ -1850,7 +1852,6 @@
 - [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [blynn/gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
-- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
@@ -1928,6 +1929,7 @@
 
 ## Others 
 
+- [deekur/gaokaomath](https://github.com/deekur/gaokaomath) - 历年高考数学真题
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [xiaolai/north-star-system-prompt](https://github.com/xiaolai/north-star-system-prompt) - 
 - [Cuimao777/cuimao-translator](https://github.com/Cuimao777/cuimao-translator) - 一键将英文PDF翻译为流畅中文的Claude Code技能
@@ -3153,6 +3155,7 @@
 - [kvalle/diy-lang](https://github.com/kvalle/diy-lang) - A hands-on, test driven guide to implementing a simple programming language
 - [andelf/fuck12306](https://github.com/andelf/fuck12306) - 12306 图片验证码识别测试
 - [tangqiaoboy/iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
+- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension
 - [CloudSide/VdiskSDK-Python](https://github.com/CloudSide/VdiskSDK-Python) - Python SDK For Vdisk
 - [warriorpaw/z-dns](https://github.com/warriorpaw/z-dns) - Automatically exported from code.google.com/p/z-dns
 - [warriorpaw/z-ssl-proxy](https://github.com/warriorpaw/z-ssl-proxy) - A socks5 proxy through SSL
@@ -3711,6 +3714,7 @@
 
 ## TeX 
 
+- [al-ma-dev/tkz-euclide](https://github.com/al-ma-dev/tkz-euclide) - Euclidean geometry macros for TikZ and LaTeX
 - [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing presentations
 - [fenglielie/latexzero](https://github.com/fenglielie/latexzero) - LaTeX Templates for Mathematical Notes and Slides
 - [zongpingding/zTeX_bundle](https://github.com/zongpingding/zTeX_bundle) - A LaTeX bundle for writing notes, books, and slides — with support for diagrams and interactive work with Python, gnuplot and Mathematica. Have fun!
