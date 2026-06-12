@@ -220,6 +220,7 @@
 - [alpertron/calculators](https://github.com/alpertron/calculators) - Source code of calculators hosted at https://www.alpertron.com.ar
 - [imbushuo/PrimeG2Pkg](https://github.com/imbushuo/PrimeG2Pkg) - Running Windows on smartphone is not new. How about a calculator?
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
 - [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [SukkaW/Nali](https://github.com/SukkaW/Nali) - 🔧 An IP Geolocation Lookup Utils
@@ -356,7 +357,6 @@
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [pandolia/easy-service](https://github.com/pandolia/easy-service) - 
 - [jjw24/Wox](https://github.com/jjw24/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
 - [zyzsdy/biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制
 - [iccfish/Cn12306UnofficalClient](https://github.com/iccfish/Cn12306UnofficalClient) - 12306非官方客户端
@@ -1233,6 +1233,7 @@
 
 ## JavaScript 
 
+- [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 - [AnYi-0/Translator](https://github.com/AnYi-0/Translator) - 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的离线轻量级翻译扩展，支持自动检测网页语言、自动翻译网页、离线翻译（首次可能需下载模型）、快速出结果。
 - [UB-Mannheim/zotero-ocr](https://github.com/UB-Mannheim/zotero-ocr) - Zotero Plugin for OCR
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
@@ -1311,7 +1312,6 @@
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [eric03742/hexo-mahgen](https://github.com/eric03742/hexo-mahgen) - Mahgen plugin for Hexo.
-- [wcb1969/iptv](https://github.com/wcb1969/iptv) - tv
 - [StaZhu/enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) - A guide that teach you enable hardware HEVC decoding & encoding for Chrome / Edge, or build a custom version of Chromium / Electron that supports hardware & software HEVC decoding and hardware HEVC en
 - [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
 - [garywill/cc-visualize](https://github.com/garywill/cc-visualize) - 既适合程序员，也适合中文电子文字整编人员(in beta)。汉字繁、简、异、兼、笔、变等关联关系可视化。非寻常汉字字符、同形字符攻击、不可打印字符等检视工具。结合OpenCC、Unicode等数据 | Chinese characters relations or vatiants (simplified, traditional etc) visualization. Potential Uni
@@ -3392,6 +3392,7 @@
 
 ## Rust 
 
+- [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple d
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
@@ -3867,6 +3868,7 @@
 
 ## TypeScript 
 
+- [TeXlyre/texlyre-busytex](https://github.com/TeXlyre/texlyre-busytex) - WASM BusyTeX API for TexLive 2026 (01.03.26) supporting LuaTeX, PdfTeX, & XeTeX in the browser
 - [hhf666feng/obsidian-clipper-zh](https://github.com/hhf666feng/obsidian-clipper-zh) - Obsidian Web Clipper 中文优化版：修复微信公众号文章图片懒加载、wx_lazy/data-src 导致的本地保存图片失败，支持更可靠裁剪公众号原图。
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
