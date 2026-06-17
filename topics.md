@@ -1675,7 +1675,7 @@
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
@@ -3026,6 +3026,7 @@
 
 ## llm 
 
+- [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型驱动的拼音输入法
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [xunbu/docutranslate](https://github.com/xunbu/docutranslate) - 文档（小说、论文、字幕）翻译工具（支持 pdf/word/excel/json/epub/srt...）Document (Novel, Thesis, Subtitle) Translation Tool (Supports pdf/word/excel/json/epub/srt...)
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
@@ -3395,7 +3396,7 @@
 
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [Majjcom/ncmppGui](https://github.com/Majjcom/ncmppGui) - 一个使用C++编写的极速ncm转换GUI工具
-- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -4535,7 +4536,7 @@
 - [archlinux-downgrade/downgrade](https://github.com/archlinux-downgrade/downgrade) - Downgrade packages in Arch Linux
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
-- [cdp2020/v2ray](https://github.com/cdp2020/v2ray) - telegram number: @cnhumanright
+- [cdp2020/v2ray](https://github.com/cdp2020/v2ray) - telegram number: https://t.me/fanqianghui
 - [hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015) - A biblatex implementation of the GB/T7714-2015 bibliography style  || GB/T 7714-2015 参考文献著录和标注的biblatex样式包
 - [btwise/HOTPATCH](https://github.com/btwise/HOTPATCH) - 关于黑苹果的综合补丁包
 - [wangpengfei15975/ktPlayer](https://github.com/wangpengfei15975/ktPlayer) - :tv: A simple & pretty HTML5 video player
