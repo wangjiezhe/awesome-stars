@@ -1234,6 +1234,7 @@
 
 ## JavaScript 
 
+- [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 - [AnYi-0/Translator](https://github.com/AnYi-0/Translator) - 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的离线轻量级翻译扩展，支持自动检测网页语言、自动翻译网页、离线翻译（首次可能需下载模型）、快速出结果。
@@ -2331,7 +2332,7 @@
 - [cundi/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python](https://github.com/cundi/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python) - 《Python算法和数据结构问题解答》
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [ksco/BuildYourOwnLispCn](https://github.com/ksco/BuildYourOwnLispCn) - Build Your Own Lisp 中文版
-- [lcdevelop/MachineLearningCourse](https://github.com/lcdevelop/MachineLearningCourse) - 机器学习精简入门教程
+- [chinawithfrank/MachineLearningCourse](https://github.com/chinawithfrank/MachineLearningCourse) - 机器学习精简入门教程
 - [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。
 - [endymecy/spark-graphx-source-analysis](https://github.com/endymecy/spark-graphx-source-analysis) - spark graphx 的原理及相关操作的源码解析
@@ -3081,7 +3082,7 @@
 - [nikipore/alfred-firefoxbookmarks](https://github.com/nikipore/alfred-firefoxbookmarks) - Alfred Workflow: Access to Firefox Bookmarks and User Input History
 - [logbird/360yunpan](https://github.com/logbird/360yunpan) - 360YunPan Command-line tools, support: Linux Mac Windows
 - [PythonTG/PythonTG](https://github.com/PythonTG/PythonTG) - Python Translation Group
-- [lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse) - 自己动手做聊天机器人教程
+- [chinawithfrank/ChatBotCourse](https://github.com/chinawithfrank/ChatBotCourse) - 自己动手做聊天机器人教程
 - [huangzworks/A-Gentle-Introduction-To-Haskell-Chinese-Edition](https://github.com/huangzworks/A-Gentle-Introduction-To-Haskell-Chinese-Edition) - Haskell官方教程的中文翻译版。
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
@@ -3526,6 +3527,7 @@
 
 ## Shell 
 
+- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
