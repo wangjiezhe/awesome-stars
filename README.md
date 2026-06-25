@@ -1935,6 +1935,7 @@
 
 ## Others 
 
+- [vesaaa/vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
 - [llm2014/llm_benchmark](https://github.com/llm2014/llm_benchmark) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [deekur/gaokaomath](https://github.com/deekur/gaokaomath) - 历年高考数学真题
