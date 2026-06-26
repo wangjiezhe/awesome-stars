@@ -376,6 +376,8 @@
 
 ## C++ 
 
+- [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependenc
+- [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast hashtable
 - [WellsWang/vckb](https://github.com/WellsWang/vckb) - 创建一个可以灵活定义的USB键盘
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
@@ -1012,7 +1014,7 @@
 - [CyC2018/Text-Typesetting](https://github.com/CyC2018/Text-Typesetting) - :art: 中英混排文档在线排版工具
 - [wangshub/romantic_page](https://github.com/wangshub/romantic_page) - 👫 程序员的表白
 - [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-- [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+- [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版 CSS，面向现代中文阅读优化字体、行高、CJK 断行、中西文间距与着重号。
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [aosabook/aosabook](https://github.com/aosabook/aosabook) - The Architecture of Open Source Applications
 - [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中文版
@@ -3458,7 +3460,7 @@
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code) - 
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
