@@ -664,7 +664,6 @@
 
 ## automation 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -843,7 +842,6 @@
 
 ## bash 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
@@ -1109,7 +1107,6 @@
 
 ## claude-code 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1636,7 +1633,6 @@
 
 ## developer-tools 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -3358,7 +3354,6 @@
 
 ## mcp 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
@@ -4978,7 +4973,7 @@
 - [cundi/Python-PySide-PyQt-Tutorial](https://github.com/cundi/Python-PySide-PyQt-Tutorial) - PySide 与 PyQt 入门教程集合
 - [xiajian/rhg-zh](https://github.com/xiajian/rhg-zh) - Ruby Hacking Guide中文版版翻译
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 - [esterTion/Youku-HTML5-Player](https://github.com/esterTion/Youku-HTML5-Player) - 一个适配优酷的简单易用的HTML5播放器
 - [jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books) - 如果有人让你推荐前端技术书，请让他看这个列表
@@ -6656,7 +6651,6 @@
 
 ## security 
 
-- [yurukusa/cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) - One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 890+ example hooks, MIT, zero dependencies — built from real autonomous 
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
