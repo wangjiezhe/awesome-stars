@@ -164,6 +164,8 @@
 
 ## C 
 
+- [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
+- [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - 
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [PacktPublishing/The-Modern-Cpp-Challenge](https://github.com/PacktPublishing/The-Modern-Cpp-Challenge) - The Modern C++ Challenge, published by Packt
@@ -821,7 +823,7 @@
 
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native t
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
@@ -2541,6 +2543,7 @@
 
 ## Python 
 
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [wen1701/FanqieRankTracker](https://github.com/wen1701/FanqieRankTracker) - 番茄女频榜单
 - [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 - [Agents365-ai/video-podcast-maker](https://github.com/Agents365-ai/video-podcast-maker) - Automated 4K video podcast creation for coding agents
@@ -3898,7 +3901,7 @@
 - [Laurent00TT/deepseek-v4-vscode-chat](https://github.com/Laurent00TT/deepseek-v4-vscode-chat) - Deepseek V4 for Copilot
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
