@@ -2438,6 +2438,7 @@
 
 ## home-assistant 
 
+- [banto6/haier](https://github.com/banto6/haier) - 海尔智能家居设备接入HomeAssistant
 - [jimz011/hki-elements](https://github.com/jimz011/hki-elements) - HKI Elements Custom Cards Suite for Home Assistant
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [hacs-china/integration](https://github.com/hacs-china/integration) - 🇨🇳 HACS 极速版，无需登陆Github
