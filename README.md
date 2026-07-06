@@ -1237,6 +1237,8 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
@@ -1364,7 +1366,7 @@
 - [welai/glow-sans](https://github.com/welai/glow-sans) - SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。
 - [SeaLoong/BLRHH](https://github.com/SeaLoong/BLRHH) - Bilibili直播间挂机助手3 - 油猴脚本。
 - [AlanDecode/Typecho-Theme-VOID](https://github.com/AlanDecode/Typecho-Theme-VOID) - 🐒 猴子打字机原理的产物
-- [wangpengfei15975/ktPlayer](https://github.com/wangpengfei15975/ktPlayer) - :tv: A simple & pretty HTML5 video player
+- [feilongcheng/ktPlayer](https://github.com/feilongcheng/ktPlayer) - :tv: A simple & pretty HTML5 video player
 - [breakwa11/gfw_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw_whitelist
 - [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk) - 钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 - [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
@@ -4107,7 +4109,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
-- [justjavac/Google-IPs](https://github.com/justjavac/Google-IPs) - :us: Google 全球 IP 地址库
+- [justjavac/google-ips](https://github.com/justjavac/google-ips) - Google 全球 IP 地址库，按国家/地区整理并提供 npm 查询 API Google IP address list grouped by country with JSON data and query helpers.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## Typst 
