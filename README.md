@@ -474,6 +474,7 @@
 - [klb3713/aoapc-book](https://github.com/klb3713/aoapc-book) - 《算法竞赛入门经典》例题习题代码
 - [aoapc-book/aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd) - Source codes for book &lt;&lt;&lt;BeginningAlgorithmContests&gt;&gt; Second edition
 - [pipesocks/pipesocks](https://github.com/pipesocks/pipesocks) - A pipe-like SOCKS5 tunnel system.
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1482,7 +1483,7 @@
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [chunyenHuang/hummusRecipe](https://github.com/chunyenHuang/hummusRecipe) - A powerful PDF tool for NodeJS based on HummusJS.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 499 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 504 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
@@ -1945,6 +1946,7 @@
 
 ## Others 
 
+- [renhai-lab/easy-homeassistant](https://github.com/renhai-lab/easy-homeassistant) - Homeassistant极简安装法
 - [vesaaa/vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
 - [llm2014/llm_benchmark](https://github.com/llm2014/llm_benchmark) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -2215,7 +2217,6 @@
 - [monklof/Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) - 后端开发面试题，翻译自 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook) - :blue_book: 电子书 -《Real-Time Rendering 3rd》提炼总结 | 全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time Rendering 3rd》，也可以把它看做《Real-Time Rendering 3rd》的解读版与配套学习伴侣，或者《Real-Time Rendering 4th》的前置阅读材料。
 - [KieSun/Front-end-knowledge](https://github.com/KieSun/Front-end-knowledge) - 前端知识集锦
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -2545,6 +2546,8 @@
 
 ## Python 
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
+- [ARC-MX/sgcc_electricity_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
 - [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
 - [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) - J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
 - [banto6/haier](https://github.com/banto6/haier) - 海尔智能家居设备接入HomeAssistant
