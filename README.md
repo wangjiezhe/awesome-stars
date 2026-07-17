@@ -1322,7 +1322,6 @@
 - [eschnett/zotero-citationcounts](https://github.com/eschnett/zotero-citationcounts) - Zotero plugin for auto-fetching citation counts from various sources
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [956065487/zhiboyuan](https://github.com/956065487/zhiboyuan) - 个人收集直播源
-- [Open-Paraphilia/sissy_university](https://github.com/Open-Paraphilia/sissy_university) - 
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [eric03742/hexo-mahgen](https://github.com/eric03742/hexo-mahgen) - Mahgen plugin for Hexo.
