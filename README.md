@@ -837,7 +837,7 @@
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -2046,6 +2046,7 @@
 - [CyberCommy/baidu-qa-100w](https://github.com/CyberCommy/baidu-qa-100w) - :table: 百度QA100万数据集
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [SweetSub/SweetSub](https://github.com/SweetSub/SweetSub) - Subtitle source files from SweetSub, a fansub group
+- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -3583,7 +3584,6 @@
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 Nginx 或 Caddy(v2 版) 配合 V2Ray(v4 版) 或 Xray、Caddy(v2 版) 加专用插件、Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成特定插件的 Caddy(v2 版) 文件，分享给大家食用及自己备份。
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [stefantalpalaru/gentoo-overlay](https://github.com/stefantalpalaru/gentoo-overlay) - Gentoo overlay
 - [MattiaGaspa/gentoolinux-ohmyzsh](https://github.com/MattiaGaspa/gentoolinux-ohmyzsh) - Gentoo plugins for oh-my-zsh framework
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
@@ -3909,7 +3909,7 @@
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型驱动的拼音输入法
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-- [TeXlyre/texlyre-busytex](https://github.com/TeXlyre/texlyre-busytex) - WASM BusyTeX API for TexLive 2026 (01.03.26) supporting LuaTeX, PdfTeX, & XeTeX in the browser
+- [TeXlyre/texlyre-busytex](https://github.com/TeXlyre/texlyre-busytex) - WASM BusyTeX API for TeX Live 2026 (01.03.26) supporting LuaTeX, PdfTeX, & XeTeX in the browser
 - [hhf666feng/obsidian-clipper-zh](https://github.com/hhf666feng/obsidian-clipper-zh) - Obsidian Web Clipper 中文优化版：修复微信公众号文章图片懒加载、wx_lazy/data-src 导致的本地保存图片失败，支持更可靠裁剪公众号原图。
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接
@@ -3962,7 +3962,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
 - [idootop/migpt-next](https://github.com/idootop/migpt-next) - 让小爱音箱「听你的」，解锁无限可能。
-- [EvanNotFound/vercount](https://github.com/EvanNotFound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
+- [evannotfound/vercount](https://github.com/evannotfound/vercount) - Busuanzi Compatible Website Counter Powered by Go + Redis
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
