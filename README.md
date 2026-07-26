@@ -1307,7 +1307,7 @@
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
 - [pixiv-cat/pixivcat-backend](https://github.com/pixiv-cat/pixivcat-backend) - Pixiv.cat backend server
 - [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [myhomebox/tv](https://github.com/myhomebox/tv) - 
 - [zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive) - iptv直播源、4k点播源地址
