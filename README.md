@@ -475,7 +475,6 @@
 - [klb3713/aoapc-book](https://github.com/klb3713/aoapc-book) - 《算法竞赛入门经典》例题习题代码
 - [aoapc-book/aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd) - Source codes for book &lt;&lt;&lt;BeginningAlgorithmContests&gt;&gt; Second edition
 - [pipesocks/pipesocks](https://github.com/pipesocks/pipesocks) - A pipe-like SOCKS5 tunnel system.
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1252,7 +1251,6 @@
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [jimz011/hki-elements](https://github.com/jimz011/hki-elements) - HKI Elements Custom Cards Suite for Home Assistant
@@ -2218,6 +2216,7 @@
 - [stormzhang/ai-coding-guide](https://github.com/stormzhang/ai-coding-guide) - 「可能是全网最全的」📘 面向小白的 AI 编程 CLI 中文教程：Claude Code + Codex 92 篇精修
 - [monklof/Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions) - 后端开发面试题，翻译自 https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook) - :blue_book: 电子书 -《Real-Time Rendering 3rd》提炼总结 | 全书共9万7千余字。你可以把它看做中文通俗版的《Real-Time Rendering 3rd》，也可以把它看做《Real-Time Rendering 3rd》的解读版与配套学习伴侣，或者《Real-Time Rendering 4th》的前置阅读材料。
 - [KieSun/Front-end-knowledge](https://github.com/KieSun/Front-end-knowledge) - 前端知识集锦
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -3921,6 +3920,7 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
