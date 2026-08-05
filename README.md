@@ -1652,7 +1652,6 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [guo-yu/douban.fm](https://github.com/guo-yu/douban.fm) - a tiny and smart cli player of douban.fm in Node.js
 - [gutenye/gnome-shell-extensions-pidgin](https://github.com/gutenye/gnome-shell-extensions-pidgin) - gnome shell extension - pidgin
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [Zolmeister/zethos](https://github.com/Zolmeister/zethos) - A speed reading tool for reaching 500wpm
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [xiehuc/gnome-shell-extensions-pidgin](https://github.com/xiehuc/gnome-shell-extensions-pidgin) - 
@@ -1944,6 +1943,7 @@
 
 ## Others 
 
+- [fafa002/yf2025](https://github.com/fafa002/yf2025) - 
 - [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护5年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
 - [renhai-lab/easy-homeassistant](https://github.com/renhai-lab/easy-homeassistant) - Homeassistant极简安装法
@@ -2546,6 +2546,7 @@
 
 ## Python 
 
+- [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) - Run Docker images on Android Termux without Docker engine.
 - [BenChaliah/NVFP4-on-4090-vLLM](https://github.com/BenChaliah/NVFP4-on-4090-vLLM) - AdaLLM is an NVFP4-first inference runtime for Ada Lovelace (RTX 4090) with FP8 KV cache and custom decode kernels. This repo targets NVFP4 weights and keeps the entire decode path in FP8
 - [zzhjim02/CathayOCR](https://github.com/zzhjim02/CathayOCR) - 🏛️面向人文社科研究的 OCR 利器：多引擎驱动，高精度识别，任意设备可跑，开箱即用，繁体竖排支持，输出双层 PDF / 带页码 TXT。
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -3557,6 +3558,9 @@
 
 ## Shell 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- [huytungst/HomeAssistant-Termux](https://github.com/huytungst/HomeAssistant-Termux) - Host Home Assistant Docker Container in Android Device.
+- [George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker) - Run Docker images in Termux via Udocker. No root, no qemu-VM, much faster.
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
@@ -4130,6 +4134,7 @@
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [justjavac/google-ips](https://github.com/justjavac/google-ips) - Google 全球 IP 地址库，按国家/地区整理并提供 npm 查询 API Google IP address list grouped by country with JSON data and query helpers.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 
 ## Typst 
