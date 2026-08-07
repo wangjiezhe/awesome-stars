@@ -3480,7 +3480,7 @@
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## music 
 
@@ -4277,7 +4277,7 @@
 - [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 - [747929791/MajsoulAI](https://github.com/747929791/MajsoulAI) - 以JianYangAI作后端，进行在线雀魂对局
 - [747929791/majsoul_wrapper](https://github.com/747929791/majsoul_wrapper) - 自动化雀魂AI的SDK，实时解析雀魂对局信息，并模拟鼠标动作出牌
-- [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv artworks, easier to browse and keep.
+- [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - A Pixiv client. Easy to search, browse, and download artworks.
 - [compiler-research/xeus-clang-repl](https://github.com/compiler-research/xeus-clang-repl) - 
 - [956065487/zhiboyuan](https://github.com/956065487/zhiboyuan) - 个人收集直播源
 - [JasonGrass/rename](https://github.com/JasonGrass/rename) - 在线文件批量重命名
@@ -6386,7 +6386,7 @@
 - [pycurl/pycurl](https://github.com/pycurl/pycurl) - PycURL - Python interface to libcurl
 - [0x5e/wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - 查看被删的微信好友
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) - Programming with Python
 - [marcharper/python-ternary](https://github.com/marcharper/python-ternary) - :small_red_triangle: Ternary plotting library for python with matplotlib
 - [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
@@ -7045,7 +7045,7 @@
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -7431,7 +7431,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [unknwon/go-web-foundation](https://github.com/unknwon/go-web-foundation) - 《Go Web 基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向完成《Go 编程基础》教程后希望进一步了解有关 Go Web 开发的学习者。
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 
 ## web-components 
 
