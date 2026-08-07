@@ -868,7 +868,7 @@
 - [fffaraz/fakessh](https://github.com/fffaraz/fakessh) - A dockerized fake SSH server honeypot written in Go that logs login attempts.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free chatgpt api
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - Pixiv artworks, easier to browse and keep.
+- [txperl/PixivBiu](https://github.com/txperl/PixivBiu) - A Pixiv client. Easy to search, browse, and download artworks.
 - [dianbanjiu/rss_everyday](https://github.com/dianbanjiu/rss_everyday) - 每天向你推送你喜欢的文章
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -3258,7 +3258,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) - Automation and Make
 - [swcarpentry/python-novice-inflammation](https://github.com/swcarpentry/python-novice-inflammation) - Programming with Python
 - [swcarpentry/hg-novice](https://github.com/swcarpentry/hg-novice) - Software Carpentry introduction to Mercurial for novices.
