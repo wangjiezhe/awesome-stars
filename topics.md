@@ -1828,6 +1828,8 @@
 
 ## dsh-plugin 
 
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:The ultimate image uploading engine. Both CLI & API supports.
@@ -4692,7 +4694,6 @@
 - [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) - 
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [net2cn/Bilibili_Anime4K](https://github.com/net2cn/Bilibili_Anime4K) - Nice filter that enables you to have a better experience when watching 2D anime on Bilibili.
-- [bclswl0827/v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift) - 用于在 Openshift 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
 - [xiaokaixuan/ss-v2ray-plugin](https://github.com/xiaokaixuan/ss-v2ray-plugin) - 一键部署 SS+V2Ray-plugin 到 Heroku/KubeSail
 - [88250/baidu-netdisk-downloaderx](https://github.com/88250/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。已于 2020 年 4 月 15 日正式停用，源码仅用于程序员交流学习，细节请查看：关于停用 BND 的说明 https://ld246.com/article/1586956316578
 - [MegrezZhu/qmcdump](https://github.com/MegrezZhu/qmcdump) - 一个简单的QQ音乐解码（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用。
