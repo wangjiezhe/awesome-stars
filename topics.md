@@ -223,6 +223,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -887,7 +888,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Manage secrets with Bash and GnuPG symmetric encryption
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -1444,6 +1445,7 @@
 - [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Manage secrets with Bash and GnuPG symmetric encryption
 
 ## csharp 
 
@@ -1840,9 +1842,9 @@
 
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+- [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper Engine 壁纸；皮肤、宠物、插件由 DSH 大市场一键安装，正迈向 DSH 创意工坊。A pluggable plugin-skin ecosystem for the DSH Web GUI - T
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）
+- [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + 
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7) - J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
@@ -2950,7 +2952,7 @@
 
 ## latex 
 
-- [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing presentations
+- [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing (accessible) presentations
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [fenglielie/latexzero](https://github.com/fenglielie/latexzero) - LaTeX Templates for Mathematical Notes and Slides
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -3497,7 +3499,7 @@
 
 ## mobile 
 
-- [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）
+- [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
@@ -3831,6 +3833,8 @@
 
 ## others 
 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
+- [yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts) - 
 - [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 - [fineemb/Colorfulclouds-weather](https://github.com/fineemb/Colorfulclouds-weather) - 用于HASS的彩云天气组件
 - [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) - 
@@ -4576,7 +4580,6 @@
 - [beancount/smart_importer](https://github.com/beancount/smart_importer) - Augment Beancount importers with machine learning functionality.
 - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount) - Beancount tips and tricks
 - [Linusp/keysersoze](https://github.com/Linusp/keysersoze) - 
-- [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) - 
 - [lyricat/beancount-tutorial](https://github.com/lyricat/beancount-tutorial) - A Chinese tutorial of Beancount.
 - [lidongchao/BeancountSample](https://github.com/lidongchao/BeancountSample) - 
 - [sphish/Beancount-CSVImporter](https://github.com/sphish/Beancount-CSVImporter) - CSVImporter for  beancount, mainly used to import transaction records of Alipay and WeChat
@@ -5112,7 +5115,7 @@
 - [cundi/Python-PySide-PyQt-Tutorial](https://github.com/cundi/Python-PySide-PyQt-Tutorial) - PySide 与 PyQt 入门教程集合
 - [xiajian/rhg-zh](https://github.com/xiajian/rhg-zh) - Ruby Hacking Guide中文版版翻译
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 - [esterTion/Youku-HTML5-Player](https://github.com/esterTion/Youku-HTML5-Player) - 一个适配优酷的简单易用的HTML5播放器
 - [jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books) - 如果有人让你推荐前端技术书，请让他看这个列表
@@ -6097,6 +6100,11 @@
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
+## portfolio 
+
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+- [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) - 
+
 ## postgresql 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -6828,7 +6836,7 @@
 - [Synzvato/decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Manage secrets with Bash and GnuPG symmetric encryption
 
 ## security-tools 
 
@@ -7192,7 +7200,6 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
