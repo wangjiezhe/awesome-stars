@@ -166,7 +166,7 @@
 - [timercrack/trader](https://github.com/timercrack/trader) - 期货自动交易
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
-- [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - Unofficial SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
+- [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [PacktPublishing/The-Modern-Cpp-Challenge](https://github.com/PacktPublishing/The-Modern-Cpp-Challenge) - The Modern C++ Challenge, published by Packt
 - [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
@@ -824,6 +824,7 @@
 
 ## Go 
 
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -962,13 +963,13 @@
 - [jitOffice/jit-viewer-sdk](https://github.com/jitOffice/jit-viewer-sdk) - 一款强大的office文档预览sdk，支持word，pdf，markdown，ppt，excel等文件的预览
 - [wmpeng/codingplan](https://github.com/wmpeng/codingplan) - 国内主流 AI 平台的 Coding Plan对比，智谱、Kimi、MiniMax、阿里云百炼、字节火山方舟、百度千帆
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) - Markdown Conversion
 - [PeterFeicht/cppreference-doc](https://github.com/PeterFeicht/cppreference-doc) - C++ standard library reference
 - [1692775560/deepseek_project](https://github.com/1692775560/deepseek_project) - Dee-seek_project
-- [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
+- [ouomj/my-iptv](https://github.com/ouomj/my-iptv) - 用于个人托管自用直播源
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -1050,6 +1051,7 @@
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [langu-xyz/kali-tools-zh](https://github.com/langu-xyz/kali-tools-zh) - kali linux 工具使用中文说明书
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+- [drvinceknight/cfm](https://github.com/drvinceknight/cfm) - Repository for a Python course for university Mathematics students
 - [zmmbreeze/Entry.css](https://github.com/zmmbreeze/Entry.css) - Customizable and readable less library for Chinese text. 一个可配置的、更适合阅读的中文文章样式库
 - [pkuwwt/d3-tutorial-cn](https://github.com/pkuwwt/d3-tutorial-cn) - Chinese version of D3 tutorials
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
@@ -1730,7 +1732,6 @@
 - [rasbt/pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2) - Book and code for Think Complexity, 2nd edition
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
-- [drvinceknight/cfm](https://github.com/drvinceknight/cfm) - Repository for a Python course for university Mathematics students
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
 - [glouppe/tutorials-scikit-learn](https://github.com/glouppe/tutorials-scikit-learn) - Scikit-Learn tutorials
@@ -1957,6 +1958,7 @@
 - [Cuimao777/cuimao-translator](https://github.com/Cuimao777/cuimao-translator) - 一键将英文PDF翻译为流畅中文的Claude Code技能
 - [mahonzhan/awesome-agent-harness](https://github.com/mahonzhan/awesome-agent-harness) - A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols.
 - [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 - [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年8月更新，精选适用于 GPT Image 2、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
 - [karminski/miromind-skill](https://github.com/karminski/miromind-skill) - MiroMind Deep Research Skill
@@ -2598,7 +2600,6 @@
 - [lumina-layer-studio/Lumina-Layers](https://github.com/lumina-layer-studio/Lumina-Layers) - A physics-based multi-material FDM color system. Converts images to full-color 3D prints via calibrated light-transmission mixing. Supports 2-8 color systems with slicer-ready 3MF export (BambuStudio/
 - [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.
 - [wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py) - 提供百度坐标系(bd-09)、火星坐标系(国测局坐标系、gcj02)、WGS84坐标系直接的坐标互转，也提供了解析高德地址的方法的python版本
-- [car-factory/car_apk_manager](https://github.com/car-factory/car_apk_manager) - Open car APK manager. DNS + Web Download
 - [FireRedTeam/FireRed-OCR](https://github.com/FireRedTeam/FireRed-OCR) - 
 - [ChaceQC/bilibili_live_stream_code](https://github.com/ChaceQC/bilibili_live_stream_code) - 获取B站直播推流码，支持开关播，管理直播标题、分区，显示弹幕和礼物。
 - [UniverseEmbedded/OpenColor](https://github.com/UniverseEmbedded/OpenColor) - Full-color FDM printing
@@ -2620,7 +2621,7 @@
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 - 生成精美的群聊分析报告，支持话题分析、用户形象、群聊圣经等功能；支持 OneBot (NapCat, LLOneBot, Snowluma)、QQ 官方机器人、Telegram、Discord 等
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
 - [suiginko/moetype](https://github.com/suiginko/moetype) - 基于萌娘百科词条的输入法词库
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -3153,7 +3154,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection. (Now with MCP support!)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3740,7 +3741,7 @@
 
 ## Stylus 
 
-- [everfu/Solitude](https://github.com/everfu/Solitude) - 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
+- [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - A beautiful, powerful, and efficient Hexo theme developed by everfu.
 - [kobalab/Majiang](https://github.com/kobalab/Majiang) - HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
 - [mickeyouyou/yinwang](https://github.com/mickeyouyou/yinwang) - Blog Theme For Hexo
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
@@ -3815,7 +3816,7 @@
 - [RuixiZhang42/font-pairing-guide](https://github.com/RuixiZhang42/font-pairing-guide) - A technical guide for pairing CJK and Latin fonts
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [iamjarryfeng/Waseda-Beamer-Slide](https://github.com/iamjarryfeng/Waseda-Beamer-Slide) - A LaTeX beamer theme template for Waseda Univ. students.
-- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2023 年格式
+- [latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis) - 全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2026 年格式
 - [latexstudio/ChenLaTeXBookTemplate](https://github.com/latexstudio/ChenLaTeXBookTemplate) - ChenLaTeX书籍模板，群享书籍模板-由群共建-QQ群: 91940767
 - [latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn) - 中文 LaTeX 常见问题工程，见证中文社区的力量
 - [latexstudio/LaTeXPackages-CN](https://github.com/latexstudio/LaTeXPackages-CN) - LaTeX commonly used macro package  Chinese localization project-常用宏包说明的中文本地化项目
@@ -3939,7 +3940,6 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
