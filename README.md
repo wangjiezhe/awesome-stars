@@ -82,7 +82,6 @@
 - [REXX](#rexx)
 - [Racket](#racket)
 - [Rascal](#rascal)
-- [ReScript](#rescript)
 - [Rich Text Format](#rich-text-format)
 - [Rocq Prover](#rocq-prover)
 - [Roff](#roff)
@@ -1923,6 +1922,7 @@
 - [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 - [LaurentMazare/tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow
 - [rleonid/oml](https://github.com/rleonid/oml) - OCaml Math Library
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [realworldocaml/examples](https://github.com/realworldocaml/examples) - All the examples in Real World OCaml
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [tomprimozic/type-systems](https://github.com/tomprimozic/type-systems) - Implementations of various type systems in OCaml.
@@ -3382,10 +3382,6 @@
 ## Rascal 
 
 - [googlehosts/hosts-ipv6](https://github.com/googlehosts/hosts-ipv6) - 镜像：https://scaffrey.coding.net/p/hosts-ipv6/git / https://git.qvq.network/googlehosts/hosts-ipv6
-
-## ReScript 
-
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Rich Text Format 
 
