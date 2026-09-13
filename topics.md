@@ -370,6 +370,7 @@
 
 ## ai 
 
+- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7) - J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
@@ -3847,6 +3848,10 @@
 
 ## others 
 
+- [w0fv1/AGENTS.md](https://github.com/w0fv1/AGENTS.md) - 
+- [Sussurrosfox/problem-driven-courseware](https://github.com/Sussurrosfox/problem-driven-courseware) - 纯问题驱动数学自学案与研学案制作工作流 | Single-source Dual-output LaTeX & Multi-Agent Pipeline for Math Courseware
+- [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
+- [Joker9-Create/ZhiyongDatongFont](https://github.com/Joker9-Create/ZhiyongDatongFont) - 智勇大同体（Zhiyong Datong）手写书法字体，SIL Open Font License 1.1 开源发布。A free-for-commercial-use handwritten calligraphy font by Jia Zhiyong, released under the SIL Open Font License 1.1.
 - [lsa03/neat-freak-person](https://github.com/lsa03/neat-freak-person) - 
 - [minglin2012/Wechat-Export](https://github.com/minglin2012/Wechat-Export) - 
 - [sunhanaix/pc_wechat_exp](https://github.com/sunhanaix/pc_wechat_exp) - 找到微信的key，导出聊天记录，进行分析
