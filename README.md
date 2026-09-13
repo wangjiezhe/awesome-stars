@@ -1946,6 +1946,8 @@
 
 ## Others 
 
+- [w0fv1/AGENTS.md](https://github.com/w0fv1/AGENTS.md) - 
+- [Joker9-Create/ZhiyongDatongFont](https://github.com/Joker9-Create/ZhiyongDatongFont) - 智勇大同体（Zhiyong Datong）手写书法字体，SIL Open Font License 1.1 开源发布。A free-for-commercial-use handwritten calligraphy font by Jia Zhiyong, released under the SIL Open Font License 1.1.
 - [lsa03/neat-freak-person](https://github.com/lsa03/neat-freak-person) - 
 - [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
@@ -2551,6 +2553,9 @@
 
 ## Python 
 
+- [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
+- [Sussurrosfox/problem-driven-courseware](https://github.com/Sussurrosfox/problem-driven-courseware) - 纯问题驱动数学自学案与研学案制作工作流 | Single-source Dual-output LaTeX & Multi-Agent Pipeline for Math Courseware
+- [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
 - [minglin2012/Wechat-Export](https://github.com/minglin2012/Wechat-Export) - 
 - [ImUpXuu/SIWX](https://github.com/ImUpXuu/SIWX) - Stories in WeChat 一个开源的Windows macOS全平台 微信聊天记录导出工具 支持解密数据库与媒体 致力于做到 我的数据我做主
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
