@@ -380,6 +380,7 @@
 
 ## C++ 
 
+- [shuimo0413/yosuga-no-sora-remake](https://github.com/shuimo0413/yosuga-no-sora-remake) - 缘之空重制版，工程文件夹
 - [aiptimizer/TurboOCR](https://github.com/aiptimizer/TurboOCR) - TurboOCR, &gt;200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC
 - [Neroued/ninfer](https://github.com/Neroued/ninfer) - High-performance single-GPU inference for selected model checkpoints and GPUs.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
@@ -965,7 +966,6 @@
 - [wmpeng/codingplan](https://github.com/wmpeng/codingplan) - 国内主流 AI 平台的 Coding Plan对比，智谱、Kimi、MiniMax、阿里云百炼、字节火山方舟、百度千帆
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
 - [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [xxnuo/serverless-markdown-convertor](https://github.com/xxnuo/serverless-markdown-convertor) - Markdown Conversion
@@ -1127,7 +1127,6 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [nining377/dolby_beta](https://github.com/nining377/dolby_beta) - 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [59799517/simple_sq_music_plus](https://github.com/59799517/simple_sq_music_plus) - NAS音乐下载工具
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - A cross-platform chess interface program that supports uci and ucci protocol engines / 支持uci和ucci协议引擎的跨平台象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management (OCI / AWS / GCP / Azure / DO / SolusVM /VirtFusion), with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegr
@@ -1241,6 +1240,7 @@
 
 ## JavaScript 
 
+- [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 - [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 - [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2090,7 +2090,6 @@
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
 - [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
-- [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 - [spring2go/cs_study_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
 - [wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -2554,6 +2553,8 @@
 
 ## Python 
 
+- [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing.
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [Sussurrosfox/geometry-proof-visualizer](https://github.com/Sussurrosfox/geometry-proof-visualizer) - Kimi Code CLI skill: plane geometry proof step-by-step HTML visualizer (平面几何证明分步可视化)
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Full-text Asian financial reports (China, Japan, Korea, Taiwan) as clean Markdown — REST API + MCP server for LLMs, RAG and quant
 - [stevenjoezhang/hass-state-grid](https://github.com/stevenjoezhang/hass-state-grid) - Unofficial Home Assistant integration for State Grid electricity usage
@@ -2635,6 +2636,7 @@
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
 - [suiginko/moetype](https://github.com/suiginko/moetype) - 基于萌娘百科词条的输入法词库
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -3089,7 +3091,7 @@
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [zhengmin1989/ROP_STEP_BY_STEP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) - 一步一步学ROP
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) - 机器学习相关教程
 - [aploium/zmirror](https://github.com/aploium/zmirror) - The next-gen reverse proxy for full site mirroring
 - [svinota/pyroute2](https://github.com/svinota/pyroute2) - Python Netlink and PF_ROUTE library — network configuration and monitoring
@@ -3165,7 +3167,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3929,9 +3931,10 @@
 
 ## TypeScript 
 
+- [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [cshdotcom/readest-lite](https://github.com/cshdotcom/readest-lite) - Single-container self-hostable Readest fork — SQLite + local FS, no Supabase, no paywall. Community: https://nodebyte.cn
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
@@ -4043,6 +4046,7 @@
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [mk12/vscode-better-git-line-blame](https://github.com/mk12/vscode-better-git-line-blame) - VS Code extension that decorates lines with git blame information.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [loongson-community/areweloongyet](https://github.com/loongson-community/areweloongyet) - 咱龙了吗？在这里一站式了解 LoongArch 的上游生态建设。 Are we Loong yet? Follow LoongArch upstream work right here right away.
 - [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
