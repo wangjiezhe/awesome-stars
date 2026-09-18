@@ -369,6 +369,7 @@
 
 ## ai 
 
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
 - [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) - J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
@@ -1136,6 +1137,8 @@
 
 ## claude 
 
+- [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) - OrcaSlicer MCP — drive OrcaSlicer from Claude or any MCP client: load models, tune settings, slice, analyze
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1854,6 +1857,7 @@
 
 ## dsh-plugin 
 
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演插件：SillyTavern 人物卡导入、世界线、长篇记忆、关键词与语义混合检索、本地嵌入模型、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说导出、一键安装。 / Long-form roleplay / Tavern plugin for DSH (DeepSeek Harness): worldlines, long-term 
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
@@ -2174,6 +2178,7 @@
 
 ## generative-ai 
 
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [vectara/hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
@@ -3168,6 +3173,7 @@
 
 ## llm 
 
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Full-text Asian financial reports (China, Japan, Korea, Taiwan) as clean Markdown — REST API + MCP server for LLMs, RAG and quant
 - [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.
 - [thu-ml/SageAttention](https://github.com/thu-ml/SageAttention) - [ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.
@@ -3488,6 +3494,11 @@
 
 ## mcp 
 
+- [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) - OrcaSlicer MCP — drive OrcaSlicer from Claude or any MCP client: load models, tune settings, slice, analyze
+- [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
+- [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio slicing, and direct printer control
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Full-text Asian financial reports (China, Japan, Korea, Taiwan) as clean Markdown — REST API + MCP server for LLMs, RAG and quant
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
@@ -3856,6 +3867,9 @@
 
 ## others 
 
+- [phdlee/uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
+- [faust-machines/fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server) - MCP Server for Autodesk Fusion 360
+- [frinkleko/AutoHajimiMosaic](https://github.com/frinkleko/AutoHajimiMosaic) - 一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器
 - [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [shuimo0413/yosuga-no-sora-remake](https://github.com/shuimo0413/yosuga-no-sora-remake) - 缘之空重制版，工程文件夹
@@ -4089,7 +4103,7 @@
 - [Warren2060/FreeFontCollection](https://github.com/Warren2060/FreeFontCollection) - 年度更新的精选字体合集。
 - [CodSpeedHQ/action](https://github.com/CodSpeedHQ/action) - Github Actions for running CodSpeed in your CI
 - [cetz-package/cetz](https://github.com/cetz-package/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
-- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
+- [fletcher-package/fletcher](https://github.com/fletcher-package/fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [mswnlz/edu-knowlege](https://github.com/mswnlz/edu-knowlege) - 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
@@ -5745,7 +5759,6 @@
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [processing/processing](https://github.com/processing/processing) - ⚠️ Processing moved to processing/processing4 ⚠️
 - [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-- [scinart/net](https://github.com/scinart/net) - net is a simple and handy common lisp dramka wrapper
 - [VitoVan/jopy](https://github.com/VitoVan/jopy) - Job Spider
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
@@ -6269,6 +6282,7 @@
 
 ## python 
 
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 你的微信记录，本地喂给 AI。导出双人会话、群聊、按消息量排名的重要联系人 —— 全程离线，数据不出本机。A local-first WeChat 4.1+ chat export plugin for Claude Code: no cloud, no telemetry, no account access.
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
