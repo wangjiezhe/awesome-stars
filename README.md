@@ -206,6 +206,7 @@
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [LingDong-/magic-square-poems](https://github.com/LingDong-/magic-square-poems) - Discovering magic squares in Tang Dynasty poems
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [huazhuangnan/actions-build-padavan-openwrt](https://github.com/huazhuangnan/actions-build-padavan-openwrt) - GitHub Action 学习实例 - 自动编译 padavan 和 openWrt
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -351,7 +352,6 @@
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) - A cute running cat animation on your windows taskbar.
 - [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
@@ -957,7 +957,6 @@
 
 ## HTML 
 
-- [cshdotcom/readest-lite](https://github.com/cshdotcom/readest-lite) - Single-container self-hostable Readest fork — SQLite + local FS, no Supabase, no paywall. Community: https://nodebyte.cn
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
@@ -1245,7 +1244,6 @@
 
 - [shaihai-studio/fnchess](https://github.com/shaihai-studio/fnchess) - 【函数棋 finchess】用函数打仗的数学策略游戏。  构造表达式让曲线穿过目标格，避开禁止区。表达式越短得分越高，只用一个x就能拿5分满分。  ✓ 自研GeoGebra-lite引擎，16次递归二分 ✓ AI对手Summa，4级策略体系，复仇模式 ✓ 81关闯关，4级难度递进 ✓ 本地对战/人机对战/自由测试 ✓ 玻璃拟态UI，全文得意黑字体  免费下载：shaihai.cn B站：space
 - [howmp/dsh-pentest](https://github.com/howmp/dsh-pentest) - 面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs
-- [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers) - 蓝色大肥鱼：AI 娘二创表情包开放档案，支持按角色浏览、模糊搜索、原图下载与 GitHub Issue 投稿。
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch co
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
 - [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio slicing, and direct printer control
@@ -1957,6 +1955,7 @@
 ## Others 
 
 - [lxgw/LxgwSeal](https://github.com/lxgw/LxgwSeal) - An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 Small Seal characters.
+- [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers) - 蓝色大肥鱼：AI 娘二创表情包开放档案，支持按角色浏览、模糊搜索、原图下载与 GitHub Issue 投稿。
 - [w0fv1/AGENTS.md](https://github.com/w0fv1/AGENTS.md) - 
 - [Joker9-Create/ZhiyongDatongFont](https://github.com/Joker9-Create/ZhiyongDatongFont) - 智勇大同体（Zhiyong Datong）手写书法字体，SIL Open Font License 1.1 开源发布。A free-for-commercial-use handwritten calligraphy font by Jia Zhiyong, released under the SIL Open Font License 1.1.
 - [lsa03/neat-freak-person](https://github.com/lsa03/neat-freak-person) - 
@@ -1976,7 +1975,7 @@
 - [Cuimao777/cuimao-translator](https://github.com/Cuimao777/cuimao-translator) - 一键将英文PDF翻译为流畅中文的Claude Code技能
 - [mahonzhan/awesome-agent-harness](https://github.com/mahonzhan/awesome-agent-harness) - A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols.
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
-- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年9月更新，精选适用于 GPT Image 2、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
+- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年9月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
 - [karminski/miromind-skill](https://github.com/karminski/miromind-skill) - MiroMind Deep Research Skill
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -3957,6 +3956,7 @@
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+- [cshdotcom/readest-lite](https://github.com/cshdotcom/readest-lite) - Single-container self-hostable Readest fork — SQLite + local FS, no Supabase, no paywall. Community: https://nodebyte.cn
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
