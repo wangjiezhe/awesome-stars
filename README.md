@@ -827,6 +827,7 @@
 
 ## Go 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [IzumiRain/HyperDNS](https://github.com/IzumiRain/HyperDNS) - ⚡ Next-Gen Standalone SmartDNS & Ultra-Low Latency Gaming Gateway in Go · Anti-Sanction 403 Bypass, Multi-Port SNI Proxy, Cyberpunk Web UI & TUI Controller
 - [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
@@ -1243,6 +1244,8 @@
 
 ## JavaScript 
 
+- [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) - Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件
+- [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 - [shaihai-studio/fnchess](https://github.com/shaihai-studio/fnchess) - 【函数棋 finchess】用函数打仗的数学策略游戏。  构造表达式让曲线穿过目标格，避开禁止区。表达式越短得分越高，只用一个x就能拿5分满分。  ✓ 自研GeoGebra-lite引擎，16次递归二分 ✓ AI对手Summa，4级策略体系，复仇模式 ✓ 81关闯关，4级难度递进 ✓ 本地对战/人机对战/自由测试 ✓ 玻璃拟态UI，全文得意黑字体  免费下载：shaihai.cn B站：space
 - [howmp/dsh-pentest](https://github.com/howmp/dsh-pentest) - 面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch co
@@ -2561,6 +2564,10 @@
 
 ## Python 
 
+- [deusyu/translate-book](https://github.com/deusyu/translate-book) - Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
+- [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate) - A Multilingual Translation Model Family
+- [Songssx/ComfyUI-MiniMaxH3-TimelineDirector](https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector) - Editable reference-media timeline director for ComfyUI MiniMax H3 Reference to Video
+- [isichan-ai/ComfyUI-Bonsai-Bridge](https://github.com/isichan-ai/ComfyUI-Bonsai-Bridge) - Use Ternary Bonsai-2 (PQ2_0) and other llama.cpp vision models from ComfyUI's Ollama nodes
 - [AlexxIT/XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN
 - [2sem/davinci-resolve-lite-mcp](https://github.com/2sem/davinci-resolve-lite-mcp) - MCP server to control DaVinci Resolve free (Lite) edition from Claude — runs as a Workspace&gt;Scripts menu server, zero dependencies
 - [Crazysiri/chineseholiday](https://github.com/Crazysiri/chineseholiday) - Chinese holiday custom component for homeassistant
@@ -3184,7 +3191,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Makes Chromium an anti-detect browser for handling CAPTCHAs. Supports MCP.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for Browser Automation, Testing, and Web Scraping. CDP Mode bypasses bot-detection and supports Playwright.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3948,6 +3955,7 @@
 
 ## TypeScript 
 
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, 
 - [saadk408/davinci-resolve-lua-mcp](https://github.com/saadk408/davinci-resolve-lua-mcp) - Control the free edition of DaVinci Resolve 21.1 from Claude through a Lua script that runs inside Resolve.
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
@@ -4283,6 +4291,7 @@
 
 ## Vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [weilin9999/WeiLin-Comfyui-Tools](https://github.com/weilin9999/WeiLin-Comfyui-Tools) - 让你在 ComfyUI 中快捷的使用提示词工具 quickly use the prompt word tool in ComfyUI
 - [KyleBing/map](https://github.com/KyleBing/map) - 路书，路线规划，高德地图 api 示例，地图信息 vue3 ts vite
 - [vlmOCR/Kalorda](https://github.com/vlmOCR/Kalorda) - An integrated fine-tuning platform for lightweight vlmOCR models
