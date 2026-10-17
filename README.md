@@ -1873,7 +1873,7 @@
 
 - [crifan/media_process_ffmpeg](https://github.com/crifan/media_process_ffmpeg) - 强大的音视频处理工具：ffmpeg
 - [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at https://gitlab.com/buildroot.org/buildroot/. Do not open issu
-- [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
+- [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's CVS ports repository. This only includes the main branch; use CVS for -stable or release branches. Send any diffs to the port's maintainer and/or ports@ mailing l
 - [silenty4ng/uv-k5-firmware-chinese-lts](https://github.com/silenty4ng/uv-k5-firmware-chinese-lts) - 基于萝卜固件 117 版的长期支持
 - [xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n) - Repository for LFS book translation (currently only Simplified Chinese).
 - [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
@@ -2150,7 +2150,7 @@
 - [xiaoMGitHub/LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh) - 适用于 Lenovo LEGION Y7000/Y7000P-2018、Y7000/Y7000P-2019、Y7000/Y7000P-2020、Y9000K-2018、Y9000K-2019、Y9000K-2020 系列安装 MacOS（支持MacOS 10.13.6 - MacOS Monterey）For Lenovo LEGION Y530/Y540/Y545/Y730/Y740 serie
 - [baiduxunlei/baidu_xunlei_share](https://github.com/baiduxunlei/baidu_xunlei_share) - 【免费】百度网盘超级会员，迅雷白金会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)，迅雷不限速工具分享。每天六点半准时更新　统统免费！！！。
 - [hosxy/Fcitx5-Material-Color](https://github.com/hosxy/Fcitx5-Material-Color) - 一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧   ヾ(≧へ≦)〃 😉
-- [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅930KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
+- [aardio/wubi-lex](https://github.com/aardio/wubi-lex) - WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅792KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [rpasek/usbip-wsl2-instructions](https://github.com/rpasek/usbip-wsl2-instructions) - 
@@ -3496,7 +3496,7 @@
 - [xiaozhou26/deeplx-pro](https://github.com/xiaozhou26/deeplx-pro) - free deeplx-pro
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
