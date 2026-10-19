@@ -199,6 +199,7 @@
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 - [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
+- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [misterchaos/hotcorner](https://github.com/misterchaos/hotcorner) - 让Windows拥有macOS的触发角功能
 - [jesrui/althttpd](https://github.com/jesrui/althttpd) - the small, simple HTTP server from sqlite
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
@@ -844,7 +845,7 @@
 - [hulutech-web/novel-video-workflow](https://github.com/hulutech-web/novel-video-workflow) - 完全本地的AI小说视频生成工作流，每个人都能成为导演！
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
@@ -1100,7 +1101,6 @@
 
 - [goldfirere/glambda](https://github.com/goldfirere/glambda) - The home of the Glamorous Glambda interpreter
 - [slovnicki/pLam](https://github.com/slovnicki/pLam) - An interpreter for learning and exploring pure λ-calculus
-- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dpiponi/quine-central](https://github.com/dpiponi/quine-central) - A quine generator
 - [HaskellZhangSong/Introduction_to_Haskell_2ed_source](https://github.com/HaskellZhangSong/Introduction_to_Haskell_2ed_source) - 这是Haskell函数式编程入门第2版的源码
 - [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
@@ -1250,6 +1250,7 @@
 - [shaihai-studio/fnchess](https://github.com/shaihai-studio/fnchess) - 【函数棋 finchess】用函数打仗的数学策略游戏。  构造表达式让曲线穿过目标格，避开禁止区。表达式越短得分越高，只用一个x就能拿5分满分。  ✓ 自研GeoGebra-lite引擎，16次递归二分 ✓ AI对手Summa，4级策略体系，复仇模式 ✓ 81关闯关，4级难度递进 ✓ 本地对战/人机对战/自由测试 ✓ 玻璃拟态UI，全文得意黑字体  免费下载：shaihai.cn B站：space
 - [howmp/dsh-pentest](https://github.com/howmp/dsh-pentest) - 面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
+- [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 - [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -3966,7 +3967,6 @@
 - [saadk408/davinci-resolve-lua-mcp](https://github.com/saadk408/davinci-resolve-lua-mcp) - Control the free edition of DaVinci Resolve 21.1 from Claude through a Lua script that runs inside Resolve.
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch co
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
-- [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
 - [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
@@ -3992,7 +3992,7 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
@@ -4030,7 +4030,7 @@
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
-- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
+- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks & LLM
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti
 - [pengzhanbo/caniuse-embed](https://github.com/pengzhanbo/caniuse-embed) - Embed the CanIUse compatibility table in your site
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
