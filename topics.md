@@ -90,6 +90,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -357,11 +358,13 @@
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+- [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 
@@ -377,6 +380,7 @@
 
 ## ai 
 
+- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt) - A free photo editor. No account, no subscription, no tracking. RAW, masks and on-device AI for macOS, Windows and Linux. Self-hostable.
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Translate EPUB books using Large Language Models while preserving the original text. The translated content is displayed side-by-side with the original, creating bilingual books perfect for language l
@@ -466,12 +470,13 @@
 
 ## ai-agent 
 
+- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) - J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 | 13 skills for novel writing and long-form fiction with file-based continuity tracking. MI
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1133,9 +1138,11 @@
 
 ## chrome-extension 
 
+- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [LifeArchiveProject/HistoryHub](https://github.com/LifeArchiveProject/HistoryHub) - HistoryHub：个人多平台历史记录中心，Chrome 扩展连接本地或自托管后端，支持网页历史与 B 站观看记录。
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1186,7 +1193,7 @@
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+- [su-kaka/agy2api](https://github.com/su-kaka/agy2api) - 将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -1222,6 +1229,7 @@
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
@@ -1229,7 +1237,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+- [su-kaka/agy2api](https://github.com/su-kaka/agy2api) - 将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1247,6 +1255,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) - Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 | 13 skills for novel writing and long-form fiction with file-based continuity tracking. MI
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -1257,7 +1266,7 @@
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
@@ -1750,6 +1759,7 @@
 ## design 
 
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude) - A beautiful, powerful, and efficient Hexo theme developed by everfu.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
@@ -1765,7 +1775,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) - J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -1902,6 +1912,22 @@
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+
+## downloader 
+
+- [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。
+- [Xwilarg/NHentaiDownloader](https://github.com/Xwilarg/NHentaiDownloader) - A browser extension to download doujinshi from NHentai
+- [Flameish/Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Novel-Grabber can download novels from pretty much any webnovel and lightnovel site.
+- [Tsuk1ko/nhentai-one-key-downloader](https://github.com/Tsuk1ko/nhentai-one-key-downloader) - 一个可以一键下载nhentai本子的纯shell脚本。A pure shell script that can easily download comics from nhentai.
+- [Tsuk1ko/pxder](https://github.com/Tsuk1ko/pxder) - 🖼 Download illusts from pixiv.net P站插画批量下载器
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [bughandler/cnki-downloader](https://github.com/bughandler/cnki-downloader) - 知网(CNKI)文献下载工具
 
 ## dsh-plugin 
 
@@ -2605,6 +2631,7 @@
 
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [willow-god/check-flink](https://github.com/willow-god/check-flink) - ⚙️检查友链链接是否可连，可以大幅度减少检查工作量。
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -3238,6 +3265,7 @@
 
 ## llm 
 
+- [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -3577,7 +3605,7 @@
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Full-text financial reports (US, China, Japan, Korea, Taiwan) as clean Markdown — REST API + MCP server for LLMs, RAG and quant
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -3859,7 +3887,7 @@
 ## open-source 
 
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 - [FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S) - A SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and both speech and singing 
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
@@ -3946,6 +3974,7 @@
 
 ## others 
 
+- [cjw1115/enable-chromium-dolbyvision-system-decoding](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding) - Enable system level decoding of Dolby Vision in Chromium
 - [programmerguohuajing/DiPlay-Legacy-Android](https://github.com/programmerguohuajing/DiPlay-Legacy-Android) - 基于 shihabal3amri/DiPlay 修改，面向低版本 Android 系统与老款 Android 车机兼容
 - [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
@@ -3967,7 +3996,6 @@
 - [phdlee/uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
 - [faust-machines/fusion360-mcp-server](https://github.com/faust-machines/fusion360-mcp-server) - MCP Server for Autodesk Fusion 360
 - [frinkleko/AutoHajimiMosaic](https://github.com/frinkleko/AutoHajimiMosaic) - 一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器
-- [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [shuimo0413/yosuga-no-sora-remake](https://github.com/shuimo0413/yosuga-no-sora-remake) - 缘之空重制版，工程文件夹
 - [Sussurrosfox/geometry-proof-visualizer](https://github.com/Sussurrosfox/geometry-proof-visualizer) - Kimi Code CLI skill: plane geometry proof step-by-step HTML visualizer (平面几何证明分步可视化)
@@ -4064,7 +4092,6 @@
 - [ljxi/GeoCN](https://github.com/ljxi/GeoCN) - 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区
 - [voidtools/voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 - [collinzrj/sts_lean](https://github.com/collinzrj/sts_lean) - Core logic of Slay the Spire implemented in Lean4 for formal verification proofs
-- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [vcb-s/VCB-S_Collation](https://github.com/vcb-s/VCB-S_Collation) - Collation standards, guidance and naming samples.
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
@@ -4165,6 +4192,7 @@
 - [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
 - [vEnhance/1802](https://github.com/vEnhance/1802) - MIT 18.02 lecture notes on multivar
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [DhruvParikh1/MarkSnip](https://github.com/DhruvParikh1/MarkSnip) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
 - [jiangnan1224/iptv_ipv4_live](https://github.com/jiangnan1224/iptv_ipv4_live) - iptv直播源，过滤出ipv4的直播源
@@ -4204,7 +4232,6 @@
 - [nnngrach/AnyGIS_maps](https://github.com/nnngrach/AnyGIS_maps) - XML: Ready-to-use files of map preset for mobile navigation apps
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [LifeArchiveProject/BiliHistoryFrontend](https://github.com/LifeArchiveProject/BiliHistoryFrontend) - 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，找回14天内b站在屏幕上显示过的图片，生成详细的年度总结，自动化任务，下面链接是对应后端
-- [LifeArchiveProject/BilibiliHistoryFetcher](https://github.com/LifeArchiveProject/BilibiliHistoryFetcher) - 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，找回14天内b站在屏幕上显示过的图片，生成详细的年度总结，自动化任务，下面链接是对应前端
 - [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows Vista through 11.
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
 - [lxgw/SimXiZhi](https://github.com/lxgw/SimXiZhi) - 新晰黑体＆新致宋体：「霞鹜新晰黑」「霞鹜新致宋」兼容 Windows 内置「黑体」「宋体」度量数据和字符集的版本，基于 IPA Gothic、IPA Mincho 衍生。
@@ -4732,7 +4759,6 @@
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [next-theme/hexo-filter-mathjax](https://github.com/next-theme/hexo-filter-mathjax) - 💯 Server side MathJax renderer plugin for Hexo.
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) - An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-- [Flameish/Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Novel-Grabber can download novels from pretty much any webnovel and lightnovel site.
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [PEDevTeam/PE](https://github.com/PEDevTeam/PE) - PE Development Project
 - [leegggg/sissy-univ-android](https://github.com/leegggg/sissy-univ-android) - 
@@ -4820,7 +4846,7 @@
 - [p4gefau1t/trojan-go-android](https://github.com/p4gefau1t/trojan-go-android) - A trojan-go client for Android (forked from igniter)
 - [minggithubaccount/pandownload_backup](https://github.com/minggithubaccount/pandownload_backup) - 最全的pandownload历史版本备份
 - [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
-- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
+- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - Genymotion ARM translation packages: legacy Android 4.3–9.0 and experimental Android 11–14 x86_64 ARM64 bundles, with offline configuration tools and checksums.
 - [Rprop/libhoudini](https://github.com/Rprop/libhoudini) - the default ARM translation layer for x86, extracted partly from Nexus Player
 - [yezheng1981/Java-Geometry-Expert](https://github.com/yezheng1981/Java-Geometry-Expert) - Java Geometry Expert
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
@@ -5028,7 +5054,6 @@
 - [deadhead420/arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere
 - [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
 - [Tsuk1ko/SS-Collection](https://github.com/Tsuk1ko/SS-Collection) - 常用资源汇集，仅个人收集向
-- [Tsuk1ko/pxder](https://github.com/Tsuk1ko/pxder) - 🖼 Download illusts from pixiv.net P站插画批量下载器
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [xiaoski/live2d_models_collection](https://github.com/xiaoski/live2d_models_collection) - Collections of live2d models
 - [summerscar/live2dDemo](https://github.com/summerscar/live2dDemo) - live2dDemo http://summerscar.me/live2dDemo/
@@ -5253,7 +5278,7 @@
 - [cundi/Python-PySide-PyQt-Tutorial](https://github.com/cundi/Python-PySide-PyQt-Tutorial) - PySide 与 PyQt 入门教程集合
 - [xiajian/rhg-zh](https://github.com/xiajian/rhg-zh) - Ruby Hacking Guide中文版版翻译
 - [iliakan/javascript-tutorial-cn-old](https://github.com/iliakan/javascript-tutorial-cn-old) - 现代JavaScript教程 [link to the new version is below]
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 - [esterTion/Youku-HTML5-Player](https://github.com/esterTion/Youku-HTML5-Player) - 一个适配优酷的简单易用的HTML5播放器
 - [jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books) - 如果有人让你推荐前端技术书，请让他看这个列表
@@ -5370,7 +5395,6 @@
 - [ysh329/Chinese-UFLDL-Tutorial](https://github.com/ysh329/Chinese-UFLDL-Tutorial) - [UNMAINTAINED] 非监督特征学习与深度学习中文教程，该版本翻译自新版 UFLDL Tutorial 。建议新人们去学习斯坦福的CS231n课程，该门课程在网易云课堂上也有一个配有中文字幕的版本。
 - [LaurentMazare/tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow
 - [rleonid/oml](https://github.com/rleonid/oml) - OCaml Math Library
-- [bughandler/cnki-downloader](https://github.com/bughandler/cnki-downloader) - 知网(CNKI)文献下载工具
 - [evilcos/papers](https://github.com/evilcos/papers) - my open papers
 - [Mzzopublic/C](https://github.com/Mzzopublic/C) - C语言
 - [zlotus/notes-LSJU-machine-learning](https://github.com/zlotus/notes-LSJU-machine-learning) - 机器学习笔记
@@ -6375,7 +6399,7 @@
 - [spyder-ide/qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt6, PySide6 with a single codebase
 - [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-- [lumina-layer-studio/Lumina-Layers](https://github.com/lumina-layer-studio/Lumina-Layers) - A physics-based multi-material FDM color system. Converts images to full-color 3D prints via calibrated light-transmission mixing. Supports 2-8 color systems with slicer-ready 3MF export (BambuStudio/
+- [lumina-layer-studio/Lumina-Layers](https://github.com/lumina-layer-studio/Lumina-Layers) - Full-color flat FDM printing with calibrated filament layer mixing. Reproduce image colors and tonal detail, fine-tune local recipes, and export slicer-ready 3MF files.
 - [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [piglig/pixiv-token](https://github.com/piglig/pixiv-token) - Playwright-based Pixiv OAuth code & token fetcher
@@ -6546,7 +6570,7 @@
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright and has an MCP server for AI agents.
 - [taizilongxu/stackoverflow_python](https://github.com/taizilongxu/stackoverflow_python) - stackoverflow上关于python的翻译
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
@@ -6876,7 +6900,7 @@
 ## rust 
 
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
@@ -6994,6 +7018,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
+- [LifeArchiveProject/HistoryHub](https://github.com/LifeArchiveProject/HistoryHub) - HistoryHub：个人多平台历史记录中心，Chrome 扩展连接本地或自托管后端，支持网页历史与 B 站观看记录。
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
@@ -7220,7 +7245,7 @@
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [skywind3000/zvi](https://github.com/skywind3000/zvi) - :rocket: Smallest Vi-clone Text Editor for Windows CLI and SSH session (only 62KB) !!
@@ -7250,7 +7275,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
@@ -7317,7 +7342,7 @@
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
