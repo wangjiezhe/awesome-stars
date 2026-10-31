@@ -727,6 +727,7 @@
 - [TLINDEN/novel-mode](https://github.com/TLINDEN/novel-mode) - Emacs Screen Reader
 - [ProofGeneral/PG](https://github.com/ProofGeneral/PG) - This repo is the new home of Proof General
 - [ocaml/tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
+- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
 - [redguardtoo/elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
 - [gongzhitaao/dotemacs](https://github.com/gongzhitaao/dotemacs) - My Emacs configuration
@@ -1049,7 +1050,6 @@
 - [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) - No Maintenance Intended
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
 - [lzjqsdd/scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn) - scikit-learn机器学习库中文文档翻译项目
 - [LinuxTOY/linuxtoy.org](https://github.com/LinuxTOY/linuxtoy.org) - Site source for linuxtoy.org.
@@ -1136,7 +1136,6 @@
 - [sojourners/public-Xiangqi](https://github.com/sojourners/public-Xiangqi) - A cross-platform chess interface program that supports uci and ucci protocol engines / 支持uci和ucci协议引擎的跨平台象棋界面程序
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management (OCI / AWS / GCP / Azure / DO / SolusVM /VirtFusion), with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegr
 - [serso/android-calculatorpp](https://github.com/serso/android-calculatorpp) - Android Calculator
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
 - [WaSuper/Mahjong](https://github.com/WaSuper/Mahjong) - 一个小小的日本麻将计分器
@@ -2658,7 +2657,7 @@
 - [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Str
 - [Alpha-VLLM/Lumina-Image-2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0) - Lumina-Image 2.0: A Unified and Efficient Image Generative Framework
 - [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) - Visual Causal Flow
 - [lattifai/omni-captions-skills](https://github.com/lattifai/omni-captions-skills) - Caption Skills
@@ -3793,6 +3792,7 @@
 
 - [shhivv/third-hand](https://github.com/shhivv/third-hand) - computer-use assistant w/ decision models
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
