@@ -568,6 +568,8 @@
 
 ## android 
 
+- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [George-Seven/Termux-Udocker](https://github.com/George-Seven/Termux-Udocker) - Run Docker images in Termux via Udocker. No root, no qemu-VM, much faster.
@@ -1090,7 +1092,7 @@
 
 ## chatgpt 
 
-- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年10月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
+- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年11月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -2165,6 +2167,7 @@
 
 ## flutter 
 
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [ycccccccy/wx_key](https://github.com/ycccccccy/wx_key) - 获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -2747,6 +2750,7 @@
 
 ## ios 
 
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
@@ -3484,6 +3488,7 @@
 
 ## macos 
 
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt) - A free photo editor. No account, no subscription, no tracking. RAW, masks and on-device AI for macOS, Windows and Linux. Self-hostable.
 - [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -3999,6 +4004,7 @@
 
 ## others 
 
+- [chinasoul/BT](https://github.com/chinasoul/BT) - bilibili TV client
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
 - [cjw1115/enable-chromium-dolbyvision-system-decoding](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding) - Enable system level decoding of Dolby Vision in Chromium
 - [programmerguohuajing/DiPlay-Legacy-Android](https://github.com/programmerguohuajing/DiPlay-Legacy-Android) - 基于 shihabal3amri/DiPlay 修改，面向低版本 Android 系统与老款 Android 车机兼容
@@ -7745,6 +7751,7 @@
 
 ## windows 
 
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 微信.skill: 让 AI 读懂你的微信
 - [AnonymousUser443/WeFlow-Community-Patch](https://github.com/AnonymousUser443/WeFlow-Community-Patch) - Community hotfix for WeFlow 5.0.0 export failures and private-chat export hang
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
