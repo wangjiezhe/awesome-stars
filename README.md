@@ -695,6 +695,7 @@
 
 ## Dart 
 
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -979,7 +980,6 @@
 - [PeterFeicht/cppreference-doc](https://github.com/PeterFeicht/cppreference-doc) - C++ standard library reference
 - [1692775560/deepseek_project](https://github.com/1692775560/deepseek_project) - Dee-seek_project
 - [ouomj/my-iptv](https://github.com/ouomj/my-iptv) - 用于个人托管自用直播源
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -1253,7 +1253,6 @@
 - [howmp/dsh-pentest](https://github.com/howmp/dsh-pentest) - 面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) - DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch co
-- [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
 - [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 - [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -1506,6 +1505,7 @@
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jinliming2/Chrome-Charset](https://github.com/jinliming2/Chrome-Charset) - An extension used to modify the page default encoding for Chromium 55+ based browsers.
 - [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
@@ -1871,6 +1871,7 @@
 
 ## MDX 
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [kxxoling/blog](https://github.com/kxxoling/blog) - 个人博客
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1968,6 +1969,8 @@
 
 ## Others 
 
+- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+- [chinasoul/BT](https://github.com/chinasoul/BT) - bilibili TV client
 - [cjw1115/enable-chromium-dolbyvision-system-decoding](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding) - Enable system level decoding of Dolby Vision in Chromium
 - [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
@@ -1990,7 +1993,7 @@
 - [Cuimao777/cuimao-translator](https://github.com/Cuimao777/cuimao-translator) - 一键将英文PDF翻译为流畅中文的Claude Code技能
 - [mahonzhan/awesome-agent-harness](https://github.com/mahonzhan/awesome-agent-harness) - A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols.
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
-- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年10月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
+- [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) - 2026年11月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro 2.1 Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
 - [karminski/miromind-skill](https://github.com/karminski/miromind-skill) - MiroMind Deep Research Skill
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -2861,7 +2864,7 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [Gsllchb/Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -3046,7 +3049,6 @@
 - [yufeikang/bcloud](https://github.com/yufeikang/bcloud) - 百度网盘的linux桌面客户端
 - [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [LenKiMo/byte-of-python](https://github.com/LenKiMo/byte-of-python) - 《简明 Python 教程》V4.0c 2017 译本 /A Byte of Python 2017 Simplified Chinese Translation Edition
@@ -3204,7 +3206,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 The best API for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright. Includes an MCP server for AI agents.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for Web Scraping, Browser Automation, and E2E Testing. CDP Mode bypasses bot-detection and handles CAPTCHAs. Adds stealth to Playwright. Includes an MCP server.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3970,6 +3972,7 @@
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, 
 - [saadk408/davinci-resolve-lua-mcp](https://github.com/saadk408/davinci-resolve-lua-mcp) - Control the free edition of DaVinci Resolve 21.1 from Claude through a Lua script that runs inside Resolve.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
+- [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
 - [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
