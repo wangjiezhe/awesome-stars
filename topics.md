@@ -15,6 +15,7 @@
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -447,6 +448,7 @@
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A smart AI telegram bot for searching and auto-saving.
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -652,6 +654,15 @@
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+## android-app 
+
+- [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
+- [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+- [k3b/ToGoZip](https://github.com/k3b/ToGoZip) - Android share/sendTo menu implementation "add2Zip"
+- [Glucosio/glucosio-android](https://github.com/Glucosio/glucosio-android) - Glucosio Android App
 
 ## angular 
 
@@ -1512,6 +1523,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 - [chyroc/WechatSogou](https://github.com/chyroc/WechatSogou) - 基于搜狗微信搜索的微信公众号爬虫接口
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
@@ -3353,6 +3365,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -6474,7 +6487,7 @@
 - [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) - A smart AI telegram bot for searching and auto-saving.
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -6598,7 +6611,7 @@
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [gautamkrishnar/socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client. Search and browse stack overflow without leaving the terminal :computer:
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 The best API for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright. Includes an MCP server for AI agents.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for Web Scraping, Browser Automation, and E2E Testing. CDP Mode bypasses bot-detection and handles CAPTCHAs. Adds stealth to Playwright. Includes an MCP server.
 - [taizilongxu/stackoverflow_python](https://github.com/taizilongxu/stackoverflow_python) - stackoverflow上关于python的翻译
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
