@@ -95,6 +95,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -964,6 +965,7 @@
 
 ## HTML 
 
+- [Deeyu/ai-costume-gallery-zh](https://github.com/Deeyu/ai-costume-gallery-zh) - AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,439 张、二次元 843 条目。面向 AI 绘画、角色设计与漫剧分镜，支持中文检索、多视角浏览、图片复制与下载。开源静态站点，保留原始来源及使用条件。
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
@@ -1243,6 +1245,11 @@
 
 ## JavaScript 
 
+- [wangweihong/comfyui-portrait-gallery](https://github.com/wangweihong/comfyui-portrait-gallery) - ComfyUI 本地中文人像图库节点：1499 张人像参考，完整 PNG 原图、发型筛选与 Qwen Image 2.1 人物换装示例
+- [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) - ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流
+- [wangweihong/comfyui-hairstyle-gallery](https://github.com/wangweihong/comfyui-hairstyle-gallery) - ComfyUI offline hairstyle gallery: 893 mannequin hair references, bilingual UI and Qwen Image 2.1 workflows
+- [wangweihong/comfyui-costume-gallery](https://github.com/wangweihong/comfyui-costume-gallery) - ComfyUI 中文服装图库节点：内置 1407 套服装原图与缩略图，支持搜索、分类和 Qwen Image 2.1 姿态换装流程
+- [suyuan2022/suyuan-skill](https://github.com/suyuan2022/suyuan-skill) - 夙愿反复打磨的精品 Skill
 - [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你
 - [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -2576,6 +2583,9 @@
 
 ## Python 
 
+- [wainshine/guangeti](https://github.com/wainshine/guangeti) - 館閣楷 GuanGe Kai：三套以明代寫本為字形來源的館閣體開源字體 GuanGe Kai（四書白文）、GuanGe Kai B（史記）、GuanGe Kai C（永樂大典）。
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
 - [egplnt/-student-study-framework](https://github.com/egplnt/-student-study-framework) - 一个可复用的学生学习框架 skill：扫盲点→搭桥方法论、每日五步闭环、本机出题/云端判读分离；含思路起源、前置依赖与效果边界。完全脱敏、CC BY-NC-SA 4.0。
 - [QwenLM/Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) - Qwen's most powerful open-source image generation model
@@ -2626,7 +2636,7 @@
 - [xunbu/docutranslate](https://github.com/xunbu/docutranslate) - 文档（小说、论文、字幕）翻译工具（支持 pdf/word/excel/json/epub/srt...）Document (Novel, Thesis, Subtitle) Translation Tool (Supports pdf/word/excel/json/epub/srt...)
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 - [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) - 在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档
-- [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。
+- [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于 AI 多模态翻译的工具，一键自动翻译 RPG/SLG 游戏、Epub/TXT 小说、PDF/Word/MD 文档、Srt/Ass/Vtt 字幕，以及漫画图片、音频与视频等内容。
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) - PDF2zh for Zotero | Zotero PDF中文翻译插件
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
@@ -2735,7 +2745,6 @@
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [pmanstet/clang_repl_kernel](https://github.com/pmanstet/clang_repl_kernel) - 
 - [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn) - A Tour of C++ (Second Edition) non-official Chinese Translation
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
@@ -3206,7 +3215,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for Web Scraping, Browser Automation, and E2E Testing. CDP Mode bypasses bot-detection and handles CAPTCHAs. Adds stealth to Playwright. Includes an MCP server.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation and testing without limits. SeleniumBase's CDP Mode bypasses bot-detection with ease. Check out the examples!
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3790,6 +3799,10 @@
 - [mickeyouyou/yinwang](https://github.com/mickeyouyou/yinwang) - Blog Theme For Hexo
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## Swift 
 
 - [shhivv/third-hand](https://github.com/shhivv/third-hand) - computer-use assistant w/ decision models
@@ -3978,7 +3991,7 @@
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics.
 - [cshdotcom/readest-lite](https://github.com/cshdotcom/readest-lite) - Single-container self-hostable Readest fork — SQLite + local FS, no Supabase, no paywall. Community: https://nodebyte.cn
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
