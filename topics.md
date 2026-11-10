@@ -579,6 +579,7 @@
 
 ## android 
 
+- [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
 - [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
@@ -640,7 +641,7 @@
 - [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - The top Internet companies android interview questions and answers.
 - [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
 - [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
-- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm | 贝塞尔曲线绘制与形成动画
+- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
 - [AloysHF/cnblogs](https://github.com/AloysHF/cnblogs) - 一些我在平时工作和学习中积累的编程相关的资源。如果大家有兴趣可以一起增加，修改。
@@ -692,7 +693,7 @@
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm | 贝塞尔曲线绘制与形成动画
+- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm
 - [linouk23/NBA-Player-Movements](https://github.com/linouk23/NBA-Player-Movements) - 🏀 Visualization of NBA games from raw SportVU data logs
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
@@ -870,6 +871,7 @@
 
 ## awesome-list 
 
+- [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -1860,7 +1862,7 @@
 
 ## discord 
 
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SL)、Telegram 与 Discord 等消息平台。
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
@@ -2841,7 +2843,7 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
 - [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
-- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm | 贝塞尔曲线绘制与形成动画
+- [venshine/BezierMaker](https://github.com/venshine/BezierMaker) - 🔥 Draws and animates Bézier curves of order 1-7 with the de Casteljau algorithm
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [wizardforcel/modern-java-zh](https://github.com/wizardforcel/modern-java-zh) - :book: 【译】Java 8 简明教程
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
@@ -3072,6 +3074,7 @@
 
 ## kotlin 
 
+- [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [ldlywt/IdeaMemo](https://github.com/ldlywt/IdeaMemo) - A Beautiful Memo App written with Jetpack Compose.        开源Android闪念笔记App。
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
@@ -3352,7 +3355,7 @@
 - [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) - Edit Banana: A framework for converting statistical formats into editable.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SL)、Telegram 与 Discord 等消息平台。
 - [wsmlby/homl](https://github.com/wsmlby/homl) - The easiest & fastest way to run LLMs in your home lab
 - [Chen-zexi/vllm-cli](https://github.com/Chen-zexi/vllm-cli) - A command-line interface tool for serving LLM using vLLM.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
@@ -3637,6 +3640,7 @@
 
 ## material-design 
 
+- [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.
 - [EAimTY/materiality-typecho-theme](https://github.com/EAimTY/materiality-typecho-theme) - 一款简洁并专注于显示文字内容的 Material Design 风格 Typecho 主题，基于 MDUI
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
@@ -4062,6 +4066,10 @@
 
 ## others 
 
+- [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
+- [q215613905/TVBoxOS](https://github.com/q215613905/TVBoxOS) - 
+- [takagen99/Box](https://github.com/takagen99/Box) - Experimental
+- [noimank/tvbox](https://github.com/noimank/tvbox) - 自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录，iptv直播
 - [wangweihong/comfyui-portrait-gallery](https://github.com/wangweihong/comfyui-portrait-gallery) - ComfyUI 本地中文人像图库节点：1499 张人像参考，完整 PNG 原图、发型筛选与 Qwen Image 2.1 人物换装示例
 - [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) - ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流
 - [wangweihong/comfyui-hairstyle-gallery](https://github.com/wangweihong/comfyui-hairstyle-gallery) - ComfyUI offline hairstyle gallery: 893 mannequin hair references, bilingual UI and Qwen Image 2.1 workflows
@@ -7291,7 +7299,7 @@
 
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SnowLuma)、Telegram 与 Discord 等消息平台。
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SL)、Telegram 与 Discord 等消息平台。
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
@@ -7378,7 +7386,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
