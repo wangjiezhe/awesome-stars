@@ -1252,7 +1252,6 @@
 - [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) - ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流
 - [wangweihong/comfyui-hairstyle-gallery](https://github.com/wangweihong/comfyui-hairstyle-gallery) - ComfyUI offline hairstyle gallery: 893 mannequin hair references, bilingual UI and Qwen Image 2.1 workflows
 - [wangweihong/comfyui-costume-gallery](https://github.com/wangweihong/comfyui-costume-gallery) - ComfyUI 中文服装图库节点：内置 1407 套服装原图与缩略图，支持搜索、分类和 Qwen Image 2.1 姿态换装流程
-- [suyuan2022/suyuan-skill](https://github.com/suyuan2022/suyuan-skill) - 夙愿反复打磨的精品 Skill
 - [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你
 - [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -2587,6 +2586,7 @@
 
 - [wszqkzqk/LinSYS2](https://github.com/wszqkzqk/LinSYS2) - Build, debug, and run Windows programs on Linux with the full MSYS2 ecosystem. No VM. No dual-boot. No containers.
 - [wainshine/guangeti](https://github.com/wainshine/guangeti) - 館閣楷 GuanGe Kai：三套以明代寫本為字形來源的館閣體開源字體 GuanGe Kai（四書白文）、GuanGe Kai B（史記）、GuanGe Kai C（永樂大典）。
+- [suyuan2022/suyuan-skill](https://github.com/suyuan2022/suyuan-skill) - 夙愿反复打磨的精品 Skill
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
@@ -2604,6 +2604,7 @@
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [frinkleko/AutoHajimiMosaic](https://github.com/frinkleko/AutoHajimiMosaic) - 一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
+- [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [Sussurrosfox/geometry-proof-visualizer](https://github.com/Sussurrosfox/geometry-proof-visualizer) - Kimi Code CLI skill: plane geometry proof step-by-step HTML visualizer (平面几何证明分步可视化)
 - [heubme2020/datasinking](https://github.com/heubme2020/datasinking) - Full-text financial reports (US, China, Japan, Korea, Taiwan) as clean Markdown — REST API + MCP server for LLMs, RAG and quant
@@ -2685,7 +2686,7 @@
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、OneBot (NapCat / LLOneBot / SL)、Telegram 与 Discord 等消息平台。
+- [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis) - ✨ AstrBot 群日常分析总结插件 —— 自动总结群聊提取有趣信息并生成精美海报或网页链接，还能制作群趣味连环漫画；自带管理后台，可查看运行链路、历史报告、异常日志和数据审计；支持 QQ 官方机器人、Telegram 与 Discord、OneBot v11 (NapCat / LLOneBot / SnowLuma) 等消息平台。
 - [suiginko/moetype](https://github.com/suiginko/moetype) - 基于萌娘百科词条的输入法词库
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -3667,7 +3668,7 @@
 - [gentoo/releng](https://github.com/gentoo/releng) - [MIRROR] Content related to production of releases
 - [xen0n/loongson-overlay](https://github.com/xen0n/loongson-overlay) - Support overlay for Gentoo/Loongson users
 - [blakeblackshear/frigate-hass-addons](https://github.com/blakeblackshear/frigate-hass-addons) - Frigate hass.io addons
-- [home-assistant/apps](https://github.com/home-assistant/apps) - :heavy_plus_sign: Docker add-ons for Home Assistant
+- [home-assistant/apps](https://github.com/home-assistant/apps) - :toolbox: The official Apps repository for Home Assistant
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [bugprogrammer/hackintosh](https://github.com/bugprogrammer/hackintosh) - 
@@ -3986,7 +3987,6 @@
 - [saadk408/davinci-resolve-lua-mcp](https://github.com/saadk408/davinci-resolve-lua-mcp) - Control the free edition of DaVinci Resolve 21.1 from Claude through a Lua script that runs inside Resolve.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
 - [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
-- [Lightricks/LTX-Desktop](https://github.com/Lightricks/LTX-Desktop) - An open-source desktop app for generating videos with LTX models
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -4069,7 +4069,7 @@
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 翻译特化的 AGENT Harness · 一键高质量翻译 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等 · 一键 · 高质量 · 全格式
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
