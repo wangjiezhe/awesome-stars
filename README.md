@@ -346,7 +346,7 @@
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [cqjjjzr/MusicBee-DesktopLyrics](https://github.com/cqjjjzr/MusicBee-DesktopLyrics) - Show the lyrics on your desktop from MusicBee!
-- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
+- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】
 - [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
@@ -1760,6 +1760,7 @@
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [elastic/examples](https://github.com/elastic/examples) - Home for Elasticsearch examples available to everyone. It's a great way to get started.
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+- [williamstein/rh](https://github.com/williamstein/rh) - Riemann Hypothesis book
 - [glouppe/tutorials-scikit-learn](https://github.com/glouppe/tutorials-scikit-learn) - Scikit-Learn tutorials
 - [amaboura/panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - Structured data about Panama papers collected from official ICIJ website
 - [ianozsvald/ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
@@ -2062,7 +2063,6 @@
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [Erich-Chen/Loongson-2f-Install-Debian](https://github.com/Erich-Chen/Loongson-2f-Install-Debian) - My experience to install Debian on loongson-2f
-- [wxflogic/logic_vsi](https://github.com/wxflogic/logic_vsi) - 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章）
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 - [shipujin/LFS-BOOK-loongson](https://github.com/shipujin/LFS-BOOK-loongson) - Compiles LFS on 3A3000 host to make a MIPS architecture for the normal operation of LFS OS, MIPS architecture.
 - [fanmingming/SW-Chinese-received-frequency](https://github.com/fanmingming/SW-Chinese-received-frequency) - 主流国际中文电台短波接收频率
@@ -2813,6 +2813,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
+- [wxflogic/logic_vsi](https://github.com/wxflogic/logic_vsi) - 牛津通识读本 Logic: A Very Short Introduction 新译本（补充了第2版新增的两章）
 - [itcharge/AlgoNote](https://github.com/itcharge/AlgoNote) - ⛽️「算法通关手册」：从零开始的「算法与数据结构」学习教程，200 道「算法面试热门题目」，1000+ 道「LeetCode 题目解析」，持续更新中！
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
@@ -3218,7 +3219,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for browser automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast Python framework for web crawling, testing, scraping, and reporting. Supports pytest. Bypasses bot-detection with UC / CDP Mode or Stealthy Playwright Mode.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3958,7 +3959,6 @@
 - [haifengl/bigdata](https://github.com/haifengl/bigdata) - Introduction to Big Data
 - [ds26gte/tyscheme](https://github.com/ds26gte/tyscheme) - 
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
-- [williamstein/rh](https://github.com/williamstein/rh) - Riemann Hypothesis book
 - [ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer) - USTC Beamer 模板（基于学校公用 PPT 模板）
 - [jks-liu/R6RS.zh-cn](https://github.com/jks-liu/R6RS.zh-cn) - R6RS 简体中文翻译
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) - 《如何使用 LaTeX 排版论文》讲稿
@@ -4069,7 +4069,7 @@
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME 等 · 一键 · 高质量 · 全格式
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 音频 视频 游戏 电子书 · PDF EPUB RPG ASMR GALGAME · 一键 · 高质量 · 全格式
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
@@ -4222,7 +4222,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
