@@ -967,6 +967,7 @@
 ## HTML 
 
 - [Deeyu/ai-costume-gallery-zh](https://github.com/Deeyu/ai-costume-gallery-zh) - AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,439 张、二次元 843 条目。面向 AI 绘画、角色设计与漫剧分镜，支持中文检索、多视角浏览、图片复制与下载。开源静态站点，保留原始来源及使用条件。
+- [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
@@ -1150,7 +1151,7 @@
 - [leegggg/sissy-univ-android](https://github.com/leegggg/sissy-univ-android) - 
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [fishand73/ImageConverter](https://github.com/fishand73/ImageConverter) - 一个图片转换器，可以把任意两张图片转换成一张黑白的png图片，该png图片在白色背景和黑色背景下呈现不同的形态
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+- [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 - [williamfiset/algorithms](https://github.com/williamfiset/algorithms) - A collection of algorithms and data structures
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
@@ -1982,7 +1983,6 @@
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 - [chinasoul/BT](https://github.com/chinasoul/BT) - bilibili TV client
 - [cjw1115/enable-chromium-dolbyvision-system-decoding](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding) - Enable system level decoding of Dolby Vision in Chromium
-- [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 - [lxgw/LxgwSeal](https://github.com/lxgw/LxgwSeal) - An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 Small Seal characters.
 - [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers) - 蓝色大肥鱼：AI 娘二创表情包开放档案，支持按角色浏览、模糊搜索、原图下载与 GitHub Issue 投稿。
@@ -3835,7 +3835,7 @@
 - [WangWeiqiao78/serre-mordell-weil-zh](https://github.com/WangWeiqiao78/serre-mordell-weil-zh) - Jean-Pierre Serre《Lectures on the Mordell-Weil Theorem》中文翻译
 - [al-ma-dev/tkz-euclide](https://github.com/al-ma-dev/tkz-euclide) - Euclidean geometry macros for TikZ and LaTeX
 - [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing (accessible) presentations
-- [fenglielie/latexzero](https://github.com/fenglielie/latexzero) - LaTeX Templates for Mathematical Notes and Slides
+- [shunnli/latexzero](https://github.com/shunnli/latexzero) - LaTeX Templates for Mathematical Notes and Slides
 - [zongpingding/zTeX_bundle](https://github.com/zongpingding/zTeX_bundle) - A LaTeX bundle for writing notes, books, and slides — with support for diagrams and interactive work with Python, gnuplot and Mathematica. Have fun!
 - [stevenliuyi/latex-alpha2](https://github.com/stevenliuyi/latex-alpha2) - LaTeX package that embeds and executes Wolfram Language (Mathematica) codes inside LaTeX documents
 - [Akollek/LaTeX-Alpha](https://github.com/Akollek/LaTeX-Alpha) - Package to use Wolfram Language in your LaTeX documents
@@ -4016,7 +4016,7 @@
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [chenz24/rename.tools](https://github.com/chenz24/rename.tools) - Rename thousands of files, right in your browser.
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-- [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
+- [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Made by Kendall Booker
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
