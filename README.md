@@ -343,7 +343,7 @@
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+- [woijfwefw/Tai](https://github.com/woijfwefw/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [cqjjjzr/MusicBee-DesktopLyrics](https://github.com/cqjjjzr/MusicBee-DesktopLyrics) - Show the lyrics on your desktop from MusicBee!
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】
 - [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
@@ -966,6 +966,7 @@
 
 ## HTML 
 
+- [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
 - [Deeyu/ai-costume-gallery-zh](https://github.com/Deeyu/ai-costume-gallery-zh) - AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,439 张、二次元 843 条目。面向 AI 绘画、角色设计与漫剧分镜，支持中文检索、多视角浏览、图片复制与下载。开源静态站点，保留原始来源及使用条件。
 - [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
@@ -1539,7 +1540,7 @@
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [Aaaaaaaty/blog](https://github.com/Aaaaaaaty/blog) - 趁还能折腾的时候多读书——前端何时是个头
 - [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI
 - [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [esterTion/Youku-HTML5-Player](https://github.com/esterTion/Youku-HTML5-Player) - 一个适配优酷的简单易用的HTML5播放器
 - [nolanlawson/optimize-js](https://github.com/nolanlawson/optimize-js) - Optimize a JS file for faster parsing (UNMAINTAINED)
@@ -2588,6 +2589,8 @@
 
 ## Python 
 
+- [Timmes123/ha-bambu-filaments](https://github.com/Timmes123/ha-bambu-filaments) - Home Assistant integration for the Bambu Lab cloud filament library (Filament Manager)
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [alexdelprete/ha-db-universal-migrator](https://github.com/alexdelprete/ha-db-universal-migrator) - Migrate the Home Assistant recorder database between SQLite, MariaDB, MySQL and PostgreSQL — any direction, full history, schema generated from the installed HA models
 - [sususweet/midea_auto_cloud](https://github.com/sususweet/midea_auto_cloud) - Control Midea devices via Cloud from Home Assistant
 - [Cyborg2017/midea_smart_home](https://github.com/Cyborg2017/midea_smart_home) - 美的智能设备（本地+云端混合模式）接入home assistant，支持: 空调、油烟机、热水器、冰箱、洗碗机、洗衣机、空气净化器、风扇、扫地机器人等39种品类设备
@@ -2602,7 +2605,7 @@
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
 - [egplnt/-student-study-framework](https://github.com/egplnt/-student-study-framework) - 一个可复用的学生学习框架 skill：扫盲点→搭桥方法论、每日五步闭环、本机出题/云端判读分离；含思路起源、前置依赖与效果边界。完全脱敏、CC BY-NC-SA 4.0。
 - [QwenLM/Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) - Qwen's most powerful open-source image generation model
-- [deusyu/translate-book](https://github.com/deusyu/translate-book) - Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
+- [deusyu/translate-book](https://github.com/deusyu/translate-book) - An Agent Skill for Claude Code, Codex, Cursor, OpenClaw and other Agent Skills–compatible agents that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
 - [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate) - A Multilingual, Multimodal Translation Model Family
 - [Songssx/ComfyUI-MiniMaxH3-TimelineDirector](https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector) - Editable reference-media timeline director for ComfyUI MiniMax H3 Reference to Video
 - [isichan-ai/ComfyUI-Bonsai-Bridge](https://github.com/isichan-ai/ComfyUI-Bonsai-Bridge) - Use Ternary Bonsai-2 (PQ2_0) and other llama.cpp vision models from ComfyUI's Ollama nodes
@@ -4082,7 +4085,7 @@
 - [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) - HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [HybridTalentComputing/cline-chinese](https://github.com/HybridTalentComputing/cline-chinese) - Cline中文汉化版，Cline是一款在您的 IDE 中运行的自主编程助手，经您许可后可以创建/编辑文件、运行命令、使用浏览器等功能。
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
-- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 漫画 游戏 音视频 电子书 · PDF EPUB RPG ASMR GALGAME · 一键 · 高质量 · 全格式
+- [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha) - 全能翻译 AGENT Harness · 漫画 游戏 音视频 电子书 · PDF EPUB ASMR MANGA COMIC RPGGAME GALGAME · 一键 · 高质量 · 全格式
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk) - This is an LLM-based code reader.
