@@ -207,6 +207,7 @@
 - [gurnec/HashCheck](https://github.com/gurnec/HashCheck) - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 - [LingDong-/magic-square-poems](https://github.com/LingDong-/magic-square-poems) - Discovering magic squares in Tang Dynasty poems
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.
 - [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu  KVM(Kernel Virtual Machine)学习笔记
 - [huazhuangnan/actions-build-padavan-openwrt](https://github.com/huazhuangnan/actions-build-padavan-openwrt) - GitHub Action 学习实例 - 自动编译 padavan 和 openWrt
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -697,7 +698,6 @@
 ## Dart 
 
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -865,6 +865,7 @@
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) - 三网回程路由测试
 - [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 - [MkvAutoSubset/MkvAutoSubset](https://github.com/MkvAutoSubset/MkvAutoSubset) - ASS字幕字体子集化 ASS转PGS MKV批量提取/生成
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
@@ -969,6 +970,7 @@
 - [WolfwithSword/Bambu-HomeAssistant-Flows](https://github.com/WolfwithSword/Bambu-HomeAssistant-Flows) - A collection of HomeAssistant Dashboards and NodeRed Flows with a configurator to connect a BambuLabs printer to HomeAssistant through MQTT - based off of my Gists
 - [Deeyu/ai-costume-gallery-zh](https://github.com/Deeyu/ai-costume-gallery-zh) - AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸型 1,499 张、姿势线稿与深度图各 1,439 张、二次元 843 条目。面向 AI 绘画、角色设计与漫剧分镜，支持中文检索、多视角浏览、图片复制与下载。开源静态站点，保留原始来源及使用条件。
 - [BedtimeNewsStudio/BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) - 睡前消息编辑部 | 马前卒工作室 | 视频节目文稿 | 睡前消息 | 参考信息 | 高见 | 讲点黑话 | 产经破壁机
+- [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 微信.skill: 让 AI 读懂你的微信
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
@@ -1019,7 +1021,7 @@
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [fxxkmakeding-archieve/fxxkmakeding](https://github.com/fxxkmakeding-archieve/fxxkmakeding) - 
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
-- [huhai463127310/webchart](https://github.com/huhai463127310/webchart) - 在线代码绘制流程图、时序图
+- [4reallab/webchart](https://github.com/4reallab/webchart) - 在线代码绘制流程图、时序图
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [kmicinski/program-analysis](https://github.com/kmicinski/program-analysis) - Program analysis grad seminar at SU (2019)
 - [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
@@ -1248,8 +1250,11 @@
 
 ## JavaScript 
 
+- [isilcala/Navio-Chron-Firmware](https://github.com/isilcala/Navio-Chron-Firmware) - 
+- [tjsky/idm-smart-controller](https://github.com/tjsky/idm-smart-controller) - Chrome/Edge扩展：监控特定标签页并自动启停 IDM，支持快捷键与状态指示
 - [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）
 - [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) - 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.
+- [atuizz/posewear](https://github.com/atuizz/posewear) - 姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on
 - [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [wangweihong/comfyui-portrait-gallery](https://github.com/wangweihong/comfyui-portrait-gallery) - ComfyUI 本地中文人像图库节点：1499 张人像参考，完整 PNG 原图、发型筛选与 Qwen Image 2.1 人物换装示例
 - [wangweihong/comfyui-pose-gallery](https://github.com/wangweihong/comfyui-pose-gallery) - ComfyUI 中文人体姿势图库节点，支持多视角浏览与 Depth Anything → MOSS SFT 深度控制工作流
@@ -1257,7 +1262,7 @@
 - [wangweihong/comfyui-costume-gallery](https://github.com/wangweihong/comfyui-costume-gallery) - ComfyUI 中文服装图库节点：内置 1407 套服装原图与缩略图，支持搜索、分类和 Qwen Image 2.1 姿态换装流程
 - [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你
 - [liyupi/dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comme
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [awesome-dsh-plugin/dsh-find-plugin](https://github.com/awesome-dsh-plugin/dsh-find-plugin) - Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
@@ -1808,6 +1813,7 @@
 - [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
@@ -1973,7 +1979,6 @@
 
 - [DaidoujiChen/Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai) - 一個普通的看漫畫 App
 - [kayanouriko/E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer) - 一个E-Hentai的iOS端阅读器
-- [JohnCremona/ecdata](https://github.com/JohnCremona/ecdata) - Data files containing the Cremona Database of all elliptic curves over Q of bounded conductor: see also http://www.lmfdb.org/EllipticCurve/Q .  For a description of how most of the data here was compu
 - [LiteAVSDK/Player_iOS](https://github.com/LiteAVSDK/Player_iOS) - Super player for iOS...
 - [100apps/openshare](https://github.com/100apps/openshare) - 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。
 - [CoderZhuXH/XHPayKit](https://github.com/CoderZhuXH/XHPayKit) - 🔥不用官方SDK实现微信支付、支付宝支付
@@ -1987,7 +1992,7 @@
 - [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
 - [noimank/tvbox](https://github.com/noimank/tvbox) - 自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录，iptv直播
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-- [chinasoul/BT](https://github.com/chinasoul/BT) - bilibili TV client
+- [chinasoul/BT](https://github.com/chinasoul/BT) - 
 - [cjw1115/enable-chromium-dolbyvision-system-decoding](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding) - Enable system level decoding of Dolby Vision in Chromium
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 - [lxgw/LxgwSeal](https://github.com/lxgw/LxgwSeal) - An open-source Small Seal Script (Xiaozhuan) font, compatible with Unicode 18.0 Small Seal characters.
@@ -2473,9 +2478,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [lvzongting/loongson-parabola](https://github.com/lvzongting/loongson-parabola) - parabola for loongson some note
 - [codeinthedark/awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
-- [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
-- [swcarpentry/sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey) - Databases and SQL
-- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [tvvocold/free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh) - 国内免费开发工具/服务清单
@@ -2589,13 +2591,15 @@
 
 ## Python 
 
+- [duanyudan86/ha-oneconnect-bridge](https://github.com/duanyudan86/ha-oneconnect-bridge) - Home Assistant 自定义集成：通过模拟华为 OneConnect 网关，将 HA 中的设备映射为华为智慧生活中的虚拟设备，支持状态同步和双向控制。
+- [duanyudan86/ha-huawei-smarthome](https://github.com/duanyudan86/ha-huawei-smarthome) - Home Assistant 华为智慧生活自定义集成：通过华为云和 MQTT 接入已适配设备，提供状态同步、设备控制与自动化能力。
+- [Cityforest2000/Navio-Chron](https://github.com/Cityforest2000/Navio-Chron) - 
 - [Timmes123/ha-bambu-filaments](https://github.com/Timmes123/ha-bambu-filaments) - Home Assistant integration for the Bambu Lab cloud filament library (Filament Manager)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [alexdelprete/ha-db-universal-migrator](https://github.com/alexdelprete/ha-db-universal-migrator) - Migrate the Home Assistant recorder database between SQLite, MariaDB, MySQL and PostgreSQL — any direction, full history, schema generated from the installed HA models
 - [sususweet/midea_auto_cloud](https://github.com/sususweet/midea_auto_cloud) - Control Midea devices via Cloud from Home Assistant
 - [Cyborg2017/midea_smart_home](https://github.com/Cyborg2017/midea_smart_home) - 美的智能设备（本地+云端混合模式）接入home assistant，支持: 空调、油烟机、热水器、冰箱、洗碗机、洗衣机、空气净化器、风扇、扫地机器人等39种品类设备
 - [wuwentao/midea-lan](https://github.com/wuwentao/midea-lan) - Control your Midea M-Smart appliances via LAN.
-- [atuizz/posewear](https://github.com/atuizz/posewear) - 姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on
 - [chenshuhe/xiaoai-ha-bridge](https://github.com/chenshuhe/xiaoai-ha-bridge) - 让小米小爱智能音箱通过语音控制 Home Assistant 中的设备
 - [wszqkzqk/LinSYS2](https://github.com/wszqkzqk/LinSYS2) - Build, debug, and run Windows programs on Linux with the full MSYS2 ecosystem. No VM. No dual-boot. No containers.
 - [wainshine/guangeti](https://github.com/wainshine/guangeti) - 館閣楷 GuanGe Kai：三套以明代寫本為字形來源的館閣體開源字體 GuanGe Kai（四書白文）、GuanGe Kai B（史記）、GuanGe Kai C（永樂大典）。
@@ -2714,7 +2718,6 @@
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [bailaohe/mcp_tianditu](https://github.com/bailaohe/mcp_tianditu) - 天地图MCP服务
 - [andreas128/RePaint](https://github.com/andreas128/RePaint) - Official PyTorch Code and Models of "RePaint: Inpainting using Denoising Diffusion Probabilistic Models", CVPR 2022
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
@@ -3234,7 +3237,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast and reliable browser automation for e2e testing, scraping, and stealth. Bypasses bot-detection with CDP Mode. Has integrations for pytest, Playwright, and MCP.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase browser automation handles E2E testing, web scraping, and stealth. CDP Mode bypasses bot-detection. Lots of integrations.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3508,7 +3511,6 @@
 ## Rust 
 
 - [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player
-- [chengmarc/wechat-to-ai](https://github.com/chengmarc/wechat-to-ai) - 微信.skill: 让 AI 读懂你的微信
 - [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent extendable by neovim-like Lua plugins
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
@@ -3516,7 +3518,7 @@
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple d
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch) - license patcher for davinci resolve studio
@@ -3792,6 +3794,9 @@
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
 - [texmacs/texmacs-doc-chinese-translation](https://github.com/texmacs/texmacs-doc-chinese-translation) - TeXmacs文档翻译
+- [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
+- [swcarpentry/sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey) - Databases and SQL
+- [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice) - Version Control with Git
 - [swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
@@ -3824,7 +3829,6 @@
 
 - [shhivv/third-hand](https://github.com/shhivv/third-hand) - computer-use assistant w/ decision models
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [nimomeng/30-swift-projects-in-30-days](https://github.com/nimomeng/30-swift-projects-in-30-days) - This is the demos to show 30 demos finishes in 30 days (or more)
@@ -4000,7 +4004,7 @@
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) - 让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - A context insight plugin officially recommended by DeepSeek Harness, for context composition, evolution and Multi-Agent details. DeepSeek Harness官方推荐的上下文洞察插件，透视上下文组成与演进，以及多Agent 协作与通讯。
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - DeepSeek Harness officially recommended - a context insight plugin, for context composition, evolution and Multi-Agent collaboration. DeepSeek Harness官方推荐的上下文洞察插件，透视上下文组成与演进，以及多Agent 协作与通讯。
 - [saadk408/davinci-resolve-lua-mcp](https://github.com/saadk408/davinci-resolve-lua-mcp) - Control the free edition of DaVinci Resolve 21.1 from Claude through a Lua script that runs inside Resolve.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
 - [DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) - MCP server for Bambu Lab 3D printers — STL manipulation, BambuStudio  or FULU/orca slicing, Blender MCP integration, and direct printer control
@@ -4068,6 +4072,7 @@
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks & LLM
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti
 - [pengzhanbo/caniuse-embed](https://github.com/pengzhanbo/caniuse-embed) - Embed the CanIUse compatibility table in your site
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [kazu-ux/PixivFilter](https://github.com/kazu-ux/PixivFilter) - PixivでNG登録したユーザーやタグの作品を非表示にします。
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [magic-akari/lrc-maker](https://github.com/magic-akari/lrc-maker) - 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
@@ -4342,7 +4347,6 @@
 - [nwtgck/piping-ui-web](https://github.com/nwtgck/piping-ui-web) - Easy and secure file transfer between every device over HTTPS with/without E2E encryption by ECDH and OpenPGP
 - [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [NeverBehave/Motivation](https://github.com/NeverBehave/Motivation) - ⏲️ Countdown that terrifyingly shows your age
@@ -4354,6 +4358,7 @@
 ## Wolfram Language 
 
 - [TheBloodthirster/BUAA_Course_Sharing](https://github.com/TheBloodthirster/BUAA_Course_Sharing) - 北京航空航天大学(北航)课程作业资料共享计划
+- [JohnCremona/ecdata](https://github.com/JohnCremona/ecdata) - Data files containing the Cremona Database of all elliptic curves over Q of bounded conductor: see also http://www.lmfdb.org/EllipticCurve/Q .  For a description of how most of the data here was compu
 
 ## XML 
 
