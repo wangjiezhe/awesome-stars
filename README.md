@@ -835,7 +835,7 @@
 ## Go 
 
 - [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- [yetone/magpie](https://github.com/yetone/magpie) - Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.
 - [IzumiRain/HyperDNS](https://github.com/IzumiRain/HyperDNS) - ⚡ Next-Gen Standalone SmartDNS & Ultra-Low Latency Gaming Gateway in Go · Anti-Sanction 403 Bypass, Multi-Port SNI Proxy, Cyberpunk Web UI & TUI Controller
 - [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
@@ -865,7 +865,7 @@
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) - 三网回程路由测试
 - [linux-do/override](https://github.com/linux-do/override) - 啥也不是
 - [MkvAutoSubset/MkvAutoSubset](https://github.com/MkvAutoSubset/MkvAutoSubset) - ASS字幕字体子集化 ASS转PGS MKV批量提取/生成
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, HlS(m3u8), FTP and ed2k. Cross-platform, built with Golang and Flutter.
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
@@ -2605,7 +2605,7 @@
 - [wainshine/guangeti](https://github.com/wainshine/guangeti) - 館閣楷 GuanGe Kai：三套以明代寫本為字形來源的館閣體開源字體 GuanGe Kai（四書白文）、GuanGe Kai B（史記）、GuanGe Kai C（永樂大典）。
 - [suyuan2022/suyuan-skill](https://github.com/suyuan2022/suyuan-skill) - 夙愿反复打磨的精品 Skill
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 11 学科知识图谱查漏补缺：4,221 个知识点、6,681 条先修关系、17,031 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
 - [egplnt/-student-study-framework](https://github.com/egplnt/-student-study-framework) - 一个可复用的学生学习框架 skill：扫盲点→搭桥方法论、每日五步闭环、本机出题/云端判读分离；含思路起源、前置依赖与效果边界。完全脱敏、CC BY-NC-SA 4.0。
 - [QwenLM/Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) - Qwen's most powerful open-source image generation model
@@ -2727,7 +2727,6 @@
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux) - OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content 
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
@@ -2891,7 +2890,7 @@
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [Gsllchb/Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - MDC - The AI local media metadata crawler
 - [jeanslack/FFcuesplitter](https://github.com/jeanslack/FFcuesplitter) - FFmpeg based audio splitter for CDDA images associated with .cue files
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -3237,7 +3236,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase browser automation handles E2E testing, web scraping, and stealth. CDP Mode bypasses bot-detection. Lots of integrations.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A modern framework for E2E testing, web scraping, and CAPTCHA-bypass.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3854,7 +3853,7 @@
 - [al-ma-dev/tkz-euclide](https://github.com/al-ma-dev/tkz-euclide) - Euclidean geometry macros for TikZ and LaTeX
 - [josephwright/ltx-talk](https://github.com/josephwright/ltx-talk) - A LaTeX class for producing (accessible) presentations
 - [shunnli/latexzero](https://github.com/shunnli/latexzero) - LaTeX Templates for Mathematical Notes and Slides
-- [zongpingding/zTeX_bundle](https://github.com/zongpingding/zTeX_bundle) - A LaTeX bundle for writing notes, books, and slides — with support for diagrams and interactive work with Python, gnuplot and Mathematica. Have fun!
+- [zongpingding/zTeX_bundle](https://github.com/zongpingding/zTeX_bundle) - An experimental layer built on top of latex2e & expl3 kernel. Some wrapper & extensions for TikZ.
 - [stevenliuyi/latex-alpha2](https://github.com/stevenliuyi/latex-alpha2) - LaTeX package that embeds and executes Wolfram Language (Mathematica) codes inside LaTeX documents
 - [Akollek/LaTeX-Alpha](https://github.com/Akollek/LaTeX-Alpha) - Package to use Wolfram Language in your LaTeX documents
 - [zhxke/zhmathsymb](https://github.com/zhxke/zhmathsymb) - 
@@ -4083,6 +4082,7 @@
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
 - [zimya/zhihu_obsidian](https://github.com/zimya/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 - [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, web search, MCP & smart alerts.🎯 告别信息过载，你的 AI     舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅 + 定时联网搜索，支持关键词与 AI 智能筛选。AI 翻译 + AI 分析简报
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
