@@ -1373,7 +1373,6 @@
 - [ncccode/echo](https://github.com/ncccode/echo) - 一套基于layui框架的Typecho主题Echo
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [parpalak/upmath.me](https://github.com/parpalak/upmath.me) - Markdown and LaTeX online editor - create text for web with equations and diagrams
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [dmsm/scissors-congruence](https://github.com/dmsm/scissors-congruence) - An interactive demonstration of the Wallace–Bolyai–Gerwien theorem.
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
@@ -2591,6 +2590,7 @@
 
 ## Python 
 
+- [acon96/home-llm](https://github.com/acon96/home-llm) - A Home Assistant integration & Model to control your smart home using a Local LLM
 - [duanyudan86/ha-oneconnect-bridge](https://github.com/duanyudan86/ha-oneconnect-bridge) - Home Assistant 自定义集成：通过模拟华为 OneConnect 网关，将 HA 中的设备映射为华为智慧生活中的虚拟设备，支持状态同步和双向控制。
 - [duanyudan86/ha-huawei-smarthome](https://github.com/duanyudan86/ha-huawei-smarthome) - Home Assistant 华为智慧生活自定义集成：通过华为云和 MQTT 接入已适配设备，提供状态同步、设备控制与自动化能力。
 - [Cityforest2000/Navio-Chron](https://github.com/Cityforest2000/Navio-Chron) - 
@@ -2605,7 +2605,7 @@
 - [wainshine/guangeti](https://github.com/wainshine/guangeti) - 館閣楷 GuanGe Kai：三套以明代寫本為字形來源的館閣體開源字體 GuanGe Kai（四書白文）、GuanGe Kai B（史記）、GuanGe Kai C（永樂大典）。
 - [suyuan2022/suyuan-skill](https://github.com/suyuan2022/suyuan-skill) - 夙愿反复打磨的精品 Skill
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 11 学科知识图谱查漏补缺：4,221 个知识点、6,681 条先修关系、17,031 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 11 学科知识图谱数据集（JSON）：4,231 知识点、6,700 条先修关系、17,092 道题；对齐国家课程标准与人教版/统编版教材，含沪教版等版本映射。CC BY-NC 4.0。
 - [Laide140/CRTrainRoute](https://github.com/Laide140/CRTrainRoute) - 中国铁路列车算路器
 - [egplnt/-student-study-framework](https://github.com/egplnt/-student-study-framework) - 一个可复用的学生学习框架 skill：扫盲点→搭桥方法论、每日五步闭环、本机出题/云端判读分离；含思路起源、前置依赖与效果边界。完全脱敏、CC BY-NC-SA 4.0。
 - [QwenLM/Qwen-Image-2.1](https://github.com/QwenLM/Qwen-Image-2.1) - Qwen's most powerful open-source image generation model
@@ -3236,7 +3236,7 @@
 - [kvesteri/sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [palantir/sqlite3worker](https://github.com/palantir/sqlite3worker) - A threadsafe sqlite worker for Python
 - [python-hyper/hyper](https://github.com/python-hyper/hyper) - HTTP/2 for Python.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A modern framework for E2E testing, web scraping, and CAPTCHA-bypass.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a modern framework for E2E testing, web scraping, and CAPTCHA-bypass.
 - [thombashi/DateTimeRange](https://github.com/thombashi/DateTimeRange) - DateTimeRange is a Python library to handle a time range. e.g. check whether a time is within the time range, get the intersection of time ranges, truncate a time range, iterate through a time range, 
 - [lqez/django-summernote](https://github.com/lqez/django-summernote) - Simply integrate Summernote editor with Django project.
 - [thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python) - An Efficient Lexical Analyzer for Chinese
@@ -3811,7 +3811,7 @@
 - [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Stylus 
 
@@ -4171,6 +4171,7 @@
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [clansty/Q2TG](https://github.com/clansty/Q2TG) - QQ 与 Telegram 群相互转发的 bot
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
